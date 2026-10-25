@@ -1,8 +1,0 @@
-id,state,state_abb,state_id,county,county_id,operator,ref,name,sqft,lon,lat,type,state_fips,county_code,county_fips
-00122665255,Connecticut,CT,09,Greater Bridgeport Planning Region,120,Digital Realty,HVN10,Digital Realty New York HVN10,134982.0,-73.14729941546844,41.24084597137587,building,09,120,09120
-00365941471,Puerto Rico,PR,72,San Juan Municipio,127,Claro,,,23137.0,-66.0516872147712,18.446826968330527,building,72,127,72127
-00571010571,Connecticut,CT,09,Western Connecticut Planning Region,190,CyrusOne,,CyrusOne Norwalk,77778.0,-73.38864944847491,41.11309235035119,building,09,190,09190
-00878795698,Connecticut,CT,09,Western Connecticut Planning Region,190,,,amnet Data Center,10526.0,-73.51671558521066,41.09183280598617,building,09,190,09190
-00959969621,Connecticut,CT,09,South Central Connecticut Planning Region,170,,,,53967.0,-72.80100588134881,41.47880657858901,building,09,170,09170
-08767284091,Connecticut,CT,09,Capitol Planning Region,110,,,Ergonomic Group,,-72.5898636,41.7070776,point,09,110,09110
-10014176940,Puerto Rico,PR,72,Guaynabo Municipio,061,Microsoft,,Microsoft,,-66.10898950000002,18.41743590000001,point,72,061,72061
