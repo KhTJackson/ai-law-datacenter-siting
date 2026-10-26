@@ -1,23 +1,31 @@
-# Modeling pipeline (steps 04–10)
+# AI Regulation and Data Center Siting
 
-Steps 01–03 build `processed/stage2_clean_join/master_county_clean.csv`. Steps 04–10 turn it into the
-model table, the models, the report figures and dashboard files. Each step is an executed notebook (`.ipynb`) of the same name beside it. Shared paths, feature
-lists, preprocessing and cross validation splits live in `pipeline_config.py`.
+Do state AI laws affect where data centers get built? 
 
-| Step | What it does | Writes | Time |
-|---|---|---|---|
-| `04_policy_features` | NCSL bills → nine state AI-policy features, adds Census division & population, builds county model table | `processed/stage3_model_table/` | seconds |
-| `05_supervised` | Four model families × three feature sets, nested cross validation grouped by state (5 folds × 3 seeds), calibrated out of fold probabilities, paired policy test | `processed/stage4_supervised/` | ~9 min |
-| `06_feature_insight` | SHAP, group ablation, state shuffle permutation test (100 shuffles), sensitivity checks, hyperparameter grid, failure analysis | `processed/stage4_supervised/` | ~4 min |
-| `07_pnnl_benchmark` | Comparison with the PNNL IM3 projected sites (moderate growth, 50% market gravity) | `processed/stage6_pnnl/` | seconds |
-| `08_unsupervised` | K-means archetypes (K = 3), Gaussian mixture sweep, assignment uncertainty, policy augmented clustering | `processed/stage5_unsupervised/` | seconds |
-| `09_report_figures` | Report figures (Altair → PNG) | `processed/figures/` | under a minute |
-| `10_dashboard_export` | Files for dashboard repo | `processed/model_outputs/` | seconds |
+This project combines county-level siting factors (electricity prices, land values, taxes, cooling needs, distance to substations) with existing and projected data center locations and every state AI bill tracked by NCSL from 2019 to 2025. We use supervised models to test whether a state’s AI policy helps predict which counties have data centers, beyond infrastructure and geography. Clustering groups counties into siting archetypes, and we compare our predictions with PNNL’s projected sites. Results are can be viewed in the form of a dashboard [here](www.dashboard.github.io).
 
-- Step 04 downloads two public Census files into `raw data/census/` on its first run (git-ignored).
-- `fold_models.pkl` is git-ignored, so run step 05 before step 06.
-- Tested with Python 3.13, pandas 3.0, numpy 2.5, scikit-learn 1.9, imbalanced-learn 0.14, xgboost 3.4,
-  shap 0.54, scipy 1.18, geopandas 1.2, altair 6.3, vl-convert-python 1.9, jupytext 1.19.
+## Folders
 
-## Dashboard
+- `scripts/`: the main notebooks, run in number order
+- `data/cerf_siting/`: CERF siting rasters and all pipeline outputs (`output/`)
+- `data/im3/`: IM3 data center atlas and growth projections
+- `data/ncsl_ai/`: NCSL AI legislation: scraped pages, notebooks, bill tables
+- `data/census/`: Census files, downloaded automatically by step 05
 
+## How to run
+
+The data-prep steps are slow, and their outputs are already saved in the repo, so you can start at step 05.
+
+1. Clone the repo.
+2. *Optional: rebuild the data from scratch.* This takes a long time. Download the CERF rasters from MSD-LIVE into data/cerf_siting/raw_data/, then run notebook 01.
+3. Run the notebooks in `scripts/` in order, 05 through 11.
+
+Notebooks 05–11 need `scripts/pipeline_config.py`.
+
+`03_*` and `04_*` in `scripts/` are older drafts and aren't part of the pipeline.
+
+## Data sources
+- [CERF-DC siting rasters](https://doi.org/10.57931/3006807) (MSD-LIVE)
+- [IM3 Data Center Atlas and projections](https://im3.pnnl.gov/datacenter-atlas) (PNNL)
+- [NCSL AI legislation database](https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation), 2019–2025
+- U.S. Census Bureau: [county population estimates](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv) and [county boundaries](https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip)
