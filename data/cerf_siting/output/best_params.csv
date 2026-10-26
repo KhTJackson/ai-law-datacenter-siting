@@ -1,0 +1,181 @@
+seed,fold,set,model,inner_pr_auc,C,n_neighbors,weights,max_depth,min_samples_leaf,learning_rate,n_estimators
+0,0,Infrastructure,Logistic regression,0.34349472791032226,10.0,,,,,,
+0,0,Infrastructure,k-nearest neighbors,0.26687819279480024,,100.0,distance,,,,
+0,0,Infrastructure,Balanced random forest,0.3489783477323538,,,,6.0,5.0,,
+0,0,Infrastructure,XGBoost,0.32373167102702854,,,,2.0,,0.03,200.0
+0,0,+ Geography,Logistic regression,0.33849264783393035,0.01,,,,,,
+0,0,+ Geography,k-nearest neighbors,0.26437335766250597,,50.0,distance,,,,
+0,0,+ Geography,Balanced random forest,0.35237609294630334,,,,6.0,5.0,,
+0,0,+ Geography,XGBoost,0.3257377222331136,,,,2.0,,0.03,200.0
+0,0,+ AI policy,Logistic regression,0.303635738722765,0.01,,,,,,
+0,0,+ AI policy,k-nearest neighbors,0.2565705221294609,,25.0,distance,,,,
+0,0,+ AI policy,Balanced random forest,0.3300535941769061,,,,6.0,5.0,,
+0,0,+ AI policy,XGBoost,0.31323873116030554,,,,2.0,,0.03,200.0
+0,1,Infrastructure,Logistic regression,0.3193073656471297,0.01,,,,,,
+0,1,Infrastructure,k-nearest neighbors,0.2893721946970236,,100.0,distance,,,,
+0,1,Infrastructure,Balanced random forest,0.3068010523509451,,,,6.0,5.0,,
+0,1,Infrastructure,XGBoost,0.32048351024245003,,,,2.0,,0.03,200.0
+0,1,+ Geography,Logistic regression,0.3351062277371106,0.1,,,,,,
+0,1,+ Geography,k-nearest neighbors,0.2360185606496946,,100.0,uniform,,,,
+0,1,+ Geography,Balanced random forest,0.3085091362719005,,,,12.0,1.0,,
+0,1,+ Geography,XGBoost,0.3193480481099693,,,,2.0,,0.03,200.0
+0,1,+ AI policy,Logistic regression,0.3255759568993852,0.1,,,,,,
+0,1,+ AI policy,k-nearest neighbors,0.2511772070634352,,100.0,distance,,,,
+0,1,+ AI policy,Balanced random forest,0.31445313016192106,,,,6.0,1.0,,
+0,1,+ AI policy,XGBoost,0.34281184012319144,,,,3.0,,0.03,200.0
+0,2,Infrastructure,Logistic regression,0.3368158195081832,1.0,,,,,,
+0,2,Infrastructure,k-nearest neighbors,0.27744073412784925,,100.0,distance,,,,
+0,2,Infrastructure,Balanced random forest,0.34714601311077,,,,6.0,5.0,,
+0,2,Infrastructure,XGBoost,0.35790457075108356,,,,2.0,,0.03,200.0
+0,2,+ Geography,Logistic regression,0.35574319930712545,0.01,,,,,,
+0,2,+ Geography,k-nearest neighbors,0.3071930037556428,,25.0,distance,,,,
+0,2,+ Geography,Balanced random forest,0.3607186176737944,,,,12.0,5.0,,
+0,2,+ Geography,XGBoost,0.35977265795848395,,,,2.0,,0.03,200.0
+0,2,+ AI policy,Logistic regression,0.3381111891068933,0.01,,,,,,
+0,2,+ AI policy,k-nearest neighbors,0.3240508574851678,,25.0,distance,,,,
+0,2,+ AI policy,Balanced random forest,0.3638382023310673,,,,,5.0,,
+0,2,+ AI policy,XGBoost,0.3607448023273221,,,,2.0,,0.03,200.0
+0,3,Infrastructure,Logistic regression,0.3587162151835652,1.0,,,,,,
+0,3,Infrastructure,k-nearest neighbors,0.3017961646144716,,100.0,distance,,,,
+0,3,Infrastructure,Balanced random forest,0.35103518667872513,,,,6.0,5.0,,
+0,3,Infrastructure,XGBoost,0.3365877409242386,,,,2.0,,0.03,200.0
+0,3,+ Geography,Logistic regression,0.36100497371031554,0.01,,,,,,
+0,3,+ Geography,k-nearest neighbors,0.2797529915756461,,100.0,distance,,,,
+0,3,+ Geography,Balanced random forest,0.36777354269199525,,,,,5.0,,
+0,3,+ Geography,XGBoost,0.3566509227604393,,,,2.0,,0.03,200.0
+0,3,+ AI policy,Logistic regression,0.3177429191345867,0.01,,,,,,
+0,3,+ AI policy,k-nearest neighbors,0.27920446479439626,,100.0,distance,,,,
+0,3,+ AI policy,Balanced random forest,0.37575585289428587,,,,12.0,5.0,,
+0,3,+ AI policy,XGBoost,0.35677431000618726,,,,2.0,,0.03,200.0
+0,4,Infrastructure,Logistic regression,0.2948200739386529,10.0,,,,,,
+0,4,Infrastructure,k-nearest neighbors,0.214226475420755,,100.0,uniform,,,,
+0,4,Infrastructure,Balanced random forest,0.32256653133248775,,,,,5.0,,
+0,4,Infrastructure,XGBoost,0.3021620021497149,,,,3.0,,0.03,200.0
+0,4,+ Geography,Logistic regression,0.3288985858218679,1.0,,,,,,
+0,4,+ Geography,k-nearest neighbors,0.27331860540774616,,25.0,distance,,,,
+0,4,+ Geography,Balanced random forest,0.3321734304037946,,,,12.0,5.0,,
+0,4,+ Geography,XGBoost,0.30495482547012137,,,,3.0,,0.03,200.0
+0,4,+ AI policy,Logistic regression,0.2868383681154034,0.01,,,,,,
+0,4,+ AI policy,k-nearest neighbors,0.25138820468539874,,100.0,distance,,,,
+0,4,+ AI policy,Balanced random forest,0.3037539319210638,,,,6.0,5.0,,
+0,4,+ AI policy,XGBoost,0.30145277707730594,,,,3.0,,0.03,200.0
+1,0,Infrastructure,Logistic regression,0.3290611938310306,10.0,,,,,,
+1,0,Infrastructure,k-nearest neighbors,0.2697367525304155,,100.0,distance,,,,
+1,0,Infrastructure,Balanced random forest,0.3434326299629431,,,,6.0,5.0,,
+1,0,Infrastructure,XGBoost,0.3521014194877603,,,,2.0,,0.03,200.0
+1,0,+ Geography,Logistic regression,0.33162443284081305,10.0,,,,,,
+1,0,+ Geography,k-nearest neighbors,0.23801780821920274,,25.0,distance,,,,
+1,0,+ Geography,Balanced random forest,0.34333577593937475,,,,,5.0,,
+1,0,+ Geography,XGBoost,0.349273135685837,,,,2.0,,0.03,200.0
+1,0,+ AI policy,Logistic regression,0.28739812951680815,0.01,,,,,,
+1,0,+ AI policy,k-nearest neighbors,0.24254717414822183,,50.0,distance,,,,
+1,0,+ AI policy,Balanced random forest,0.34249187878221915,,,,,5.0,,
+1,0,+ AI policy,XGBoost,0.35138231139534143,,,,2.0,,0.03,200.0
+1,1,Infrastructure,Logistic regression,0.3553365708539044,10.0,,,,,,
+1,1,Infrastructure,k-nearest neighbors,0.2903372448046981,,100.0,distance,,,,
+1,1,Infrastructure,Balanced random forest,0.3391766428735219,,,,6.0,5.0,,
+1,1,Infrastructure,XGBoost,0.3286966522866162,,,,2.0,,0.03,200.0
+1,1,+ Geography,Logistic regression,0.35077804151248304,10.0,,,,,,
+1,1,+ Geography,k-nearest neighbors,0.27753496041840514,,25.0,distance,,,,
+1,1,+ Geography,Balanced random forest,0.3445413896166864,,,,,5.0,,
+1,1,+ Geography,XGBoost,0.33027495529736844,,,,2.0,,0.03,200.0
+1,1,+ AI policy,Logistic regression,0.3200659589009785,10.0,,,,,,
+1,1,+ AI policy,k-nearest neighbors,0.2688996045490764,,25.0,distance,,,,
+1,1,+ AI policy,Balanced random forest,0.34924485270578515,,,,,1.0,,
+1,1,+ AI policy,XGBoost,0.33414282882445717,,,,3.0,,0.03,200.0
+1,2,Infrastructure,Logistic regression,0.3190943970771651,10.0,,,,,,
+1,2,Infrastructure,k-nearest neighbors,0.23122050216162482,,100.0,distance,,,,
+1,2,Infrastructure,Balanced random forest,0.353829552895838,,,,6.0,1.0,,
+1,2,Infrastructure,XGBoost,0.36940734337181275,,,,3.0,,0.03,200.0
+1,2,+ Geography,Logistic regression,0.31342496338856596,0.1,,,,,,
+1,2,+ Geography,k-nearest neighbors,0.27466373502501473,,25.0,distance,,,,
+1,2,+ Geography,Balanced random forest,0.370563399809136,,,,6.0,1.0,,
+1,2,+ Geography,XGBoost,0.37881514781474196,,,,3.0,,0.03,200.0
+1,2,+ AI policy,Logistic regression,0.32169660503471764,0.01,,,,,,
+1,2,+ AI policy,k-nearest neighbors,0.23862038066201352,,25.0,distance,,,,
+1,2,+ AI policy,Balanced random forest,0.3538032210289628,,,,12.0,5.0,,
+1,2,+ AI policy,XGBoost,0.3655192713118502,,,,2.0,,0.03,200.0
+1,3,Infrastructure,Logistic regression,0.3461650611606393,10.0,,,,,,
+1,3,Infrastructure,k-nearest neighbors,0.2880631581726824,,50.0,distance,,,,
+1,3,Infrastructure,Balanced random forest,0.32811602672815504,,,,6.0,5.0,,
+1,3,Infrastructure,XGBoost,0.3435557825250663,,,,2.0,,0.03,200.0
+1,3,+ Geography,Logistic regression,0.3950608878426267,1.0,,,,,,
+1,3,+ Geography,k-nearest neighbors,0.2652007740549307,,10.0,distance,,,,
+1,3,+ Geography,Balanced random forest,0.342267824616232,,,,,1.0,,
+1,3,+ Geography,XGBoost,0.35071323417272304,,,,2.0,,0.03,200.0
+1,3,+ AI policy,Logistic regression,0.36950085484888157,0.1,,,,,,
+1,3,+ AI policy,k-nearest neighbors,0.259933478593786,,10.0,distance,,,,
+1,3,+ AI policy,Balanced random forest,0.3310686252126022,,,,,5.0,,
+1,3,+ AI policy,XGBoost,0.3618988909671384,,,,3.0,,0.03,200.0
+1,4,Infrastructure,Logistic regression,0.3451060982378143,10.0,,,,,,
+1,4,Infrastructure,k-nearest neighbors,0.27876723334589704,,100.0,distance,,,,
+1,4,Infrastructure,Balanced random forest,0.34993042415185927,,,,6.0,1.0,,
+1,4,Infrastructure,XGBoost,0.3325289035523615,,,,2.0,,0.03,200.0
+1,4,+ Geography,Logistic regression,0.35293700726807287,0.01,,,,,,
+1,4,+ Geography,k-nearest neighbors,0.28836023579875,,10.0,distance,,,,
+1,4,+ Geography,Balanced random forest,0.3728526459159757,,,,6.0,1.0,,
+1,4,+ Geography,XGBoost,0.3482316875241395,,,,2.0,,0.03,500.0
+1,4,+ AI policy,Logistic regression,0.35650747755384343,1.0,,,,,,
+1,4,+ AI policy,k-nearest neighbors,0.2949962130731758,,10.0,distance,,,,
+1,4,+ AI policy,Balanced random forest,0.3474278189922457,,,,6.0,1.0,,
+1,4,+ AI policy,XGBoost,0.32817905258013097,,,,2.0,,0.03,500.0
+2,0,Infrastructure,Logistic regression,0.34224973609501935,10.0,,,,,,
+2,0,Infrastructure,k-nearest neighbors,0.26645220862159485,,50.0,distance,,,,
+2,0,Infrastructure,Balanced random forest,0.37545935704636774,,,,,5.0,,
+2,0,Infrastructure,XGBoost,0.3691503976662643,,,,2.0,,0.03,200.0
+2,0,+ Geography,Logistic regression,0.3299647674241119,0.01,,,,,,
+2,0,+ Geography,k-nearest neighbors,0.2345307360777713,,25.0,distance,,,,
+2,0,+ Geography,Balanced random forest,0.368683268605021,,,,6.0,5.0,,
+2,0,+ Geography,XGBoost,0.36794544345077645,,,,2.0,,0.03,200.0
+2,0,+ AI policy,Logistic regression,0.31352844862249557,0.01,,,,,,
+2,0,+ AI policy,k-nearest neighbors,0.25457076337593826,,25.0,distance,,,,
+2,0,+ AI policy,Balanced random forest,0.36185921181590847,,,,6.0,5.0,,
+2,0,+ AI policy,XGBoost,0.3466541689656004,,,,2.0,,0.03,200.0
+2,1,Infrastructure,Logistic regression,0.32653918629039863,10.0,,,,,,
+2,1,Infrastructure,k-nearest neighbors,0.25679720986965343,,100.0,distance,,,,
+2,1,Infrastructure,Balanced random forest,0.3217076247746616,,,,6.0,5.0,,
+2,1,Infrastructure,XGBoost,0.31953790795238896,,,,2.0,,0.03,200.0
+2,1,+ Geography,Logistic regression,0.34735174625126275,0.01,,,,,,
+2,1,+ Geography,k-nearest neighbors,0.31050760871207084,,50.0,distance,,,,
+2,1,+ Geography,Balanced random forest,0.33039500384579173,,,,6.0,1.0,,
+2,1,+ Geography,XGBoost,0.3251867508652481,,,,2.0,,0.03,200.0
+2,1,+ AI policy,Logistic regression,0.3533494051117588,0.1,,,,,,
+2,1,+ AI policy,k-nearest neighbors,0.2823381766387351,,25.0,distance,,,,
+2,1,+ AI policy,Balanced random forest,0.29952253461887973,,,,12.0,1.0,,
+2,1,+ AI policy,XGBoost,0.3196669359680164,,,,3.0,,0.03,200.0
+2,2,Infrastructure,Logistic regression,0.31872988534742724,10.0,,,,,,
+2,2,Infrastructure,k-nearest neighbors,0.2797466278427963,,100.0,distance,,,,
+2,2,Infrastructure,Balanced random forest,0.35100134708774905,,,,12.0,5.0,,
+2,2,Infrastructure,XGBoost,0.34124976888073427,,,,3.0,,0.03,200.0
+2,2,+ Geography,Logistic regression,0.3155089289428322,0.01,,,,,,
+2,2,+ Geography,k-nearest neighbors,0.2427433445894099,,100.0,distance,,,,
+2,2,+ Geography,Balanced random forest,0.36229753947965165,,,,,1.0,,
+2,2,+ Geography,XGBoost,0.3305048325612205,,,,2.0,,0.03,200.0
+2,2,+ AI policy,Logistic regression,0.28247768487416597,0.01,,,,,,
+2,2,+ AI policy,k-nearest neighbors,0.24962153490750383,,10.0,distance,,,,
+2,2,+ AI policy,Balanced random forest,0.3699750379249802,,,,6.0,5.0,,
+2,2,+ AI policy,XGBoost,0.3303728473016057,,,,3.0,,0.03,200.0
+2,3,Infrastructure,Logistic regression,0.35545478558329235,0.1,,,,,,
+2,3,Infrastructure,k-nearest neighbors,0.3015359834715306,,100.0,distance,,,,
+2,3,Infrastructure,Balanced random forest,0.35805087227250354,,,,6.0,5.0,,
+2,3,Infrastructure,XGBoost,0.3639757016767982,,,,2.0,,0.03,200.0
+2,3,+ Geography,Logistic regression,0.31812099483537465,1.0,,,,,,
+2,3,+ Geography,k-nearest neighbors,0.2738789132300809,,100.0,distance,,,,
+2,3,+ Geography,Balanced random forest,0.3691776936193723,,,,6.0,1.0,,
+2,3,+ Geography,XGBoost,0.3681041119065695,,,,2.0,,0.03,200.0
+2,3,+ AI policy,Logistic regression,0.3409701411025155,0.1,,,,,,
+2,3,+ AI policy,k-nearest neighbors,0.2956386914802511,,100.0,distance,,,,
+2,3,+ AI policy,Balanced random forest,0.3653649351033508,,,,,5.0,,
+2,3,+ AI policy,XGBoost,0.3884403123815517,,,,2.0,,0.03,200.0
+2,4,Infrastructure,Logistic regression,0.3540467256054361,10.0,,,,,,
+2,4,Infrastructure,k-nearest neighbors,0.3130638364321318,,50.0,distance,,,,
+2,4,Infrastructure,Balanced random forest,0.3665158251684814,,,,,5.0,,
+2,4,Infrastructure,XGBoost,0.3713918263616078,,,,3.0,,0.03,200.0
+2,4,+ Geography,Logistic regression,0.3509833850896557,10.0,,,,,,
+2,4,+ Geography,k-nearest neighbors,0.32516135023474846,,10.0,distance,,,,
+2,4,+ Geography,Balanced random forest,0.37709681417902385,,,,,5.0,,
+2,4,+ Geography,XGBoost,0.3837533793173795,,,,2.0,,0.03,200.0
+2,4,+ AI policy,Logistic regression,0.3271970938233841,0.01,,,,,,
+2,4,+ AI policy,k-nearest neighbors,0.3198450064434579,,10.0,distance,,,,
+2,4,+ AI policy,Balanced random forest,0.35592560220985936,,,,12.0,1.0,,
+2,4,+ AI policy,XGBoost,0.35591287736428345,,,,3.0,,0.03,200.0
