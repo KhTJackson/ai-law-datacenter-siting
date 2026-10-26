@@ -1,0 +1,7 @@
+method,cluster,name,counties,share_with_dc,facilities,share_pnnl_ref,pnnl_sites
+K-means,0,"Tax-light, pricey land",739,0.10419485791610285,342,0.028700906344410877,72
+K-means,1,"Hot or dry, grid-remote",651,0.06144393241167435,294,0.012477718360071301,40
+K-means,2,"Grid-close, cheap land",1709,0.07489760093622001,836,0.0333091962346126,216
+GMM (K = 3),0,"Tax-light, pricey land",681,0.10719530102790015,321,0.030894308943089432,72
+GMM (K = 3),1,"Hot or dry, grid-remote",966,0.06625258799171843,385,0.019753086419753086,59
+GMM (K = 3),2,"Grid-close, cheap land",1452,0.0743801652892562,766,0.031382527565733676,197

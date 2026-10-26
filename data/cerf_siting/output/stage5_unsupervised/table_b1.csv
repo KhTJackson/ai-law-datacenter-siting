@@ -1,0 +1,4 @@
+method,K,silhouette,bic,smallest,ari_vs_kmeans
+K-means (capped CERF),3,0.2606968517491518,,651,1.0
+"Gaussian mixture, full covariance",3,0.20988781159532685,14813.003706635975,681,0.716672302687816
+"Gaussian mixture, BIC minimum (full)",10,0.12213619586570977,-7684.431804161195,29,0.3733528702869639

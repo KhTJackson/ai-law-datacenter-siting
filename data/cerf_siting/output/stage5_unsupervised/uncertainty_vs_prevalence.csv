@@ -1,0 +1,7 @@
+,counties,share_with_dc,measure
+Clear (< 0.1),3081,0.07789678675754626,GMM entropy
+Moderate,13,0.23076923076923078,GMM entropy
+Borderline (> 0.5),5,0.4,GMM entropy
+Near a center,1033,0.057115198451113264,K-means distance ratio
+Middle,1033,0.06582768635043562,K-means distance ratio
+Between two,1033,0.11423039690222653,K-means distance ratio
