@@ -2,7 +2,9 @@
 
 Do state AI laws affect where data centers get built? 
 
-This project combines county-level siting factors (electricity prices, land values, taxes, cooling needs, distance to substations) with existing and projected data center locations and every state AI bill tracked by NCSL from 2019 to 2025. We use supervised models to test whether a state’s AI policy helps predict which counties have data centers, beyond infrastructure and geography. Clustering groups counties into siting archetypes, and we compare our predictions with PNNL’s projected sites. Results are can be viewed in the form of a dashboard [here](www.dashboard.github.io).
+This project combines county-level siting factors (electricity prices, land values, taxes, cooling needs, distance to substations) with existing and projected data center locations and every state AI bill tracked by NCSL from 2019 to 2025. We use supervised models to test whether a state’s AI policy helps predict which counties have data centers, beyond infrastructure and geography. Clustering groups counties into siting archetypes, and we compare our predictions with PNNL’s projected sites. 
+
+[Results Dashboard](www.dashboard.github.io).
 
 ## Folders
 
@@ -17,7 +19,9 @@ This project combines county-level siting factors (electricity prices, land valu
 The data-prep steps are slow, and their outputs are already saved in the repo, so you can start at step 05.
 
 1. Clone the repo.
-2. *Optional: rebuild the data from scratch.* This takes a long time. Download the CERF rasters from MSD-LIVE into data/cerf_siting/raw_data/, then run notebook 01.
+2. *Optional: rebuild the data from scratch.* This takes a long time. 
+    - Run `git lfs pull` to download the CERF rasters
+    - Run notebooks 01 and 02.
 3. Run the notebooks in `scripts/` in order, 05 through 11.
 
 Notebooks 05–11 need `scripts/pipeline_config.py`.
