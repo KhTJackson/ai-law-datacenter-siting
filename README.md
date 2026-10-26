@@ -4,7 +4,7 @@ Do state AI laws affect where data centers get built?
 
 This project combines county-level siting factors (electricity prices, land values, taxes, cooling needs, distance to substations) with existing and projected data center locations and every state AI bill tracked by NCSL from 2019 to 2025. We use supervised models to test whether a state’s AI policy helps predict which counties have data centers, beyond infrastructure and geography. Clustering groups counties into siting archetypes, and we compare our predictions with PNNL’s projected sites. 
 
-[Results Dashboard](www.dashboard.github.io).
+[Results Dashboard](https://www.placeholder_for_dashboard.github.io).
 
 ## Folders
 
