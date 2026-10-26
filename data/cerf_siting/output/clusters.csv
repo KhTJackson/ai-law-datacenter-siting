@@ -1,0 +1,3100 @@
+fips,cluster,cluster_name,entropy,has_data_center
+01001,2,"Grid-close, cheap land",0.541,0
+01003,1,"Hot or dry, grid-remote",0.618,0
+01005,1,"Hot or dry, grid-remote",0.598,0
+01007,2,"Grid-close, cheap land",0.501,0
+01009,2,"Grid-close, cheap land",0.536,0
+01011,2,"Grid-close, cheap land",0.967,0
+01013,1,"Hot or dry, grid-remote",0.62,0
+01015,2,"Grid-close, cheap land",0.676,0
+01017,2,"Grid-close, cheap land",0.477,0
+01019,2,"Grid-close, cheap land",0.521,0
+01021,2,"Grid-close, cheap land",0.549,0
+01023,2,"Grid-close, cheap land",0.862,0
+01025,1,"Hot or dry, grid-remote",0.678,0
+01027,2,"Grid-close, cheap land",0.55,0
+01029,2,"Grid-close, cheap land",0.507,0
+01031,1,"Hot or dry, grid-remote",0.625,0
+01033,2,"Grid-close, cheap land",0.459,0
+01035,1,"Hot or dry, grid-remote",0.505,0
+01037,2,"Grid-close, cheap land",0.511,0
+01039,1,"Hot or dry, grid-remote",0.602,0
+01041,1,"Hot or dry, grid-remote",0.732,0
+01043,2,"Grid-close, cheap land",0.516,0
+01045,1,"Hot or dry, grid-remote",0.774,0
+01047,1,"Hot or dry, grid-remote",0.636,0
+01051,2,"Grid-close, cheap land",0.649,0
+01053,1,"Hot or dry, grid-remote",0.534,0
+01055,2,"Grid-close, cheap land",0.582,0
+01057,2,"Grid-close, cheap land",0.487,0
+01059,2,"Grid-close, cheap land",0.495,0
+01061,1,"Hot or dry, grid-remote",0.664,0
+01063,2,"Grid-close, cheap land",0.5,0
+01065,2,"Grid-close, cheap land",0.543,0
+01067,1,"Hot or dry, grid-remote",0.571,0
+01069,1,"Hot or dry, grid-remote",0.794,1
+01071,2,"Grid-close, cheap land",0.45,1
+01073,2,"Grid-close, cheap land",0.852,1
+01075,2,"Grid-close, cheap land",0.502,0
+01077,2,"Grid-close, cheap land",0.44,0
+01079,2,"Grid-close, cheap land",0.478,0
+01081,2,"Grid-close, cheap land",0.805,0
+01083,2,"Grid-close, cheap land",0.728,0
+01085,2,"Grid-close, cheap land",0.838,0
+01087,2,"Grid-close, cheap land",0.885,0
+01089,2,"Grid-close, cheap land",0.424,1
+01091,1,"Hot or dry, grid-remote",0.848,0
+01093,2,"Grid-close, cheap land",0.632,0
+01095,2,"Grid-close, cheap land",0.5,0
+01097,1,"Hot or dry, grid-remote",0.684,0
+01099,1,"Hot or dry, grid-remote",0.542,0
+01101,2,"Grid-close, cheap land",0.54,0
+01103,2,"Grid-close, cheap land",0.561,0
+01105,2,"Grid-close, cheap land",0.487,0
+01107,2,"Grid-close, cheap land",0.514,0
+01109,1,"Hot or dry, grid-remote",0.82,0
+01111,2,"Grid-close, cheap land",0.526,0
+01113,2,"Grid-close, cheap land",0.873,0
+01115,2,"Grid-close, cheap land",0.591,0
+01117,2,"Grid-close, cheap land",0.741,0
+01119,2,"Grid-close, cheap land",0.726,0
+01121,2,"Grid-close, cheap land",0.62,0
+01123,2,"Grid-close, cheap land",0.723,0
+01125,2,"Grid-close, cheap land",0.54,0
+01127,2,"Grid-close, cheap land",0.541,0
+01129,1,"Hot or dry, grid-remote",0.588,0
+01131,1,"Hot or dry, grid-remote",0.513,0
+01133,2,"Grid-close, cheap land",0.523,0
+01049,2,"Grid-close, cheap land",0.446,0
+04001,1,"Hot or dry, grid-remote",0.533,0
+04003,1,"Hot or dry, grid-remote",0.345,1
+04005,1,"Hot or dry, grid-remote",0.755,0
+04007,1,"Hot or dry, grid-remote",0.988,0
+04009,1,"Hot or dry, grid-remote",0.549,0
+04011,1,"Hot or dry, grid-remote",0.835,0
+04012,2,"Grid-close, cheap land",0.626,0
+04013,1,"Hot or dry, grid-remote",0.429,1
+04015,1,"Hot or dry, grid-remote",0.941,0
+04017,1,"Hot or dry, grid-remote",0.545,0
+04019,1,"Hot or dry, grid-remote",0.375,1
+04021,1,"Hot or dry, grid-remote",0.476,0
+04023,1,"Hot or dry, grid-remote",0.497,0
+04025,1,"Hot or dry, grid-remote",0.76,0
+04027,1,"Hot or dry, grid-remote",0.844,0
+05001,2,"Grid-close, cheap land",0.593,0
+05003,2,"Grid-close, cheap land",0.492,0
+05005,2,"Grid-close, cheap land",0.576,0
+05007,2,"Grid-close, cheap land",0.558,0
+05009,2,"Grid-close, cheap land",0.543,0
+05011,2,"Grid-close, cheap land",0.427,0
+05013,2,"Grid-close, cheap land",0.503,0
+05015,2,"Grid-close, cheap land",0.679,0
+05017,2,"Grid-close, cheap land",0.534,0
+05019,2,"Grid-close, cheap land",0.519,0
+05021,1,"Hot or dry, grid-remote",0.52,0
+05023,2,"Grid-close, cheap land",0.508,0
+05025,2,"Grid-close, cheap land",0.52,0
+05027,2,"Grid-close, cheap land",0.49,0
+05029,2,"Grid-close, cheap land",0.492,0
+05031,1,"Hot or dry, grid-remote",0.592,0
+05033,2,"Grid-close, cheap land",0.51,0
+05035,1,"Hot or dry, grid-remote",0.647,0
+05037,1,"Hot or dry, grid-remote",0.569,0
+05039,2,"Grid-close, cheap land",0.465,0
+05041,2,"Grid-close, cheap land",0.522,0
+05043,2,"Grid-close, cheap land",0.493,0
+05045,2,"Grid-close, cheap land",0.484,0
+05047,2,"Grid-close, cheap land",0.512,0
+05049,1,"Hot or dry, grid-remote",0.995,0
+05051,2,"Grid-close, cheap land",0.501,0
+05053,2,"Grid-close, cheap land",0.497,0
+05055,1,"Hot or dry, grid-remote",0.556,0
+05057,2,"Grid-close, cheap land",0.628,0
+05059,2,"Grid-close, cheap land",0.523,0
+05061,2,"Grid-close, cheap land",0.659,0
+05063,2,"Grid-close, cheap land",0.544,0
+05065,2,"Grid-close, cheap land",0.591,0
+05067,2,"Grid-close, cheap land",0.923,0
+05069,2,"Grid-close, cheap land",0.467,0
+05071,2,"Grid-close, cheap land",0.517,0
+05073,2,"Grid-close, cheap land",0.653,0
+05075,1,"Hot or dry, grid-remote",0.732,0
+05077,2,"Grid-close, cheap land",0.759,0
+05079,2,"Grid-close, cheap land",0.518,0
+05081,2,"Grid-close, cheap land",0.673,0
+05083,2,"Grid-close, cheap land",0.537,0
+05085,2,"Grid-close, cheap land",0.699,0
+05087,2,"Grid-close, cheap land",0.607,0
+05089,2,"Grid-close, cheap land",0.564,0
+05091,2,"Grid-close, cheap land",0.651,0
+05093,1,"Hot or dry, grid-remote",0.629,0
+05095,2,"Grid-close, cheap land",0.52,0
+05097,2,"Grid-close, cheap land",0.605,0
+05099,2,"Grid-close, cheap land",0.472,0
+05101,2,"Grid-close, cheap land",0.646,0
+05103,2,"Grid-close, cheap land",0.479,0
+05105,2,"Grid-close, cheap land",0.509,0
+05107,2,"Grid-close, cheap land",0.539,0
+05109,2,"Grid-close, cheap land",0.679,0
+05111,1,"Hot or dry, grid-remote",0.511,0
+05113,2,"Grid-close, cheap land",0.687,0
+05115,2,"Grid-close, cheap land",0.576,0
+05117,2,"Grid-close, cheap land",0.533,0
+05119,2,"Grid-close, cheap land",0.667,1
+05121,1,"Hot or dry, grid-remote",0.626,0
+05123,1,"Hot or dry, grid-remote",0.702,0
+05125,2,"Grid-close, cheap land",0.554,0
+05127,2,"Grid-close, cheap land",0.634,0
+05129,2,"Grid-close, cheap land",0.574,0
+05131,2,"Grid-close, cheap land",0.541,0
+05133,2,"Grid-close, cheap land",0.681,0
+05135,1,"Hot or dry, grid-remote",0.639,0
+05137,2,"Grid-close, cheap land",0.563,0
+05139,2,"Grid-close, cheap land",0.542,0
+05141,2,"Grid-close, cheap land",0.534,0
+05143,2,"Grid-close, cheap land",0.622,0
+05145,2,"Grid-close, cheap land",0.501,1
+05147,1,"Hot or dry, grid-remote",0.691,0
+05149,2,"Grid-close, cheap land",0.581,0
+06001,2,"Grid-close, cheap land",0.76,1
+06003,1,"Hot or dry, grid-remote",0.759,0
+06005,2,"Grid-close, cheap land",0.805,0
+06007,2,"Grid-close, cheap land",0.831,0
+06009,2,"Grid-close, cheap land",0.958,0
+06011,2,"Grid-close, cheap land",0.985,0
+06013,2,"Grid-close, cheap land",0.868,1
+06015,2,"Grid-close, cheap land",0.475,0
+06017,2,"Grid-close, cheap land",0.82,0
+06019,1,"Hot or dry, grid-remote",0.426,0
+06021,2,"Grid-close, cheap land",0.907,0
+06023,2,"Grid-close, cheap land",0.825,0
+06025,1,"Hot or dry, grid-remote",0.33,0
+06027,1,"Hot or dry, grid-remote",0.732,0
+06029,1,"Hot or dry, grid-remote",0.397,0
+06031,1,"Hot or dry, grid-remote",0.4,0
+06033,2,"Grid-close, cheap land",0.826,0
+06035,1,"Hot or dry, grid-remote",0.65,0
+06037,1,"Hot or dry, grid-remote",0.561,1
+06039,1,"Hot or dry, grid-remote",0.86,0
+06041,2,"Grid-close, cheap land",0.807,0
+06043,1,"Hot or dry, grid-remote",0.951,0
+06045,2,"Grid-close, cheap land",0.825,0
+06047,1,"Hot or dry, grid-remote",0.71,0
+06049,1,"Hot or dry, grid-remote",0.327,0
+06051,2,"Grid-close, cheap land",0.836,0
+06053,1,"Hot or dry, grid-remote",0.713,0
+06055,2,"Grid-close, cheap land",0.825,1
+06057,2,"Grid-close, cheap land",0.821,0
+06059,1,"Hot or dry, grid-remote",0.501,1
+06061,2,"Grid-close, cheap land",0.733,0
+06063,2,"Grid-close, cheap land",0.824,0
+06065,1,"Hot or dry, grid-remote",0.483,1
+06067,2,"Grid-close, cheap land",0.754,1
+06069,1,"Hot or dry, grid-remote",0.901,0
+06071,1,"Hot or dry, grid-remote",0.468,0
+06073,1,"Hot or dry, grid-remote",0.45,1
+06075,2,"Grid-close, cheap land",0.795,1
+06077,1,"Hot or dry, grid-remote",0.977,0
+06079,1,"Hot or dry, grid-remote",0.711,1
+06081,2,"Grid-close, cheap land",0.783,0
+06083,1,"Hot or dry, grid-remote",0.397,0
+06085,2,"Grid-close, cheap land",0.726,1
+06087,2,"Grid-close, cheap land",0.799,0
+06089,2,"Grid-close, cheap land",0.427,0
+06091,2,"Grid-close, cheap land",0.84,0
+06093,2,"Grid-close, cheap land",0.706,0
+06095,2,"Grid-close, cheap land",0.745,1
+06097,2,"Grid-close, cheap land",0.818,0
+06099,1,"Hot or dry, grid-remote",0.969,1
+06101,2,"Grid-close, cheap land",0.786,0
+06103,2,"Grid-close, cheap land",0.82,0
+06105,2,"Grid-close, cheap land",0.803,0
+06107,1,"Hot or dry, grid-remote",0.349,0
+06109,2,"Grid-close, cheap land",0.648,0
+06111,1,"Hot or dry, grid-remote",0.334,0
+06113,2,"Grid-close, cheap land",0.788,0
+06115,2,"Grid-close, cheap land",0.756,0
+08001,1,"Hot or dry, grid-remote",0.292,1
+08003,1,"Hot or dry, grid-remote",0.571,0
+08005,1,"Hot or dry, grid-remote",0.374,1
+08007,2,"Grid-close, cheap land",0.516,0
+08009,1,"Hot or dry, grid-remote",0.422,0
+08011,1,"Hot or dry, grid-remote",0.932,0
+08013,1,"Hot or dry, grid-remote",0.462,0
+08015,1,"Hot or dry, grid-remote",0.976,0
+08017,1,"Hot or dry, grid-remote",0.373,0
+08019,1,"Hot or dry, grid-remote",0.437,0
+08021,2,"Grid-close, cheap land",0.562,0
+08023,2,"Grid-close, cheap land",0.533,0
+08025,1,"Hot or dry, grid-remote",0.878,0
+08027,1,"Hot or dry, grid-remote",0.994,0
+08029,2,"Grid-close, cheap land",0.33,0
+08031,1,"Hot or dry, grid-remote",0.753,1
+08033,2,"Grid-close, cheap land",0.525,0
+08035,1,"Hot or dry, grid-remote",0.333,1
+08037,2,"Grid-close, cheap land",0.393,0
+08039,1,"Hot or dry, grid-remote",0.312,0
+08041,1,"Hot or dry, grid-remote",0.963,1
+08043,1,"Hot or dry, grid-remote",0.938,0
+08045,2,"Grid-close, cheap land",0.512,0
+08047,1,"Hot or dry, grid-remote",0.589,0
+08049,2,"Grid-close, cheap land",0.445,0
+08051,2,"Grid-close, cheap land",0.521,0
+08053,2,"Grid-close, cheap land",0.639,0
+08055,2,"Grid-close, cheap land",0.974,0
+08057,2,"Grid-close, cheap land",0.707,0
+08059,1,"Hot or dry, grid-remote",0.411,0
+08061,1,"Hot or dry, grid-remote",0.534,0
+08063,1,"Hot or dry, grid-remote",0.51,0
+08065,2,"Grid-close, cheap land",0.919,0
+08067,2,"Grid-close, cheap land",0.419,0
+08069,1,"Hot or dry, grid-remote",0.644,0
+08071,2,"Grid-close, cheap land",0.98,0
+08073,1,"Hot or dry, grid-remote",0.412,0
+08075,1,"Hot or dry, grid-remote",0.669,0
+08077,2,"Grid-close, cheap land",0.541,0
+08079,2,"Grid-close, cheap land",0.545,0
+08081,2,"Grid-close, cheap land",0.855,0
+08083,2,"Grid-close, cheap land",0.45,0
+08085,2,"Grid-close, cheap land",0.359,0
+08087,1,"Hot or dry, grid-remote",0.445,0
+08089,2,"Grid-close, cheap land",0.836,0
+08091,2,"Grid-close, cheap land",0.412,0
+08093,1,"Hot or dry, grid-remote",0.365,0
+08095,1,"Hot or dry, grid-remote",0.449,0
+08097,2,"Grid-close, cheap land",0.417,0
+08099,1,"Hot or dry, grid-remote",0.433,0
+08101,2,"Grid-close, cheap land",0.957,0
+08103,2,"Grid-close, cheap land",0.486,0
+08105,2,"Grid-close, cheap land",0.381,0
+08107,2,"Grid-close, cheap land",0.491,0
+08109,1,"Hot or dry, grid-remote",0.537,0
+08111,2,"Grid-close, cheap land",0.581,0
+08113,2,"Grid-close, cheap land",0.464,0
+08115,1,"Hot or dry, grid-remote",0.501,0
+08117,2,"Grid-close, cheap land",0.482,0
+08119,1,"Hot or dry, grid-remote",0.662,0
+08121,1,"Hot or dry, grid-remote",0.414,0
+08123,1,"Hot or dry, grid-remote",0.37,0
+08125,1,"Hot or dry, grid-remote",0.515,0
+08014,1,"Hot or dry, grid-remote",0.676,1
+10001,2,"Grid-close, cheap land",0.811,0
+10003,2,"Grid-close, cheap land",0.825,0
+10005,2,"Grid-close, cheap land",0.888,0
+11001,2,"Grid-close, cheap land",0.65,1
+12001,1,"Hot or dry, grid-remote",0.415,1
+12003,1,"Hot or dry, grid-remote",0.39,0
+12005,1,"Hot or dry, grid-remote",0.563,0
+12007,1,"Hot or dry, grid-remote",0.545,0
+12009,1,"Hot or dry, grid-remote",0.479,0
+12011,1,"Hot or dry, grid-remote",0.421,1
+12013,1,"Hot or dry, grid-remote",0.305,0
+12015,1,"Hot or dry, grid-remote",0.485,0
+12017,1,"Hot or dry, grid-remote",0.598,0
+12019,1,"Hot or dry, grid-remote",0.579,0
+12021,1,"Hot or dry, grid-remote",0.422,0
+12023,1,"Hot or dry, grid-remote",0.406,0
+12027,1,"Hot or dry, grid-remote",0.421,0
+12029,1,"Hot or dry, grid-remote",0.51,0
+12031,1,"Hot or dry, grid-remote",0.754,1
+12033,1,"Hot or dry, grid-remote",0.546,0
+12035,1,"Hot or dry, grid-remote",0.502,0
+12037,1,"Hot or dry, grid-remote",0.545,0
+12039,1,"Hot or dry, grid-remote",0.457,0
+12041,1,"Hot or dry, grid-remote",0.514,0
+12043,1,"Hot or dry, grid-remote",0.356,0
+12045,1,"Hot or dry, grid-remote",0.53,0
+12047,1,"Hot or dry, grid-remote",0.574,0
+12049,1,"Hot or dry, grid-remote",0.447,0
+12051,1,"Hot or dry, grid-remote",0.376,0
+12053,1,"Hot or dry, grid-remote",0.586,0
+12055,1,"Hot or dry, grid-remote",0.394,0
+12057,1,"Hot or dry, grid-remote",0.536,1
+12059,1,"Hot or dry, grid-remote",0.509,0
+12061,1,"Hot or dry, grid-remote",0.49,0
+12063,1,"Hot or dry, grid-remote",0.472,0
+12065,1,"Hot or dry, grid-remote",0.513,0
+12067,1,"Hot or dry, grid-remote",0.503,0
+12069,1,"Hot or dry, grid-remote",0.529,0
+12071,1,"Hot or dry, grid-remote",0.564,0
+12073,1,"Hot or dry, grid-remote",0.616,0
+12075,1,"Hot or dry, grid-remote",0.507,0
+12077,1,"Hot or dry, grid-remote",0.215,0
+12079,1,"Hot or dry, grid-remote",0.507,0
+12081,1,"Hot or dry, grid-remote",0.477,0
+12083,1,"Hot or dry, grid-remote",0.464,0
+12085,1,"Hot or dry, grid-remote",0.504,0
+12087,1,"Hot or dry, grid-remote",0.485,0
+12089,1,"Hot or dry, grid-remote",0.495,0
+12091,1,"Hot or dry, grid-remote",0.549,0
+12093,1,"Hot or dry, grid-remote",0.386,0
+12095,1,"Hot or dry, grid-remote",0.664,1
+12097,1,"Hot or dry, grid-remote",0.421,0
+12099,1,"Hot or dry, grid-remote",0.349,0
+12101,1,"Hot or dry, grid-remote",0.61,0
+12103,1,"Hot or dry, grid-remote",0.658,0
+12105,1,"Hot or dry, grid-remote",0.562,1
+12107,1,"Hot or dry, grid-remote",0.51,0
+12109,1,"Hot or dry, grid-remote",0.603,0
+12111,1,"Hot or dry, grid-remote",0.531,0
+12113,1,"Hot or dry, grid-remote",0.501,0
+12115,1,"Hot or dry, grid-remote",0.542,0
+12117,1,"Hot or dry, grid-remote",0.661,0
+12119,1,"Hot or dry, grid-remote",0.513,0
+12121,1,"Hot or dry, grid-remote",0.485,0
+12123,1,"Hot or dry, grid-remote",0.497,0
+12125,1,"Hot or dry, grid-remote",0.505,0
+12127,1,"Hot or dry, grid-remote",0.452,0
+12129,1,"Hot or dry, grid-remote",0.544,0
+12131,1,"Hot or dry, grid-remote",0.555,0
+12133,1,"Hot or dry, grid-remote",0.518,0
+12086,1,"Hot or dry, grid-remote",0.471,1
+13001,1,"Hot or dry, grid-remote",0.418,0
+13003,1,"Hot or dry, grid-remote",0.428,0
+13005,1,"Hot or dry, grid-remote",0.436,0
+13007,1,"Hot or dry, grid-remote",0.45,0
+13009,1,"Hot or dry, grid-remote",0.914,0
+13011,2,"Grid-close, cheap land",0.664,0
+13013,2,"Grid-close, cheap land",0.88,0
+13015,2,"Grid-close, cheap land",0.75,0
+13017,1,"Hot or dry, grid-remote",0.576,0
+13019,1,"Hot or dry, grid-remote",0.409,0
+13021,2,"Grid-close, cheap land",0.916,0
+13023,1,"Hot or dry, grid-remote",0.499,0
+13025,1,"Hot or dry, grid-remote",0.37,0
+13027,1,"Hot or dry, grid-remote",0.418,0
+13029,1,"Hot or dry, grid-remote",0.449,0
+13031,1,"Hot or dry, grid-remote",0.515,0
+13033,1,"Hot or dry, grid-remote",0.42,0
+13035,2,"Grid-close, cheap land",0.603,0
+13037,1,"Hot or dry, grid-remote",0.461,0
+13039,1,"Hot or dry, grid-remote",0.462,0
+13043,1,"Hot or dry, grid-remote",0.421,0
+13045,2,"Grid-close, cheap land",0.708,0
+13047,2,"Grid-close, cheap land",0.658,0
+13049,1,"Hot or dry, grid-remote",0.33,0
+13051,1,"Hot or dry, grid-remote",0.674,0
+13053,1,"Hot or dry, grid-remote",0.645,0
+13055,2,"Grid-close, cheap land",0.567,0
+13057,2,"Grid-close, cheap land",0.726,0
+13059,2,"Grid-close, cheap land",0.927,0
+13061,1,"Hot or dry, grid-remote",0.397,0
+13063,2,"Grid-close, cheap land",0.879,0
+13065,1,"Hot or dry, grid-remote",0.411,0
+13067,2,"Grid-close, cheap land",0.776,1
+13069,1,"Hot or dry, grid-remote",0.437,0
+13071,1,"Hot or dry, grid-remote",0.509,0
+13073,2,"Grid-close, cheap land",0.753,0
+13075,1,"Hot or dry, grid-remote",0.608,0
+13077,2,"Grid-close, cheap land",0.781,0
+13079,2,"Grid-close, cheap land",0.584,0
+13081,1,"Hot or dry, grid-remote",0.492,0
+13083,2,"Grid-close, cheap land",0.394,0
+13085,2,"Grid-close, cheap land",0.562,0
+13087,1,"Hot or dry, grid-remote",0.468,0
+13091,1,"Hot or dry, grid-remote",0.498,0
+13093,1,"Hot or dry, grid-remote",0.57,0
+13095,1,"Hot or dry, grid-remote",0.691,0
+13097,2,"Grid-close, cheap land",0.907,1
+13099,1,"Hot or dry, grid-remote",0.47,0
+13101,1,"Hot or dry, grid-remote",0.31,0
+13103,1,"Hot or dry, grid-remote",0.493,0
+13105,2,"Grid-close, cheap land",0.728,0
+13107,1,"Hot or dry, grid-remote",0.385,0
+13109,1,"Hot or dry, grid-remote",0.426,0
+13111,2,"Grid-close, cheap land",0.564,0
+13113,2,"Grid-close, cheap land",0.889,1
+13115,2,"Grid-close, cheap land",0.605,0
+13117,2,"Grid-close, cheap land",0.865,1
+13119,2,"Grid-close, cheap land",0.694,0
+13121,2,"Grid-close, cheap land",0.823,1
+13123,2,"Grid-close, cheap land",0.578,0
+13125,2,"Grid-close, cheap land",0.632,0
+13127,1,"Hot or dry, grid-remote",0.531,0
+13129,2,"Grid-close, cheap land",0.617,0
+13131,1,"Hot or dry, grid-remote",0.46,0
+13133,2,"Grid-close, cheap land",0.559,0
+13135,2,"Grid-close, cheap land",0.823,1
+13137,2,"Grid-close, cheap land",0.787,0
+13139,2,"Grid-close, cheap land",0.831,0
+13141,2,"Grid-close, cheap land",0.586,0
+13143,2,"Grid-close, cheap land",0.635,0
+13145,2,"Grid-close, cheap land",0.582,0
+13147,2,"Grid-close, cheap land",0.684,0
+13149,2,"Grid-close, cheap land",0.562,0
+13151,2,"Grid-close, cheap land",0.826,0
+13153,1,"Hot or dry, grid-remote",0.841,0
+13155,1,"Hot or dry, grid-remote",0.425,0
+13157,2,"Grid-close, cheap land",0.765,0
+13159,2,"Grid-close, cheap land",0.539,0
+13161,1,"Hot or dry, grid-remote",0.486,0
+13163,1,"Hot or dry, grid-remote",0.479,0
+13165,1,"Hot or dry, grid-remote",0.387,0
+13167,1,"Hot or dry, grid-remote",0.399,0
+13169,2,"Grid-close, cheap land",0.552,0
+13171,2,"Grid-close, cheap land",0.797,0
+13173,1,"Hot or dry, grid-remote",0.342,0
+13175,1,"Hot or dry, grid-remote",0.44,0
+13177,1,"Hot or dry, grid-remote",0.496,0
+13179,1,"Hot or dry, grid-remote",0.434,0
+13181,2,"Grid-close, cheap land",0.599,0
+13183,1,"Hot or dry, grid-remote",0.438,0
+13185,1,"Hot or dry, grid-remote",0.754,0
+13187,2,"Grid-close, cheap land",0.507,0
+13189,2,"Grid-close, cheap land",0.587,0
+13191,1,"Hot or dry, grid-remote",0.443,0
+13193,1,"Hot or dry, grid-remote",0.582,0
+13195,2,"Grid-close, cheap land",0.678,0
+13197,2,"Grid-close, cheap land",0.575,0
+13199,2,"Grid-close, cheap land",0.6,0
+13201,1,"Hot or dry, grid-remote",0.495,0
+13205,1,"Hot or dry, grid-remote",0.507,0
+13207,2,"Grid-close, cheap land",0.537,0
+13209,1,"Hot or dry, grid-remote",0.471,0
+13211,2,"Grid-close, cheap land",0.521,0
+13213,2,"Grid-close, cheap land",0.568,0
+13215,2,"Grid-close, cheap land",0.682,1
+13217,2,"Grid-close, cheap land",0.818,1
+13219,2,"Grid-close, cheap land",0.582,0
+13221,2,"Grid-close, cheap land",0.522,0
+13223,2,"Grid-close, cheap land",0.787,0
+13225,1,"Hot or dry, grid-remote",0.955,0
+13227,2,"Grid-close, cheap land",0.597,0
+13229,1,"Hot or dry, grid-remote",0.563,0
+13231,2,"Grid-close, cheap land",0.566,0
+13233,2,"Grid-close, cheap land",0.544,0
+13235,1,"Hot or dry, grid-remote",0.545,0
+13237,2,"Grid-close, cheap land",0.518,0
+13239,1,"Hot or dry, grid-remote",0.409,0
+13241,2,"Grid-close, cheap land",0.498,0
+13243,1,"Hot or dry, grid-remote",0.424,0
+13245,2,"Grid-close, cheap land",0.976,0
+13247,2,"Grid-close, cheap land",0.838,0
+13249,1,"Hot or dry, grid-remote",0.797,0
+13251,1,"Hot or dry, grid-remote",0.474,0
+13253,1,"Hot or dry, grid-remote",0.431,0
+13255,2,"Grid-close, cheap land",0.808,0
+13257,2,"Grid-close, cheap land",0.75,0
+13259,1,"Hot or dry, grid-remote",0.547,0
+13261,1,"Hot or dry, grid-remote",0.542,0
+13263,2,"Grid-close, cheap land",0.637,0
+13265,2,"Grid-close, cheap land",0.76,0
+13267,1,"Hot or dry, grid-remote",0.425,0
+13269,2,"Grid-close, cheap land",0.606,0
+13271,1,"Hot or dry, grid-remote",0.401,0
+13273,1,"Hot or dry, grid-remote",0.481,0
+13275,1,"Hot or dry, grid-remote",0.509,0
+13277,1,"Hot or dry, grid-remote",0.672,0
+13279,1,"Hot or dry, grid-remote",0.508,0
+13281,2,"Grid-close, cheap land",0.559,0
+13283,1,"Hot or dry, grid-remote",0.49,0
+13285,2,"Grid-close, cheap land",0.645,0
+13287,1,"Hot or dry, grid-remote",0.554,0
+13289,1,"Hot or dry, grid-remote",0.497,0
+13291,2,"Grid-close, cheap land",0.554,0
+13293,2,"Grid-close, cheap land",0.63,0
+13295,2,"Grid-close, cheap land",0.38,0
+13297,2,"Grid-close, cheap land",0.769,0
+13299,1,"Hot or dry, grid-remote",0.327,0
+13301,2,"Grid-close, cheap land",0.588,0
+13303,1,"Hot or dry, grid-remote",0.508,0
+13305,1,"Hot or dry, grid-remote",0.378,0
+13307,1,"Hot or dry, grid-remote",0.539,0
+13309,1,"Hot or dry, grid-remote",0.43,0
+13311,2,"Grid-close, cheap land",0.53,0
+13313,2,"Grid-close, cheap land",0.79,0
+13315,1,"Hot or dry, grid-remote",0.514,0
+13317,2,"Grid-close, cheap land",0.664,0
+13319,1,"Hot or dry, grid-remote",0.451,0
+13321,1,"Hot or dry, grid-remote",0.429,0
+13089,2,"Grid-close, cheap land",0.761,0
+16001,1,"Hot or dry, grid-remote",0.527,1
+16003,2,"Grid-close, cheap land",0.783,0
+16005,1,"Hot or dry, grid-remote",0.461,0
+16007,2,"Grid-close, cheap land",0.968,1
+16009,2,"Grid-close, cheap land",0.375,0
+16011,1,"Hot or dry, grid-remote",0.785,0
+16013,1,"Hot or dry, grid-remote",0.611,0
+16015,1,"Hot or dry, grid-remote",0.65,0
+16017,2,"Grid-close, cheap land",0.377,0
+16019,2,"Grid-close, cheap land",0.419,0
+16021,2,"Grid-close, cheap land",0.43,0
+16023,1,"Hot or dry, grid-remote",0.454,0
+16025,1,"Hot or dry, grid-remote",0.697,0
+16027,1,"Hot or dry, grid-remote",0.633,0
+16029,2,"Grid-close, cheap land",0.632,0
+16031,1,"Hot or dry, grid-remote",0.383,0
+16033,1,"Hot or dry, grid-remote",0.563,0
+16035,2,"Grid-close, cheap land",0.746,0
+16037,1,"Hot or dry, grid-remote",0.549,0
+16039,1,"Hot or dry, grid-remote",0.774,0
+16041,2,"Grid-close, cheap land",0.908,0
+16043,1,"Hot or dry, grid-remote",0.938,0
+16045,1,"Hot or dry, grid-remote",0.891,0
+16047,2,"Grid-close, cheap land",0.801,0
+16049,2,"Grid-close, cheap land",0.851,0
+16051,1,"Hot or dry, grid-remote",0.554,0
+16053,1,"Hot or dry, grid-remote",0.449,0
+16055,2,"Grid-close, cheap land",0.34,0
+16057,2,"Grid-close, cheap land",0.278,0
+16059,1,"Hot or dry, grid-remote",0.628,0
+16061,2,"Grid-close, cheap land",0.395,0
+16063,1,"Hot or dry, grid-remote",0.483,0
+16065,2,"Grid-close, cheap land",0.651,1
+16067,1,"Hot or dry, grid-remote",0.404,0
+16069,2,"Grid-close, cheap land",0.435,0
+16071,2,"Grid-close, cheap land",0.686,0
+16073,2,"Grid-close, cheap land",0.912,0
+16075,2,"Grid-close, cheap land",0.858,0
+16077,1,"Hot or dry, grid-remote",0.332,0
+16079,2,"Grid-close, cheap land",0.634,0
+16081,2,"Grid-close, cheap land",0.891,0
+16083,2,"Grid-close, cheap land",0.772,0
+16085,1,"Hot or dry, grid-remote",0.818,0
+16087,1,"Hot or dry, grid-remote",0.89,0
+17001,0,"Tax-light, pricey land",0.446,0
+17003,0,"Tax-light, pricey land",0.453,0
+17005,0,"Tax-light, pricey land",0.46,0
+17007,0,"Tax-light, pricey land",0.536,0
+17009,0,"Tax-light, pricey land",0.419,0
+17011,0,"Tax-light, pricey land",0.487,0
+17013,0,"Tax-light, pricey land",0.437,0
+17015,0,"Tax-light, pricey land",0.475,0
+17017,0,"Tax-light, pricey land",0.535,0
+17019,0,"Tax-light, pricey land",0.553,1
+17021,0,"Tax-light, pricey land",0.429,0
+17023,0,"Tax-light, pricey land",0.392,0
+17025,0,"Tax-light, pricey land",0.507,0
+17027,0,"Tax-light, pricey land",0.457,0
+17029,0,"Tax-light, pricey land",0.571,0
+17031,0,"Tax-light, pricey land",0.518,1
+17033,0,"Tax-light, pricey land",0.47,0
+17035,0,"Tax-light, pricey land",0.417,0
+17039,0,"Tax-light, pricey land",0.444,0
+17041,0,"Tax-light, pricey land",0.487,0
+17043,0,"Tax-light, pricey land",0.541,1
+17045,0,"Tax-light, pricey land",0.374,0
+17047,0,"Tax-light, pricey land",0.47,0
+17049,0,"Tax-light, pricey land",0.791,0
+17051,0,"Tax-light, pricey land",0.369,0
+17053,0,"Tax-light, pricey land",0.488,0
+17055,0,"Tax-light, pricey land",0.669,0
+17057,0,"Tax-light, pricey land",0.507,0
+17059,0,"Tax-light, pricey land",0.457,0
+17061,0,"Tax-light, pricey land",0.432,0
+17063,0,"Tax-light, pricey land",0.489,0
+17065,0,"Tax-light, pricey land",0.796,0
+17067,0,"Tax-light, pricey land",0.431,0
+17069,0,"Tax-light, pricey land",0.515,0
+17071,0,"Tax-light, pricey land",0.408,0
+17073,0,"Tax-light, pricey land",0.45,0
+17075,0,"Tax-light, pricey land",0.456,0
+17077,0,"Tax-light, pricey land",0.51,0
+17079,0,"Tax-light, pricey land",0.463,0
+17081,0,"Tax-light, pricey land",0.443,0
+17083,0,"Tax-light, pricey land",0.488,0
+17085,0,"Tax-light, pricey land",0.381,0
+17087,0,"Tax-light, pricey land",0.512,0
+17089,0,"Tax-light, pricey land",0.6,0
+17091,0,"Tax-light, pricey land",0.531,0
+17093,0,"Tax-light, pricey land",0.622,0
+17095,0,"Tax-light, pricey land",0.457,0
+17097,0,"Tax-light, pricey land",0.644,1
+17099,0,"Tax-light, pricey land",0.506,0
+17101,0,"Tax-light, pricey land",0.456,0
+17103,0,"Tax-light, pricey land",0.465,0
+17105,0,"Tax-light, pricey land",0.522,0
+17107,0,"Tax-light, pricey land",0.433,0
+17109,0,"Tax-light, pricey land",0.503,0
+17111,0,"Tax-light, pricey land",0.593,0
+17113,0,"Tax-light, pricey land",0.534,0
+17115,0,"Tax-light, pricey land",0.506,0
+17117,0,"Tax-light, pricey land",0.373,0
+17119,0,"Tax-light, pricey land",0.519,1
+17121,0,"Tax-light, pricey land",0.438,0
+17123,0,"Tax-light, pricey land",0.484,0
+17125,0,"Tax-light, pricey land",0.502,0
+17127,0,"Tax-light, pricey land",0.514,0
+17129,0,"Tax-light, pricey land",0.439,0
+17131,0,"Tax-light, pricey land",0.481,0
+17133,0,"Tax-light, pricey land",0.63,0
+17135,0,"Tax-light, pricey land",0.386,0
+17137,0,"Tax-light, pricey land",0.498,0
+17139,0,"Tax-light, pricey land",0.445,0
+17141,0,"Tax-light, pricey land",0.473,0
+17143,0,"Tax-light, pricey land",0.665,0
+17145,0,"Tax-light, pricey land",0.454,0
+17147,0,"Tax-light, pricey land",0.605,0
+17149,0,"Tax-light, pricey land",0.43,0
+17151,0,"Tax-light, pricey land",0.814,0
+17153,0,"Tax-light, pricey land",0.667,0
+17155,0,"Tax-light, pricey land",0.416,0
+17157,0,"Tax-light, pricey land",0.435,0
+17159,0,"Tax-light, pricey land",0.437,0
+17161,0,"Tax-light, pricey land",0.643,0
+17163,0,"Tax-light, pricey land",0.562,0
+17165,0,"Tax-light, pricey land",0.529,0
+17167,0,"Tax-light, pricey land",0.609,0
+17169,0,"Tax-light, pricey land",0.437,0
+17171,0,"Tax-light, pricey land",0.489,0
+17173,0,"Tax-light, pricey land",0.354,0
+17175,0,"Tax-light, pricey land",0.463,0
+17177,0,"Tax-light, pricey land",0.565,0
+17179,0,"Tax-light, pricey land",0.643,0
+17181,0,"Tax-light, pricey land",0.445,0
+17183,0,"Tax-light, pricey land",0.425,0
+17185,0,"Tax-light, pricey land",0.414,0
+17187,0,"Tax-light, pricey land",0.452,0
+17189,0,"Tax-light, pricey land",0.458,0
+17191,0,"Tax-light, pricey land",0.429,0
+17193,0,"Tax-light, pricey land",0.457,0
+17195,0,"Tax-light, pricey land",0.488,0
+17197,0,"Tax-light, pricey land",0.564,0
+17199,0,"Tax-light, pricey land",0.735,0
+17201,0,"Tax-light, pricey land",0.631,0
+17203,0,"Tax-light, pricey land",0.515,0
+17037,0,"Tax-light, pricey land",0.597,1
+18001,2,"Grid-close, cheap land",0.264,0
+18003,2,"Grid-close, cheap land",0.361,0
+18005,2,"Grid-close, cheap land",0.548,0
+18007,2,"Grid-close, cheap land",0.311,0
+18009,2,"Grid-close, cheap land",0.342,0
+18011,2,"Grid-close, cheap land",0.485,0
+18013,2,"Grid-close, cheap land",0.385,0
+18015,2,"Grid-close, cheap land",0.359,0
+18017,2,"Grid-close, cheap land",0.39,0
+18019,2,"Grid-close, cheap land",0.716,0
+18021,2,"Grid-close, cheap land",0.393,0
+18023,2,"Grid-close, cheap land",0.395,0
+18025,2,"Grid-close, cheap land",0.424,0
+18027,2,"Grid-close, cheap land",0.425,0
+18029,2,"Grid-close, cheap land",0.361,0
+18031,2,"Grid-close, cheap land",0.478,0
+18033,2,"Grid-close, cheap land",0.409,0
+18035,2,"Grid-close, cheap land",0.401,0
+18037,2,"Grid-close, cheap land",0.347,0
+18039,2,"Grid-close, cheap land",0.473,0
+18041,2,"Grid-close, cheap land",0.526,0
+18043,2,"Grid-close, cheap land",0.845,0
+18045,2,"Grid-close, cheap land",0.408,0
+18047,2,"Grid-close, cheap land",0.395,0
+18049,2,"Grid-close, cheap land",0.301,0
+18051,2,"Grid-close, cheap land",0.489,0
+18053,2,"Grid-close, cheap land",0.407,0
+18055,2,"Grid-close, cheap land",0.505,0
+18057,2,"Grid-close, cheap land",0.801,0
+18059,2,"Grid-close, cheap land",0.811,1
+18061,2,"Grid-close, cheap land",0.479,0
+18063,2,"Grid-close, cheap land",0.685,0
+18065,2,"Grid-close, cheap land",0.336,0
+18067,2,"Grid-close, cheap land",0.436,0
+18069,2,"Grid-close, cheap land",0.335,0
+18071,2,"Grid-close, cheap land",0.436,0
+18073,2,"Grid-close, cheap land",0.39,0
+18075,2,"Grid-close, cheap land",0.339,0
+18077,2,"Grid-close, cheap land",0.425,0
+18079,2,"Grid-close, cheap land",0.342,0
+18081,2,"Grid-close, cheap land",0.824,0
+18083,2,"Grid-close, cheap land",0.496,0
+18085,2,"Grid-close, cheap land",0.302,0
+18087,2,"Grid-close, cheap land",0.25,0
+18089,2,"Grid-close, cheap land",0.358,1
+18091,2,"Grid-close, cheap land",0.269,0
+18093,2,"Grid-close, cheap land",0.418,0
+18095,2,"Grid-close, cheap land",0.661,0
+18097,2,"Grid-close, cheap land",0.702,0
+18099,2,"Grid-close, cheap land",0.294,0
+18101,2,"Grid-close, cheap land",0.474,0
+18103,2,"Grid-close, cheap land",0.274,0
+18105,2,"Grid-close, cheap land",0.631,1
+18107,2,"Grid-close, cheap land",0.385,0
+18109,2,"Grid-close, cheap land",0.488,0
+18111,2,"Grid-close, cheap land",0.385,0
+18113,2,"Grid-close, cheap land",0.49,0
+18115,2,"Grid-close, cheap land",0.492,0
+18117,2,"Grid-close, cheap land",0.451,0
+18119,2,"Grid-close, cheap land",0.463,0
+18121,2,"Grid-close, cheap land",0.482,0
+18123,2,"Grid-close, cheap land",0.294,0
+18125,2,"Grid-close, cheap land",0.461,0
+18127,2,"Grid-close, cheap land",0.395,0
+18129,2,"Grid-close, cheap land",0.391,0
+18131,2,"Grid-close, cheap land",0.377,0
+18133,2,"Grid-close, cheap land",0.475,0
+18135,2,"Grid-close, cheap land",0.324,0
+18137,2,"Grid-close, cheap land",0.449,0
+18139,2,"Grid-close, cheap land",0.419,0
+18141,2,"Grid-close, cheap land",0.516,0
+18143,2,"Grid-close, cheap land",0.498,0
+18145,2,"Grid-close, cheap land",0.54,0
+18147,2,"Grid-close, cheap land",0.369,0
+18149,2,"Grid-close, cheap land",0.417,0
+18151,2,"Grid-close, cheap land",0.23,0
+18153,2,"Grid-close, cheap land",0.484,0
+18155,2,"Grid-close, cheap land",0.469,0
+18157,2,"Grid-close, cheap land",0.505,1
+18159,2,"Grid-close, cheap land",0.371,0
+18161,2,"Grid-close, cheap land",0.503,0
+18163,2,"Grid-close, cheap land",0.87,0
+18165,2,"Grid-close, cheap land",0.465,0
+18167,2,"Grid-close, cheap land",0.702,0
+18169,2,"Grid-close, cheap land",0.361,0
+18171,2,"Grid-close, cheap land",0.343,0
+18173,2,"Grid-close, cheap land",0.561,0
+18175,2,"Grid-close, cheap land",0.373,0
+18177,2,"Grid-close, cheap land",0.74,0
+18179,2,"Grid-close, cheap land",0.326,0
+18181,2,"Grid-close, cheap land",0.246,0
+18183,2,"Grid-close, cheap land",0.371,0
+19001,0,"Tax-light, pricey land",0.293,0
+19003,0,"Tax-light, pricey land",0.231,0
+19005,0,"Tax-light, pricey land",0.522,0
+19007,0,"Tax-light, pricey land",0.571,0
+19009,0,"Tax-light, pricey land",0.714,0
+19011,0,"Tax-light, pricey land",0.359,0
+19013,0,"Tax-light, pricey land",0.14,0
+19015,0,"Tax-light, pricey land",0.436,0
+19017,0,"Tax-light, pricey land",0.193,0
+19019,0,"Tax-light, pricey land",0.301,0
+19021,0,"Tax-light, pricey land",0.307,0
+19023,0,"Tax-light, pricey land",0.318,0
+19025,0,"Tax-light, pricey land",0.186,0
+19027,0,"Tax-light, pricey land",0.425,0
+19029,0,"Tax-light, pricey land",0.203,0
+19031,0,"Tax-light, pricey land",0.353,0
+19033,0,"Tax-light, pricey land",0.205,0
+19035,0,"Tax-light, pricey land",0.358,0
+19037,0,"Tax-light, pricey land",0.556,0
+19039,0,"Tax-light, pricey land",0.479,0
+19041,0,"Tax-light, pricey land",0.268,0
+19043,0,"Tax-light, pricey land",0.512,0
+19045,0,"Tax-light, pricey land",0.176,0
+19047,0,"Tax-light, pricey land",0.342,0
+19049,0,"Tax-light, pricey land",0.132,1
+19051,0,"Tax-light, pricey land",0.335,0
+19053,0,"Tax-light, pricey land",0.825,0
+19055,0,"Tax-light, pricey land",0.469,0
+19057,0,"Tax-light, pricey land",0.599,0
+19059,0,"Tax-light, pricey land",0.432,0
+19061,0,"Tax-light, pricey land",0.541,0
+19063,0,"Tax-light, pricey land",0.319,0
+19065,0,"Tax-light, pricey land",0.358,0
+19067,0,"Tax-light, pricey land",0.142,0
+19069,0,"Tax-light, pricey land",0.193,0
+19071,0,"Tax-light, pricey land",0.245,0
+19073,0,"Tax-light, pricey land",0.541,0
+19075,0,"Tax-light, pricey land",0.412,0
+19077,0,"Tax-light, pricey land",0.577,0
+19079,0,"Tax-light, pricey land",0.353,0
+19081,0,"Tax-light, pricey land",0.508,0
+19083,0,"Tax-light, pricey land",0.343,0
+19085,0,"Tax-light, pricey land",0.232,0
+19087,0,"Tax-light, pricey land",0.95,0
+19089,0,"Tax-light, pricey land",0.354,0
+19091,0,"Tax-light, pricey land",0.378,0
+19093,0,"Tax-light, pricey land",0.47,0
+19095,0,"Tax-light, pricey land",0.379,0
+19097,0,"Tax-light, pricey land",0.636,0
+19099,0,"Tax-light, pricey land",0.115,0
+19101,0,"Tax-light, pricey land",0.39,0
+19103,0,"Tax-light, pricey land",0.368,1
+19105,0,"Tax-light, pricey land",0.69,0
+19107,0,"Tax-light, pricey land",0.816,0
+19109,0,"Tax-light, pricey land",0.455,0
+19111,0,"Tax-light, pricey land",0.379,0
+19113,0,"Tax-light, pricey land",0.433,0
+19115,0,"Tax-light, pricey land",0.279,0
+19117,0,"Tax-light, pricey land",0.312,0
+19119,0,"Tax-light, pricey land",0.449,0
+19121,0,"Tax-light, pricey land",0.229,1
+19123,0,"Tax-light, pricey land",0.146,0
+19125,0,"Tax-light, pricey land",0.422,0
+19127,0,"Tax-light, pricey land",0.442,0
+19129,0,"Tax-light, pricey land",0.183,0
+19131,0,"Tax-light, pricey land",0.533,0
+19133,0,"Tax-light, pricey land",0.429,0
+19135,0,"Tax-light, pricey land",0.482,0
+19137,0,"Tax-light, pricey land",0.333,0
+19139,0,"Tax-light, pricey land",0.302,0
+19141,0,"Tax-light, pricey land",0.408,0
+19143,0,"Tax-light, pricey land",0.354,0
+19145,0,"Tax-light, pricey land",0.307,0
+19147,0,"Tax-light, pricey land",0.376,0
+19149,0,"Tax-light, pricey land",0.46,0
+19151,0,"Tax-light, pricey land",0.25,0
+19153,0,"Tax-light, pricey land",0.604,1
+19155,0,"Tax-light, pricey land",0.28,1
+19157,0,"Tax-light, pricey land",0.201,0
+19159,0,"Tax-light, pricey land",0.943,0
+19161,0,"Tax-light, pricey land",0.456,0
+19163,0,"Tax-light, pricey land",0.504,1
+19165,0,"Tax-light, pricey land",0.523,0
+19167,0,"Tax-light, pricey land",0.535,0
+19169,0,"Tax-light, pricey land",0.363,0
+19171,0,"Tax-light, pricey land",0.641,0
+19173,0,"Tax-light, pricey land",0.31,0
+19175,0,"Tax-light, pricey land",0.429,0
+19177,0,"Tax-light, pricey land",0.94,0
+19179,0,"Tax-light, pricey land",0.284,0
+19181,0,"Tax-light, pricey land",0.275,1
+19183,0,"Tax-light, pricey land",0.396,0
+19185,0,"Tax-light, pricey land",0.82,0
+19187,0,"Tax-light, pricey land",0.129,0
+19189,0,"Tax-light, pricey land",0.94,0
+19191,0,"Tax-light, pricey land",0.572,0
+19193,0,"Tax-light, pricey land",0.135,0
+19195,0,"Tax-light, pricey land",0.407,0
+19197,0,"Tax-light, pricey land",0.157,0
+20001,2,"Grid-close, cheap land",0.808,0
+20003,2,"Grid-close, cheap land",0.818,0
+20005,2,"Grid-close, cheap land",0.673,0
+20007,2,"Grid-close, cheap land",0.814,0
+20009,2,"Grid-close, cheap land",0.782,0
+20011,2,"Grid-close, cheap land",0.809,0
+20013,2,"Grid-close, cheap land",0.71,0
+20015,2,"Grid-close, cheap land",0.779,0
+20017,2,"Grid-close, cheap land",0.997,0
+20019,2,"Grid-close, cheap land",0.868,0
+20021,2,"Grid-close, cheap land",0.583,0
+20023,1,"Hot or dry, grid-remote",0.353,0
+20025,1,"Hot or dry, grid-remote",0.86,0
+20027,1,"Hot or dry, grid-remote",0.501,0
+20029,1,"Hot or dry, grid-remote",0.609,0
+20031,2,"Grid-close, cheap land",0.53,0
+20033,2,"Grid-close, cheap land",0.973,0
+20035,2,"Grid-close, cheap land",0.828,0
+20037,2,"Grid-close, cheap land",0.759,0
+20039,1,"Hot or dry, grid-remote",0.505,0
+20041,1,"Hot or dry, grid-remote",0.48,0
+20043,2,"Grid-close, cheap land",0.588,0
+20045,2,"Grid-close, cheap land",0.578,0
+20047,1,"Hot or dry, grid-remote",0.841,0
+20049,0,"Tax-light, pricey land",0.935,0
+20051,1,"Hot or dry, grid-remote",0.321,1
+20053,1,"Hot or dry, grid-remote",0.51,0
+20055,1,"Hot or dry, grid-remote",0.367,0
+20057,1,"Hot or dry, grid-remote",0.519,0
+20059,2,"Grid-close, cheap land",0.687,0
+20061,2,"Grid-close, cheap land",0.87,0
+20063,1,"Hot or dry, grid-remote",0.316,0
+20065,1,"Hot or dry, grid-remote",0.448,0
+20067,1,"Hot or dry, grid-remote",0.376,0
+20069,1,"Hot or dry, grid-remote",0.406,0
+20071,1,"Hot or dry, grid-remote",0.507,0
+20073,2,"Grid-close, cheap land",0.968,0
+20075,1,"Hot or dry, grid-remote",0.4,0
+20077,2,"Grid-close, cheap land",0.848,0
+20079,2,"Grid-close, cheap land",0.74,0
+20081,1,"Hot or dry, grid-remote",0.434,0
+20083,1,"Hot or dry, grid-remote",0.495,0
+20085,2,"Grid-close, cheap land",0.662,0
+20087,2,"Grid-close, cheap land",0.726,0
+20089,1,"Hot or dry, grid-remote",0.947,0
+20091,2,"Grid-close, cheap land",0.809,1
+20093,1,"Hot or dry, grid-remote",0.294,0
+20095,2,"Grid-close, cheap land",0.865,0
+20097,2,"Grid-close, cheap land",0.675,0
+20099,2,"Grid-close, cheap land",0.906,0
+20101,1,"Hot or dry, grid-remote",0.912,0
+20103,2,"Grid-close, cheap land",0.544,0
+20105,1,"Hot or dry, grid-remote",0.445,0
+20107,2,"Grid-close, cheap land",0.677,0
+20109,1,"Hot or dry, grid-remote",0.568,0
+20111,2,"Grid-close, cheap land",0.941,0
+20113,2,"Grid-close, cheap land",0.86,0
+20115,2,"Grid-close, cheap land",0.948,0
+20117,1,"Hot or dry, grid-remote",0.461,0
+20119,1,"Hot or dry, grid-remote",0.469,0
+20121,2,"Grid-close, cheap land",0.677,0
+20123,1,"Hot or dry, grid-remote",0.908,0
+20125,2,"Grid-close, cheap land",0.87,0
+20127,2,"Grid-close, cheap land",0.909,0
+20129,1,"Hot or dry, grid-remote",0.577,0
+20131,2,"Grid-close, cheap land",0.569,0
+20133,2,"Grid-close, cheap land",0.766,0
+20135,1,"Hot or dry, grid-remote",0.97,0
+20137,1,"Hot or dry, grid-remote",0.398,0
+20139,2,"Grid-close, cheap land",0.764,0
+20141,1,"Hot or dry, grid-remote",0.505,0
+20143,1,"Hot or dry, grid-remote",0.866,0
+20145,1,"Hot or dry, grid-remote",0.731,0
+20147,1,"Hot or dry, grid-remote",0.451,0
+20149,2,"Grid-close, cheap land",0.809,0
+20151,2,"Grid-close, cheap land",0.843,0
+20153,1,"Hot or dry, grid-remote",0.492,0
+20155,2,"Grid-close, cheap land",0.917,0
+20157,1,"Hot or dry, grid-remote",0.824,0
+20159,2,"Grid-close, cheap land",0.845,0
+20161,1,"Hot or dry, grid-remote",0.864,0
+20163,1,"Hot or dry, grid-remote",0.541,0
+20165,1,"Hot or dry, grid-remote",0.985,0
+20167,1,"Hot or dry, grid-remote",0.466,0
+20169,1,"Hot or dry, grid-remote",0.457,0
+20171,1,"Hot or dry, grid-remote",0.465,0
+20173,2,"Grid-close, cheap land",0.725,0
+20175,1,"Hot or dry, grid-remote",0.476,0
+20177,2,"Grid-close, cheap land",0.804,0
+20179,1,"Hot or dry, grid-remote",0.383,0
+20181,1,"Hot or dry, grid-remote",0.442,0
+20183,1,"Hot or dry, grid-remote",0.45,0
+20185,2,"Grid-close, cheap land",0.753,0
+20187,1,"Hot or dry, grid-remote",0.669,0
+20189,1,"Hot or dry, grid-remote",0.561,0
+20191,2,"Grid-close, cheap land",0.93,0
+20193,1,"Hot or dry, grid-remote",0.302,0
+20195,1,"Hot or dry, grid-remote",0.377,0
+20197,2,"Grid-close, cheap land",0.762,0
+20199,1,"Hot or dry, grid-remote",0.453,0
+20201,1,"Hot or dry, grid-remote",0.486,0
+20203,1,"Hot or dry, grid-remote",0.39,0
+20205,2,"Grid-close, cheap land",0.798,0
+20207,0,"Tax-light, pricey land",0.987,0
+20209,2,"Grid-close, cheap land",0.91,0
+21001,2,"Grid-close, cheap land",0.392,0
+21003,2,"Grid-close, cheap land",0.449,0
+21005,2,"Grid-close, cheap land",0.533,0
+21007,2,"Grid-close, cheap land",0.448,0
+21009,2,"Grid-close, cheap land",0.443,0
+21011,2,"Grid-close, cheap land",0.328,0
+21013,2,"Grid-close, cheap land",0.401,0
+21015,2,"Grid-close, cheap land",0.423,0
+21017,2,"Grid-close, cheap land",0.376,0
+21019,2,"Grid-close, cheap land",0.66,0
+21021,2,"Grid-close, cheap land",0.679,0
+21023,2,"Grid-close, cheap land",0.421,0
+21025,2,"Grid-close, cheap land",0.37,0
+21027,2,"Grid-close, cheap land",0.393,0
+21029,2,"Grid-close, cheap land",0.826,0
+21031,2,"Grid-close, cheap land",0.331,0
+21033,2,"Grid-close, cheap land",0.454,0
+21035,2,"Grid-close, cheap land",0.578,0
+21037,2,"Grid-close, cheap land",0.535,0
+21039,2,"Grid-close, cheap land",0.53,0
+21041,2,"Grid-close, cheap land",0.429,0
+21043,2,"Grid-close, cheap land",0.366,0
+21045,2,"Grid-close, cheap land",0.429,0
+21047,2,"Grid-close, cheap land",0.378,0
+21049,2,"Grid-close, cheap land",0.559,0
+21051,2,"Grid-close, cheap land",0.34,0
+21053,2,"Grid-close, cheap land",0.44,0
+21055,2,"Grid-close, cheap land",0.486,0
+21057,2,"Grid-close, cheap land",0.333,0
+21059,2,"Grid-close, cheap land",0.457,0
+21061,2,"Grid-close, cheap land",0.423,0
+21063,2,"Grid-close, cheap land",0.33,0
+21065,2,"Grid-close, cheap land",0.326,0
+21067,2,"Grid-close, cheap land",0.759,0
+21069,2,"Grid-close, cheap land",0.372,0
+21071,2,"Grid-close, cheap land",0.413,1
+21073,2,"Grid-close, cheap land",0.348,0
+21075,2,"Grid-close, cheap land",0.39,0
+21077,2,"Grid-close, cheap land",0.422,0
+21079,2,"Grid-close, cheap land",0.405,0
+21081,2,"Grid-close, cheap land",0.4,0
+21083,2,"Grid-close, cheap land",0.483,0
+21085,2,"Grid-close, cheap land",0.347,0
+21087,2,"Grid-close, cheap land",0.347,0
+21089,2,"Grid-close, cheap land",0.379,0
+21091,2,"Grid-close, cheap land",0.362,0
+21093,2,"Grid-close, cheap land",0.557,0
+21095,2,"Grid-close, cheap land",0.465,0
+21097,2,"Grid-close, cheap land",0.359,0
+21099,2,"Grid-close, cheap land",0.419,0
+21101,2,"Grid-close, cheap land",0.493,0
+21103,2,"Grid-close, cheap land",0.439,0
+21105,2,"Grid-close, cheap land",0.453,0
+21107,2,"Grid-close, cheap land",0.429,1
+21109,2,"Grid-close, cheap land",0.393,0
+21111,2,"Grid-close, cheap land",0.738,1
+21113,2,"Grid-close, cheap land",0.805,0
+21115,2,"Grid-close, cheap land",0.346,0
+21117,2,"Grid-close, cheap land",0.466,0
+21119,2,"Grid-close, cheap land",0.407,0
+21121,2,"Grid-close, cheap land",0.339,0
+21123,2,"Grid-close, cheap land",0.351,0
+21125,2,"Grid-close, cheap land",0.687,0
+21127,2,"Grid-close, cheap land",0.356,0
+21129,2,"Grid-close, cheap land",0.4,0
+21131,2,"Grid-close, cheap land",0.371,0
+21133,2,"Grid-close, cheap land",0.424,0
+21135,2,"Grid-close, cheap land",0.385,0
+21137,2,"Grid-close, cheap land",0.406,0
+21139,2,"Grid-close, cheap land",0.319,0
+21141,2,"Grid-close, cheap land",0.285,0
+21143,2,"Grid-close, cheap land",0.447,0
+21145,2,"Grid-close, cheap land",0.394,1
+21147,2,"Grid-close, cheap land",0.384,0
+21149,2,"Grid-close, cheap land",0.452,0
+21151,2,"Grid-close, cheap land",0.675,0
+21153,2,"Grid-close, cheap land",0.359,0
+21155,2,"Grid-close, cheap land",0.336,0
+21157,2,"Grid-close, cheap land",0.485,0
+21159,2,"Grid-close, cheap land",0.393,0
+21161,2,"Grid-close, cheap land",0.408,0
+21163,2,"Grid-close, cheap land",0.433,0
+21165,2,"Grid-close, cheap land",0.465,0
+21167,2,"Grid-close, cheap land",0.523,0
+21169,2,"Grid-close, cheap land",0.363,0
+21171,2,"Grid-close, cheap land",0.527,0
+21173,2,"Grid-close, cheap land",0.485,0
+21175,2,"Grid-close, cheap land",0.331,0
+21177,2,"Grid-close, cheap land",0.498,0
+21179,2,"Grid-close, cheap land",0.595,0
+21181,2,"Grid-close, cheap land",0.341,0
+21183,2,"Grid-close, cheap land",0.399,0
+21185,2,"Grid-close, cheap land",0.786,0
+21187,2,"Grid-close, cheap land",0.407,0
+21189,2,"Grid-close, cheap land",0.399,0
+21191,2,"Grid-close, cheap land",0.339,0
+21193,2,"Grid-close, cheap land",0.437,0
+21195,2,"Grid-close, cheap land",0.479,0
+21197,2,"Grid-close, cheap land",0.448,0
+21199,2,"Grid-close, cheap land",0.439,0
+21201,2,"Grid-close, cheap land",0.497,0
+21203,2,"Grid-close, cheap land",0.358,0
+21205,2,"Grid-close, cheap land",0.378,0
+21207,2,"Grid-close, cheap land",0.429,0
+21209,2,"Grid-close, cheap land",0.592,0
+21211,2,"Grid-close, cheap land",0.425,0
+21213,2,"Grid-close, cheap land",0.37,0
+21215,2,"Grid-close, cheap land",0.368,0
+21217,2,"Grid-close, cheap land",0.495,0
+21219,2,"Grid-close, cheap land",0.403,0
+21221,2,"Grid-close, cheap land",0.46,0
+21223,2,"Grid-close, cheap land",0.477,0
+21225,2,"Grid-close, cheap land",0.466,0
+21227,2,"Grid-close, cheap land",0.39,0
+21229,2,"Grid-close, cheap land",0.315,0
+21231,2,"Grid-close, cheap land",0.324,0
+21233,2,"Grid-close, cheap land",0.575,0
+21235,2,"Grid-close, cheap land",0.328,0
+21237,2,"Grid-close, cheap land",0.306,0
+21239,2,"Grid-close, cheap land",0.678,0
+22001,2,"Grid-close, cheap land",0.83,0
+22003,2,"Grid-close, cheap land",0.653,0
+22005,1,"Hot or dry, grid-remote",0.94,0
+22007,1,"Hot or dry, grid-remote",0.605,0
+22009,2,"Grid-close, cheap land",0.924,0
+22011,2,"Grid-close, cheap land",0.65,0
+22013,2,"Grid-close, cheap land",0.764,0
+22015,2,"Grid-close, cheap land",0.796,0
+22017,2,"Grid-close, cheap land",0.768,0
+22019,2,"Grid-close, cheap land",0.618,0
+22021,2,"Grid-close, cheap land",0.713,0
+22023,1,"Hot or dry, grid-remote",0.662,0
+22025,2,"Grid-close, cheap land",0.667,0
+22027,2,"Grid-close, cheap land",0.721,0
+22029,2,"Grid-close, cheap land",0.662,0
+22031,2,"Grid-close, cheap land",0.825,0
+22033,2,"Grid-close, cheap land",0.77,1
+22035,2,"Grid-close, cheap land",0.74,0
+22037,2,"Grid-close, cheap land",0.694,0
+22039,2,"Grid-close, cheap land",0.84,0
+22041,2,"Grid-close, cheap land",0.678,0
+22043,2,"Grid-close, cheap land",0.807,0
+22045,1,"Hot or dry, grid-remote",0.659,0
+22047,2,"Grid-close, cheap land",0.956,0
+22049,2,"Grid-close, cheap land",0.721,0
+22051,1,"Hot or dry, grid-remote",0.693,0
+22053,2,"Grid-close, cheap land",0.808,0
+22055,2,"Grid-close, cheap land",0.935,0
+22057,1,"Hot or dry, grid-remote",0.606,0
+22059,2,"Grid-close, cheap land",0.668,0
+22061,2,"Grid-close, cheap land",0.709,0
+22063,2,"Grid-close, cheap land",0.842,0
+22065,2,"Grid-close, cheap land",0.693,0
+22067,2,"Grid-close, cheap land",0.634,0
+22069,2,"Grid-close, cheap land",0.832,0
+22071,1,"Hot or dry, grid-remote",0.631,0
+22073,2,"Grid-close, cheap land",0.717,0
+22075,1,"Hot or dry, grid-remote",0.685,0
+22077,2,"Grid-close, cheap land",0.634,0
+22079,2,"Grid-close, cheap land",0.808,0
+22081,2,"Grid-close, cheap land",0.787,0
+22083,2,"Grid-close, cheap land",0.673,0
+22085,2,"Grid-close, cheap land",0.913,0
+22087,1,"Hot or dry, grid-remote",0.685,0
+22089,1,"Hot or dry, grid-remote",0.75,0
+22091,2,"Grid-close, cheap land",0.702,0
+22093,1,"Hot or dry, grid-remote",0.715,0
+22095,1,"Hot or dry, grid-remote",0.675,0
+22097,2,"Grid-close, cheap land",0.716,0
+22099,1,"Hot or dry, grid-remote",0.824,0
+22101,1,"Hot or dry, grid-remote",0.564,0
+22103,1,"Hot or dry, grid-remote",0.656,0
+22105,2,"Grid-close, cheap land",0.753,0
+22107,2,"Grid-close, cheap land",0.738,0
+22109,1,"Hot or dry, grid-remote",0.593,0
+22111,2,"Grid-close, cheap land",0.72,0
+22113,1,"Hot or dry, grid-remote",0.629,0
+22115,2,"Grid-close, cheap land",0.849,0
+22117,2,"Grid-close, cheap land",0.652,0
+22119,2,"Grid-close, cheap land",0.746,0
+22121,2,"Grid-close, cheap land",0.755,0
+22123,2,"Grid-close, cheap land",0.67,0
+22125,2,"Grid-close, cheap land",0.705,0
+22127,2,"Grid-close, cheap land",0.754,0
+23001,2,"Grid-close, cheap land",0.881,0
+23003,2,"Grid-close, cheap land",0.943,0
+23005,2,"Grid-close, cheap land",0.843,1
+23007,2,"Grid-close, cheap land",0.882,0
+23009,2,"Grid-close, cheap land",0.754,0
+23011,2,"Grid-close, cheap land",0.851,0
+23013,2,"Grid-close, cheap land",0.891,0
+23015,2,"Grid-close, cheap land",0.826,0
+23017,2,"Grid-close, cheap land",0.898,0
+23019,2,"Grid-close, cheap land",0.907,0
+23021,2,"Grid-close, cheap land",0.924,0
+23023,2,"Grid-close, cheap land",0.847,0
+23025,2,"Grid-close, cheap land",0.963,0
+23027,2,"Grid-close, cheap land",0.821,0
+23029,2,"Grid-close, cheap land",0.949,0
+23031,2,"Grid-close, cheap land",0.825,0
+24001,2,"Grid-close, cheap land",0.58,0
+24003,2,"Grid-close, cheap land",0.417,1
+24005,2,"Grid-close, cheap land",0.519,1
+24510,2,"Grid-close, cheap land",0.735,1
+24009,2,"Grid-close, cheap land",0.611,0
+24011,2,"Grid-close, cheap land",0.385,0
+24013,2,"Grid-close, cheap land",0.442,0
+24015,2,"Grid-close, cheap land",0.408,0
+24017,2,"Grid-close, cheap land",0.679,0
+24019,2,"Grid-close, cheap land",0.414,0
+24021,2,"Grid-close, cheap land",0.568,1
+24023,2,"Grid-close, cheap land",0.481,0
+24025,2,"Grid-close, cheap land",0.465,0
+24027,2,"Grid-close, cheap land",0.568,1
+24029,2,"Grid-close, cheap land",0.391,0
+24031,2,"Grid-close, cheap land",0.497,1
+24033,2,"Grid-close, cheap land",0.569,1
+24035,2,"Grid-close, cheap land",0.354,0
+24037,2,"Grid-close, cheap land",0.643,0
+24039,2,"Grid-close, cheap land",0.406,0
+24041,2,"Grid-close, cheap land",0.439,0
+24043,2,"Grid-close, cheap land",0.554,0
+24045,2,"Grid-close, cheap land",0.379,0
+24047,2,"Grid-close, cheap land",0.345,0
+25001,2,"Grid-close, cheap land",0.605,0
+25003,2,"Grid-close, cheap land",0.671,0
+25005,2,"Grid-close, cheap land",0.513,0
+25007,2,"Grid-close, cheap land",0.435,0
+25009,2,"Grid-close, cheap land",0.573,1
+25011,2,"Grid-close, cheap land",0.801,0
+25013,2,"Grid-close, cheap land",0.768,0
+25015,2,"Grid-close, cheap land",0.715,0
+25017,2,"Grid-close, cheap land",0.467,1
+25019,2,"Grid-close, cheap land",0.436,0
+25021,2,"Grid-close, cheap land",0.585,0
+25023,2,"Grid-close, cheap land",0.659,0
+25025,2,"Grid-close, cheap land",0.595,0
+25027,2,"Grid-close, cheap land",0.796,0
+26001,2,"Grid-close, cheap land",0.456,0
+26003,2,"Grid-close, cheap land",0.491,0
+26005,2,"Grid-close, cheap land",0.517,0
+26007,2,"Grid-close, cheap land",0.537,0
+26009,2,"Grid-close, cheap land",0.407,0
+26011,2,"Grid-close, cheap land",0.622,0
+26013,2,"Grid-close, cheap land",0.895,0
+26015,2,"Grid-close, cheap land",0.466,0
+26017,2,"Grid-close, cheap land",0.808,0
+26019,2,"Grid-close, cheap land",0.437,0
+26021,2,"Grid-close, cheap land",0.547,0
+26023,2,"Grid-close, cheap land",0.513,0
+26025,2,"Grid-close, cheap land",0.703,0
+26027,2,"Grid-close, cheap land",0.412,0
+26029,2,"Grid-close, cheap land",0.464,0
+26031,2,"Grid-close, cheap land",0.411,0
+26033,2,"Grid-close, cheap land",0.96,0
+26035,2,"Grid-close, cheap land",0.77,0
+26037,2,"Grid-close, cheap land",0.538,0
+26039,2,"Grid-close, cheap land",0.509,0
+26041,2,"Grid-close, cheap land",0.571,0
+26043,2,"Grid-close, cheap land",0.74,0
+26045,2,"Grid-close, cheap land",0.629,1
+26047,2,"Grid-close, cheap land",0.391,0
+26049,2,"Grid-close, cheap land",0.632,1
+26051,2,"Grid-close, cheap land",0.537,0
+26053,2,"Grid-close, cheap land",0.762,0
+26055,2,"Grid-close, cheap land",0.377,0
+26057,2,"Grid-close, cheap land",0.538,0
+26059,2,"Grid-close, cheap land",0.447,0
+26061,2,"Grid-close, cheap land",0.761,0
+26063,2,"Grid-close, cheap land",0.644,0
+26065,2,"Grid-close, cheap land",0.877,0
+26067,2,"Grid-close, cheap land",0.515,0
+26069,2,"Grid-close, cheap land",0.564,0
+26071,2,"Grid-close, cheap land",0.82,0
+26073,2,"Grid-close, cheap land",0.647,0
+26075,2,"Grid-close, cheap land",0.576,0
+26077,2,"Grid-close, cheap land",0.766,0
+26079,2,"Grid-close, cheap land",0.472,0
+26081,2,"Grid-close, cheap land",0.479,0
+26083,2,"Grid-close, cheap land",0.475,0
+26085,2,"Grid-close, cheap land",0.564,0
+26087,2,"Grid-close, cheap land",0.525,0
+26089,2,"Grid-close, cheap land",0.457,0
+26091,2,"Grid-close, cheap land",0.592,0
+26093,2,"Grid-close, cheap land",0.418,0
+26095,2,"Grid-close, cheap land",0.925,0
+26097,2,"Grid-close, cheap land",0.713,0
+26099,2,"Grid-close, cheap land",0.783,1
+26101,2,"Grid-close, cheap land",0.534,0
+26103,2,"Grid-close, cheap land",0.455,0
+26105,2,"Grid-close, cheap land",0.5,0
+26107,2,"Grid-close, cheap land",0.554,0
+26109,2,"Grid-close, cheap land",0.576,0
+26111,2,"Grid-close, cheap land",0.714,0
+26113,2,"Grid-close, cheap land",0.915,0
+26115,2,"Grid-close, cheap land",0.504,1
+26117,2,"Grid-close, cheap land",0.436,0
+26119,2,"Grid-close, cheap land",0.328,0
+26121,2,"Grid-close, cheap land",0.614,0
+26123,2,"Grid-close, cheap land",0.563,0
+26125,2,"Grid-close, cheap land",0.641,1
+26127,2,"Grid-close, cheap land",0.529,0
+26129,2,"Grid-close, cheap land",0.488,0
+26131,2,"Grid-close, cheap land",0.674,0
+26133,2,"Grid-close, cheap land",0.622,0
+26135,2,"Grid-close, cheap land",0.38,0
+26137,2,"Grid-close, cheap land",0.315,0
+26139,2,"Grid-close, cheap land",0.505,0
+26141,2,"Grid-close, cheap land",0.523,0
+26143,2,"Grid-close, cheap land",0.513,0
+26145,2,"Grid-close, cheap land",0.735,0
+26147,2,"Grid-close, cheap land",0.712,0
+26149,2,"Grid-close, cheap land",0.428,0
+26151,2,"Grid-close, cheap land",0.65,0
+26153,2,"Grid-close, cheap land",0.618,0
+26155,2,"Grid-close, cheap land",0.593,0
+26157,2,"Grid-close, cheap land",0.583,0
+26159,2,"Grid-close, cheap land",0.584,0
+26161,2,"Grid-close, cheap land",0.817,0
+26163,2,"Grid-close, cheap land",0.815,1
+26165,2,"Grid-close, cheap land",0.566,0
+27001,0,"Tax-light, pricey land",0.756,0
+27003,0,"Tax-light, pricey land",0.667,1
+27005,0,"Tax-light, pricey land",0.784,0
+27007,0,"Tax-light, pricey land",0.902,0
+27009,0,"Tax-light, pricey land",0.675,0
+27011,0,"Tax-light, pricey land",0.705,0
+27013,0,"Tax-light, pricey land",0.504,0
+27015,0,"Tax-light, pricey land",0.581,0
+27017,0,"Tax-light, pricey land",0.319,0
+27019,0,"Tax-light, pricey land",0.699,1
+27021,0,"Tax-light, pricey land",0.78,0
+27023,0,"Tax-light, pricey land",0.548,0
+27025,0,"Tax-light, pricey land",0.568,0
+27027,0,"Tax-light, pricey land",0.568,0
+27029,0,"Tax-light, pricey land",0.808,0
+27031,0,"Tax-light, pricey land",0.623,0
+27033,0,"Tax-light, pricey land",0.535,0
+27035,0,"Tax-light, pricey land",0.6,0
+27037,0,"Tax-light, pricey land",0.683,1
+27039,0,"Tax-light, pricey land",0.644,0
+27041,0,"Tax-light, pricey land",0.697,0
+27043,0,"Tax-light, pricey land",0.642,0
+27045,0,"Tax-light, pricey land",0.763,0
+27047,0,"Tax-light, pricey land",0.66,0
+27049,0,"Tax-light, pricey land",0.632,0
+27051,0,"Tax-light, pricey land",0.61,0
+27053,0,"Tax-light, pricey land",0.622,1
+27055,0,"Tax-light, pricey land",0.63,0
+27057,0,"Tax-light, pricey land",0.576,0
+27059,0,"Tax-light, pricey land",0.617,0
+27061,0,"Tax-light, pricey land",0.744,0
+27063,0,"Tax-light, pricey land",0.555,0
+27065,0,"Tax-light, pricey land",0.858,0
+27067,0,"Tax-light, pricey land",0.602,0
+27069,0,"Tax-light, pricey land",0.764,0
+27071,0,"Tax-light, pricey land",0.901,0
+27073,0,"Tax-light, pricey land",0.599,0
+27075,0,"Tax-light, pricey land",0.697,0
+27077,0,"Tax-light, pricey land",0.957,0
+27079,0,"Tax-light, pricey land",0.434,0
+27081,0,"Tax-light, pricey land",0.714,0
+27083,0,"Tax-light, pricey land",0.443,0
+27085,0,"Tax-light, pricey land",0.684,0
+27087,0,"Tax-light, pricey land",0.656,0
+27089,0,"Tax-light, pricey land",0.809,0
+27091,0,"Tax-light, pricey land",0.91,0
+27093,0,"Tax-light, pricey land",0.732,0
+27095,0,"Tax-light, pricey land",0.833,0
+27097,0,"Tax-light, pricey land",0.697,0
+27099,0,"Tax-light, pricey land",0.641,0
+27101,0,"Tax-light, pricey land",0.655,0
+27103,0,"Tax-light, pricey land",0.58,0
+27105,0,"Tax-light, pricey land",0.52,0
+27107,0,"Tax-light, pricey land",0.748,0
+27109,0,"Tax-light, pricey land",0.782,1
+27111,0,"Tax-light, pricey land",0.595,0
+27113,0,"Tax-light, pricey land",0.636,0
+27115,0,"Tax-light, pricey land",0.541,0
+27117,0,"Tax-light, pricey land",0.596,0
+27119,0,"Tax-light, pricey land",0.6,0
+27121,0,"Tax-light, pricey land",0.748,0
+27123,0,"Tax-light, pricey land",0.596,1
+27125,0,"Tax-light, pricey land",0.723,0
+27127,0,"Tax-light, pricey land",0.672,0
+27129,0,"Tax-light, pricey land",0.703,0
+27131,0,"Tax-light, pricey land",0.639,0
+27133,0,"Tax-light, pricey land",0.644,0
+27135,0,"Tax-light, pricey land",0.666,0
+27137,0,"Tax-light, pricey land",0.627,1
+27139,0,"Tax-light, pricey land",0.927,0
+27141,0,"Tax-light, pricey land",0.877,0
+27143,0,"Tax-light, pricey land",0.554,0
+27145,0,"Tax-light, pricey land",0.657,0
+27147,0,"Tax-light, pricey land",0.658,0
+27149,0,"Tax-light, pricey land",0.675,0
+27151,0,"Tax-light, pricey land",0.64,0
+27153,0,"Tax-light, pricey land",0.491,0
+27155,0,"Tax-light, pricey land",0.683,0
+27157,0,"Tax-light, pricey land",0.586,0
+27159,0,"Tax-light, pricey land",0.421,0
+27161,0,"Tax-light, pricey land",0.412,0
+27163,0,"Tax-light, pricey land",0.563,0
+27165,0,"Tax-light, pricey land",0.584,0
+27167,0,"Tax-light, pricey land",0.638,0
+27169,0,"Tax-light, pricey land",0.694,0
+27171,0,"Tax-light, pricey land",0.805,0
+27173,0,"Tax-light, pricey land",0.549,0
+28001,2,"Grid-close, cheap land",0.436,0
+28003,2,"Grid-close, cheap land",0.619,0
+28005,2,"Grid-close, cheap land",0.358,0
+28007,2,"Grid-close, cheap land",0.275,0
+28009,2,"Grid-close, cheap land",0.624,0
+28011,2,"Grid-close, cheap land",0.201,0
+28013,2,"Grid-close, cheap land",0.968,0
+28015,2,"Grid-close, cheap land",0.2,0
+28017,2,"Grid-close, cheap land",0.696,0
+28019,2,"Grid-close, cheap land",0.303,0
+28021,2,"Grid-close, cheap land",0.337,0
+28023,2,"Grid-close, cheap land",0.276,0
+28025,2,"Grid-close, cheap land",0.548,0
+28027,2,"Grid-close, cheap land",0.483,0
+28029,2,"Grid-close, cheap land",0.151,0
+28031,2,"Grid-close, cheap land",0.269,0
+28033,2,"Grid-close, cheap land",0.725,1
+28035,2,"Grid-close, cheap land",0.564,0
+28037,2,"Grid-close, cheap land",0.313,0
+28039,1,"Hot or dry, grid-remote",0.486,0
+28041,1,"Hot or dry, grid-remote",0.434,0
+28043,2,"Grid-close, cheap land",0.246,0
+28045,1,"Hot or dry, grid-remote",0.481,0
+28047,1,"Hot or dry, grid-remote",0.622,0
+28049,2,"Grid-close, cheap land",0.586,0
+28051,2,"Grid-close, cheap land",0.351,0
+28053,2,"Grid-close, cheap land",0.338,0
+28055,2,"Grid-close, cheap land",0.376,0
+28057,2,"Grid-close, cheap land",0.307,0
+28059,1,"Hot or dry, grid-remote",0.562,0
+28061,2,"Grid-close, cheap land",0.231,0
+28063,2,"Grid-close, cheap land",0.453,0
+28065,2,"Grid-close, cheap land",0.307,0
+28067,2,"Grid-close, cheap land",0.289,0
+28069,2,"Grid-close, cheap land",0.593,0
+28071,2,"Grid-close, cheap land",0.231,0
+28073,2,"Grid-close, cheap land",0.632,0
+28075,2,"Grid-close, cheap land",0.639,0
+28077,2,"Grid-close, cheap land",0.295,0
+28079,2,"Grid-close, cheap land",0.371,0
+28081,2,"Grid-close, cheap land",0.653,0
+28083,2,"Grid-close, cheap land",0.409,0
+28085,2,"Grid-close, cheap land",0.336,0
+28087,2,"Grid-close, cheap land",0.311,0
+28089,2,"Grid-close, cheap land",0.347,1
+28091,2,"Grid-close, cheap land",0.305,0
+28093,2,"Grid-close, cheap land",0.332,0
+28095,2,"Grid-close, cheap land",0.173,0
+28097,2,"Grid-close, cheap land",0.253,0
+28099,2,"Grid-close, cheap land",0.303,0
+28101,2,"Grid-close, cheap land",0.261,0
+28103,2,"Grid-close, cheap land",0.298,0
+28105,2,"Grid-close, cheap land",0.153,0
+28107,2,"Grid-close, cheap land",0.249,0
+28109,2,"Grid-close, cheap land",0.424,0
+28111,1,"Hot or dry, grid-remote",0.382,0
+28113,2,"Grid-close, cheap land",0.39,0
+28115,2,"Grid-close, cheap land",0.509,0
+28117,2,"Grid-close, cheap land",0.315,0
+28119,2,"Grid-close, cheap land",0.474,0
+28121,2,"Grid-close, cheap land",0.381,0
+28123,2,"Grid-close, cheap land",0.267,0
+28125,2,"Grid-close, cheap land",0.324,0
+28127,2,"Grid-close, cheap land",0.261,0
+28129,2,"Grid-close, cheap land",0.336,0
+28131,1,"Hot or dry, grid-remote",0.477,0
+28133,2,"Grid-close, cheap land",0.258,0
+28135,2,"Grid-close, cheap land",0.294,0
+28137,2,"Grid-close, cheap land",0.323,0
+28139,2,"Grid-close, cheap land",0.362,0
+28141,2,"Grid-close, cheap land",0.523,0
+28143,2,"Grid-close, cheap land",0.309,0
+28145,2,"Grid-close, cheap land",0.377,0
+28147,2,"Grid-close, cheap land",0.411,0
+28149,2,"Grid-close, cheap land",0.244,0
+28151,2,"Grid-close, cheap land",0.272,0
+28153,2,"Grid-close, cheap land",0.178,0
+28155,2,"Grid-close, cheap land",0.978,0
+28157,2,"Grid-close, cheap land",0.362,0
+28159,2,"Grid-close, cheap land",0.15,0
+28161,2,"Grid-close, cheap land",0.358,0
+28163,2,"Grid-close, cheap land",0.31,0
+29001,2,"Grid-close, cheap land",0.251,0
+29003,2,"Grid-close, cheap land",0.611,0
+29005,2,"Grid-close, cheap land",0.701,0
+29007,2,"Grid-close, cheap land",0.289,0
+29009,2,"Grid-close, cheap land",0.461,0
+29011,2,"Grid-close, cheap land",0.575,0
+29013,2,"Grid-close, cheap land",0.573,0
+29015,2,"Grid-close, cheap land",0.752,0
+29017,2,"Grid-close, cheap land",0.475,0
+29019,2,"Grid-close, cheap land",0.269,1
+29021,2,"Grid-close, cheap land",0.619,0
+29023,1,"Hot or dry, grid-remote",0.464,0
+29025,2,"Grid-close, cheap land",0.365,1
+29027,2,"Grid-close, cheap land",0.293,0
+29029,2,"Grid-close, cheap land",0.697,0
+29031,2,"Grid-close, cheap land",0.467,0
+29033,2,"Grid-close, cheap land",0.598,0
+29035,1,"Hot or dry, grid-remote",0.628,0
+29037,2,"Grid-close, cheap land",0.599,0
+29039,2,"Grid-close, cheap land",0.587,0
+29041,2,"Grid-close, cheap land",0.486,0
+29043,2,"Grid-close, cheap land",0.535,0
+29045,2,"Grid-close, cheap land",0.323,0
+29047,2,"Grid-close, cheap land",0.722,1
+29049,2,"Grid-close, cheap land",0.489,0
+29051,2,"Grid-close, cheap land",0.722,0
+29053,2,"Grid-close, cheap land",0.704,0
+29055,2,"Grid-close, cheap land",0.318,0
+29057,2,"Grid-close, cheap land",0.669,0
+29059,2,"Grid-close, cheap land",0.443,0
+29061,2,"Grid-close, cheap land",0.412,0
+29065,2,"Grid-close, cheap land",0.667,0
+29067,2,"Grid-close, cheap land",0.825,0
+29069,1,"Hot or dry, grid-remote",0.393,0
+29071,2,"Grid-close, cheap land",0.348,0
+29073,2,"Grid-close, cheap land",0.311,0
+29075,2,"Grid-close, cheap land",0.493,0
+29077,2,"Grid-close, cheap land",0.442,0
+29079,2,"Grid-close, cheap land",0.634,0
+29081,2,"Grid-close, cheap land",0.659,0
+29083,2,"Grid-close, cheap land",0.764,0
+29085,2,"Grid-close, cheap land",0.538,0
+29087,2,"Grid-close, cheap land",0.634,0
+29089,2,"Grid-close, cheap land",0.554,0
+29091,2,"Grid-close, cheap land",0.988,0
+29093,1,"Hot or dry, grid-remote",0.535,0
+29095,2,"Grid-close, cheap land",0.641,1
+29097,2,"Grid-close, cheap land",0.408,0
+29099,2,"Grid-close, cheap land",0.26,0
+29101,2,"Grid-close, cheap land",0.566,0
+29103,2,"Grid-close, cheap land",0.369,0
+29105,2,"Grid-close, cheap land",0.738,0
+29107,2,"Grid-close, cheap land",0.592,0
+29109,2,"Grid-close, cheap land",0.424,0
+29111,2,"Grid-close, cheap land",0.308,0
+29113,2,"Grid-close, cheap land",0.309,0
+29115,2,"Grid-close, cheap land",0.285,0
+29117,2,"Grid-close, cheap land",0.528,0
+29119,2,"Grid-close, cheap land",0.414,0
+29121,2,"Grid-close, cheap land",0.278,0
+29123,1,"Hot or dry, grid-remote",0.482,0
+29125,2,"Grid-close, cheap land",0.373,0
+29127,2,"Grid-close, cheap land",0.346,0
+29129,2,"Grid-close, cheap land",0.652,0
+29131,2,"Grid-close, cheap land",0.709,0
+29133,2,"Grid-close, cheap land",0.536,0
+29135,2,"Grid-close, cheap land",0.702,0
+29137,2,"Grid-close, cheap land",0.333,0
+29139,2,"Grid-close, cheap land",0.297,0
+29141,2,"Grid-close, cheap land",0.719,0
+29143,1,"Hot or dry, grid-remote",0.685,0
+29145,2,"Grid-close, cheap land",0.402,0
+29147,2,"Grid-close, cheap land",0.471,0
+29149,1,"Hot or dry, grid-remote",0.535,0
+29151,2,"Grid-close, cheap land",0.385,0
+29153,2,"Grid-close, cheap land",0.534,0
+29155,1,"Hot or dry, grid-remote",0.556,0
+29157,2,"Grid-close, cheap land",0.386,0
+29159,2,"Grid-close, cheap land",0.735,0
+29161,2,"Grid-close, cheap land",0.261,0
+29163,2,"Grid-close, cheap land",0.295,0
+29165,2,"Grid-close, cheap land",0.667,1
+29167,2,"Grid-close, cheap land",0.518,0
+29169,2,"Grid-close, cheap land",0.306,0
+29171,2,"Grid-close, cheap land",0.669,0
+29173,2,"Grid-close, cheap land",0.317,0
+29175,2,"Grid-close, cheap land",0.488,0
+29177,2,"Grid-close, cheap land",0.405,0
+29179,1,"Hot or dry, grid-remote",0.549,0
+29181,1,"Hot or dry, grid-remote",0.445,0
+29183,2,"Grid-close, cheap land",0.482,0
+29185,2,"Grid-close, cheap land",0.556,0
+29186,2,"Grid-close, cheap land",0.349,0
+29187,1,"Hot or dry, grid-remote",0.993,0
+29510,2,"Grid-close, cheap land",0.55,1
+29189,2,"Grid-close, cheap land",0.558,0
+29195,2,"Grid-close, cheap land",0.738,0
+29197,2,"Grid-close, cheap land",0.362,0
+29199,2,"Grid-close, cheap land",0.298,0
+29201,2,"Grid-close, cheap land",0.793,0
+29203,1,"Hot or dry, grid-remote",0.535,0
+29205,2,"Grid-close, cheap land",0.462,0
+29207,1,"Hot or dry, grid-remote",0.441,0
+29209,2,"Grid-close, cheap land",0.464,0
+29211,2,"Grid-close, cheap land",0.317,0
+29213,2,"Grid-close, cheap land",0.427,0
+29215,2,"Grid-close, cheap land",0.994,0
+29217,2,"Grid-close, cheap land",0.781,0
+29219,2,"Grid-close, cheap land",0.373,0
+29221,2,"Grid-close, cheap land",0.341,0
+29223,1,"Hot or dry, grid-remote",0.381,0
+29225,2,"Grid-close, cheap land",0.382,0
+29227,2,"Grid-close, cheap land",0.641,0
+29229,2,"Grid-close, cheap land",0.538,0
+29063,2,"Grid-close, cheap land",0.468,0
+30001,2,"Grid-close, cheap land",0.874,0
+30003,2,"Grid-close, cheap land",0.876,0
+30005,1,"Hot or dry, grid-remote",0.849,0
+30007,2,"Grid-close, cheap land",0.85,0
+30009,2,"Grid-close, cheap land",0.829,0
+30011,2,"Grid-close, cheap land",0.876,0
+30013,2,"Grid-close, cheap land",0.894,0
+30015,2,"Grid-close, cheap land",0.923,0
+30017,2,"Grid-close, cheap land",0.991,1
+30019,2,"Grid-close, cheap land",0.894,0
+30021,2,"Grid-close, cheap land",0.93,0
+30023,2,"Grid-close, cheap land",0.967,0
+30025,2,"Grid-close, cheap land",0.865,0
+30027,2,"Grid-close, cheap land",0.935,0
+30029,2,"Grid-close, cheap land",0.876,0
+30031,2,"Grid-close, cheap land",0.839,0
+30033,2,"Grid-close, cheap land",0.95,0
+30035,1,"Hot or dry, grid-remote",0.793,0
+30037,1,"Hot or dry, grid-remote",0.783,0
+30039,1,"Hot or dry, grid-remote",0.862,1
+30041,1,"Hot or dry, grid-remote",0.803,0
+30043,2,"Grid-close, cheap land",0.837,0
+30045,2,"Grid-close, cheap land",0.837,0
+30047,2,"Grid-close, cheap land",0.847,0
+30049,2,"Grid-close, cheap land",0.896,0
+30051,1,"Hot or dry, grid-remote",0.795,0
+30053,2,"Grid-close, cheap land",0.851,0
+30055,2,"Grid-close, cheap land",0.899,0
+30057,2,"Grid-close, cheap land",0.833,0
+30059,2,"Grid-close, cheap land",0.893,0
+30061,2,"Grid-close, cheap land",0.841,0
+30063,2,"Grid-close, cheap land",0.878,0
+30065,1,"Hot or dry, grid-remote",0.803,0
+30067,2,"Grid-close, cheap land",0.849,0
+30069,1,"Hot or dry, grid-remote",0.76,0
+30071,1,"Hot or dry, grid-remote",0.869,0
+30073,1,"Hot or dry, grid-remote",0.788,0
+30075,1,"Hot or dry, grid-remote",0.874,0
+30077,2,"Grid-close, cheap land",0.899,0
+30079,2,"Grid-close, cheap land",0.909,0
+30081,1,"Hot or dry, grid-remote",0.978,0
+30083,2,"Grid-close, cheap land",0.889,0
+30085,2,"Grid-close, cheap land",0.949,0
+30087,2,"Grid-close, cheap land",0.888,0
+30089,2,"Grid-close, cheap land",0.84,0
+30091,1,"Hot or dry, grid-remote",0.81,0
+30093,2,"Grid-close, cheap land",0.917,0
+30095,2,"Grid-close, cheap land",0.829,0
+30097,2,"Grid-close, cheap land",0.831,0
+30099,1,"Hot or dry, grid-remote",0.876,0
+30101,1,"Hot or dry, grid-remote",0.798,0
+30103,2,"Grid-close, cheap land",0.857,0
+30105,1,"Hot or dry, grid-remote",0.895,0
+30107,1,"Hot or dry, grid-remote",0.787,0
+30109,2,"Grid-close, cheap land",0.899,0
+30111,2,"Grid-close, cheap land",0.87,0
+31001,1,"Hot or dry, grid-remote",0.416,0
+31003,1,"Hot or dry, grid-remote",0.519,0
+31005,1,"Hot or dry, grid-remote",0.578,0
+31007,1,"Hot or dry, grid-remote",0.384,0
+31009,1,"Hot or dry, grid-remote",0.959,0
+31011,1,"Hot or dry, grid-remote",0.302,0
+31013,1,"Hot or dry, grid-remote",0.471,0
+31015,2,"Grid-close, cheap land",0.985,0
+31017,1,"Hot or dry, grid-remote",0.576,0
+31019,1,"Hot or dry, grid-remote",0.635,1
+31021,1,"Hot or dry, grid-remote",0.921,0
+31023,1,"Hot or dry, grid-remote",0.794,0
+31025,2,"Grid-close, cheap land",0.73,0
+31027,2,"Grid-close, cheap land",0.882,0
+31029,1,"Hot or dry, grid-remote",0.485,0
+31031,1,"Hot or dry, grid-remote",0.754,0
+31033,1,"Hot or dry, grid-remote",0.456,0
+31035,1,"Hot or dry, grid-remote",0.285,0
+31037,1,"Hot or dry, grid-remote",0.636,0
+31039,1,"Hot or dry, grid-remote",0.298,0
+31041,1,"Hot or dry, grid-remote",0.519,0
+31043,2,"Grid-close, cheap land",0.811,0
+31045,2,"Grid-close, cheap land",0.97,0
+31047,1,"Hot or dry, grid-remote",0.503,0
+31049,1,"Hot or dry, grid-remote",0.487,0
+31051,2,"Grid-close, cheap land",0.623,0
+31053,1,"Hot or dry, grid-remote",0.446,0
+31055,2,"Grid-close, cheap land",0.884,1
+31057,1,"Hot or dry, grid-remote",0.547,0
+31059,1,"Hot or dry, grid-remote",0.517,0
+31061,1,"Hot or dry, grid-remote",0.689,0
+31063,1,"Hot or dry, grid-remote",0.558,0
+31065,1,"Hot or dry, grid-remote",0.427,0
+31067,1,"Hot or dry, grid-remote",0.515,0
+31069,1,"Hot or dry, grid-remote",0.601,0
+31071,1,"Hot or dry, grid-remote",0.636,0
+31073,1,"Hot or dry, grid-remote",0.546,0
+31075,1,"Hot or dry, grid-remote",0.924,0
+31077,1,"Hot or dry, grid-remote",0.426,0
+31079,1,"Hot or dry, grid-remote",0.636,0
+31081,1,"Hot or dry, grid-remote",0.525,0
+31083,1,"Hot or dry, grid-remote",0.667,0
+31085,1,"Hot or dry, grid-remote",0.737,0
+31087,1,"Hot or dry, grid-remote",0.632,0
+31089,1,"Hot or dry, grid-remote",0.489,0
+31091,1,"Hot or dry, grid-remote",0.956,0
+31093,1,"Hot or dry, grid-remote",0.451,0
+31095,1,"Hot or dry, grid-remote",0.402,0
+31097,2,"Grid-close, cheap land",0.756,0
+31099,1,"Hot or dry, grid-remote",0.528,0
+31101,1,"Hot or dry, grid-remote",0.534,0
+31103,1,"Hot or dry, grid-remote",0.867,0
+31105,1,"Hot or dry, grid-remote",0.457,0
+31107,1,"Hot or dry, grid-remote",0.948,0
+31109,2,"Grid-close, cheap land",0.737,0
+31111,1,"Hot or dry, grid-remote",0.589,0
+31113,1,"Hot or dry, grid-remote",0.531,0
+31115,1,"Hot or dry, grid-remote",0.9,0
+31117,1,"Hot or dry, grid-remote",0.899,0
+31119,1,"Hot or dry, grid-remote",0.522,0
+31121,1,"Hot or dry, grid-remote",0.373,0
+31123,1,"Hot or dry, grid-remote",0.439,0
+31125,1,"Hot or dry, grid-remote",0.296,0
+31127,2,"Grid-close, cheap land",0.695,0
+31129,1,"Hot or dry, grid-remote",0.834,0
+31131,2,"Grid-close, cheap land",0.72,0
+31133,2,"Grid-close, cheap land",0.881,0
+31135,1,"Hot or dry, grid-remote",0.586,0
+31137,1,"Hot or dry, grid-remote",0.589,0
+31139,1,"Hot or dry, grid-remote",0.468,0
+31141,1,"Hot or dry, grid-remote",0.84,0
+31143,1,"Hot or dry, grid-remote",0.451,0
+31145,1,"Hot or dry, grid-remote",0.576,0
+31147,2,"Grid-close, cheap land",0.685,0
+31149,1,"Hot or dry, grid-remote",0.636,0
+31151,1,"Hot or dry, grid-remote",0.82,0
+31153,2,"Grid-close, cheap land",0.95,1
+31155,2,"Grid-close, cheap land",0.568,0
+31157,1,"Hot or dry, grid-remote",0.584,0
+31159,1,"Hot or dry, grid-remote",0.498,0
+31161,1,"Hot or dry, grid-remote",0.691,0
+31163,1,"Hot or dry, grid-remote",0.586,0
+31165,1,"Hot or dry, grid-remote",0.648,0
+31167,1,"Hot or dry, grid-remote",0.31,0
+31169,1,"Hot or dry, grid-remote",0.355,0
+31171,1,"Hot or dry, grid-remote",0.967,0
+31173,1,"Hot or dry, grid-remote",0.982,0
+31175,1,"Hot or dry, grid-remote",0.565,0
+31177,2,"Grid-close, cheap land",0.743,0
+31179,1,"Hot or dry, grid-remote",0.26,0
+31181,1,"Hot or dry, grid-remote",0.748,0
+31183,1,"Hot or dry, grid-remote",0.408,0
+31185,1,"Hot or dry, grid-remote",0.461,0
+32001,1,"Hot or dry, grid-remote",0.58,0
+32003,1,"Hot or dry, grid-remote",0.722,1
+32005,1,"Hot or dry, grid-remote",0.496,0
+32007,1,"Hot or dry, grid-remote",0.873,0
+32009,1,"Hot or dry, grid-remote",0.493,0
+32011,1,"Hot or dry, grid-remote",0.654,0
+32013,1,"Hot or dry, grid-remote",0.652,0
+32015,1,"Hot or dry, grid-remote",0.612,0
+32017,1,"Hot or dry, grid-remote",0.86,0
+32019,1,"Hot or dry, grid-remote",0.566,0
+32021,1,"Hot or dry, grid-remote",0.519,0
+32023,1,"Hot or dry, grid-remote",0.741,0
+32027,1,"Hot or dry, grid-remote",0.646,0
+32029,2,"Grid-close, cheap land",0.689,1
+32031,1,"Hot or dry, grid-remote",0.764,1
+32033,1,"Hot or dry, grid-remote",0.822,0
+32510,1,"Hot or dry, grid-remote",0.608,0
+33001,0,"Tax-light, pricey land",0.941,0
+33003,0,"Tax-light, pricey land",0.972,0
+33005,0,"Tax-light, pricey land",0.896,0
+33007,0,"Tax-light, pricey land",0.901,0
+33009,0,"Tax-light, pricey land",0.912,0
+33011,0,"Tax-light, pricey land",0.933,0
+33013,0,"Tax-light, pricey land",0.867,0
+33015,0,"Tax-light, pricey land",0.905,1
+33017,0,"Tax-light, pricey land",0.91,1
+33019,0,"Tax-light, pricey land",0.891,0
+34001,0,"Tax-light, pricey land",0.566,0
+34003,0,"Tax-light, pricey land",0.764,1
+34005,0,"Tax-light, pricey land",0.562,0
+34007,0,"Tax-light, pricey land",0.679,0
+34009,0,"Tax-light, pricey land",0.492,0
+34011,0,"Tax-light, pricey land",0.554,0
+34013,0,"Tax-light, pricey land",0.927,1
+34015,0,"Tax-light, pricey land",0.645,1
+34017,0,"Tax-light, pricey land",0.834,1
+34019,0,"Tax-light, pricey land",0.508,0
+34021,0,"Tax-light, pricey land",0.624,1
+34023,0,"Tax-light, pricey land",0.656,1
+34025,0,"Tax-light, pricey land",0.498,1
+34027,0,"Tax-light, pricey land",0.556,0
+34029,0,"Tax-light, pricey land",0.462,0
+34031,0,"Tax-light, pricey land",0.558,1
+34033,0,"Tax-light, pricey land",0.673,0
+34035,0,"Tax-light, pricey land",0.481,1
+34037,0,"Tax-light, pricey land",0.574,0
+34039,0,"Tax-light, pricey land",0.632,1
+34041,0,"Tax-light, pricey land",0.601,0
+35001,0,"Tax-light, pricey land",0.691,1
+35003,1,"Hot or dry, grid-remote",0.88,0
+35005,1,"Hot or dry, grid-remote",0.773,0
+35006,1,"Hot or dry, grid-remote",0.756,0
+35007,1,"Hot or dry, grid-remote",0.606,0
+35009,1,"Hot or dry, grid-remote",0.715,0
+35011,1,"Hot or dry, grid-remote",0.679,0
+35013,1,"Hot or dry, grid-remote",0.732,1
+35015,1,"Hot or dry, grid-remote",0.673,0
+35017,1,"Hot or dry, grid-remote",0.628,0
+35019,1,"Hot or dry, grid-remote",0.592,0
+35021,1,"Hot or dry, grid-remote",0.646,0
+35023,1,"Hot or dry, grid-remote",0.608,0
+35025,1,"Hot or dry, grid-remote",0.743,0
+35027,1,"Hot or dry, grid-remote",0.693,0
+35028,0,"Tax-light, pricey land",0.897,0
+35029,1,"Hot or dry, grid-remote",0.628,0
+35031,0,"Tax-light, pricey land",0.976,0
+35033,1,"Hot or dry, grid-remote",0.6,0
+35035,1,"Hot or dry, grid-remote",0.674,0
+35037,1,"Hot or dry, grid-remote",0.72,0
+35039,0,"Tax-light, pricey land",0.973,0
+35041,1,"Hot or dry, grid-remote",0.792,0
+35043,0,"Tax-light, pricey land",0.819,0
+35045,0,"Tax-light, pricey land",0.787,0
+35047,1,"Hot or dry, grid-remote",0.671,0
+35049,0,"Tax-light, pricey land",0.899,1
+35051,1,"Hot or dry, grid-remote",0.848,0
+35053,1,"Hot or dry, grid-remote",0.928,0
+35055,0,"Tax-light, pricey land",0.969,0
+35057,1,"Hot or dry, grid-remote",0.633,0
+35059,1,"Hot or dry, grid-remote",0.734,0
+35061,0,"Tax-light, pricey land",0.926,1
+36001,0,"Tax-light, pricey land",0.668,1
+36003,0,"Tax-light, pricey land",0.679,0
+36005,0,"Tax-light, pricey land",0.64,0
+36007,0,"Tax-light, pricey land",0.636,0
+36009,0,"Tax-light, pricey land",0.646,0
+36011,0,"Tax-light, pricey land",0.609,0
+36013,0,"Tax-light, pricey land",0.588,0
+36015,0,"Tax-light, pricey land",0.609,0
+36017,0,"Tax-light, pricey land",0.588,0
+36019,0,"Tax-light, pricey land",0.557,0
+36021,0,"Tax-light, pricey land",0.577,0
+36023,0,"Tax-light, pricey land",0.657,0
+36025,0,"Tax-light, pricey land",0.466,0
+36027,0,"Tax-light, pricey land",0.599,0
+36029,0,"Tax-light, pricey land",0.56,1
+36031,0,"Tax-light, pricey land",0.511,0
+36033,0,"Tax-light, pricey land",0.478,0
+36035,0,"Tax-light, pricey land",0.694,0
+36037,0,"Tax-light, pricey land",0.646,0
+36039,0,"Tax-light, pricey land",0.462,0
+36041,0,"Tax-light, pricey land",0.744,0
+36043,0,"Tax-light, pricey land",0.558,0
+36045,0,"Tax-light, pricey land",0.667,0
+36047,0,"Tax-light, pricey land",0.97,1
+36049,0,"Tax-light, pricey land",0.513,0
+36051,0,"Tax-light, pricey land",0.617,0
+36053,0,"Tax-light, pricey land",0.581,0
+36055,0,"Tax-light, pricey land",0.682,0
+36057,0,"Tax-light, pricey land",0.714,0
+36059,0,"Tax-light, pricey land",0.707,0
+36061,0,"Tax-light, pricey land",0.889,1
+36063,0,"Tax-light, pricey land",0.63,1
+36065,0,"Tax-light, pricey land",0.622,0
+36067,0,"Tax-light, pricey land",0.726,1
+36069,0,"Tax-light, pricey land",0.641,0
+36071,0,"Tax-light, pricey land",0.564,0
+36073,0,"Tax-light, pricey land",0.695,0
+36075,0,"Tax-light, pricey land",0.717,0
+36077,0,"Tax-light, pricey land",0.527,0
+36079,0,"Tax-light, pricey land",0.554,0
+36081,0,"Tax-light, pricey land",0.769,0
+36083,0,"Tax-light, pricey land",0.61,0
+36085,0,"Tax-light, pricey land",0.996,1
+36087,0,"Tax-light, pricey land",0.633,1
+36089,0,"Tax-light, pricey land",0.668,0
+36091,0,"Tax-light, pricey land",0.552,0
+36093,0,"Tax-light, pricey land",0.713,0
+36095,0,"Tax-light, pricey land",0.587,0
+36097,0,"Tax-light, pricey land",0.458,0
+36099,0,"Tax-light, pricey land",0.553,0
+36101,0,"Tax-light, pricey land",0.593,0
+36103,0,"Tax-light, pricey land",0.532,1
+36105,0,"Tax-light, pricey land",0.523,0
+36107,0,"Tax-light, pricey land",0.598,0
+36109,0,"Tax-light, pricey land",0.575,0
+36111,0,"Tax-light, pricey land",0.47,0
+36113,0,"Tax-light, pricey land",0.699,0
+36115,0,"Tax-light, pricey land",0.575,0
+36117,0,"Tax-light, pricey land",0.616,0
+36119,0,"Tax-light, pricey land",0.481,1
+36121,0,"Tax-light, pricey land",0.564,0
+36123,0,"Tax-light, pricey land",0.443,0
+37001,2,"Grid-close, cheap land",0.436,0
+37003,2,"Grid-close, cheap land",0.301,0
+37005,2,"Grid-close, cheap land",0.403,0
+37007,2,"Grid-close, cheap land",0.302,0
+37009,2,"Grid-close, cheap land",0.412,0
+37011,2,"Grid-close, cheap land",0.485,0
+37013,2,"Grid-close, cheap land",0.196,0
+37015,2,"Grid-close, cheap land",0.23,0
+37017,2,"Grid-close, cheap land",0.27,0
+37019,1,"Hot or dry, grid-remote",0.848,0
+37021,2,"Grid-close, cheap land",0.357,0
+37023,2,"Grid-close, cheap land",0.243,0
+37025,2,"Grid-close, cheap land",0.896,0
+37027,2,"Grid-close, cheap land",0.29,1
+37029,2,"Grid-close, cheap land",0.364,0
+37031,2,"Grid-close, cheap land",0.452,0
+37033,2,"Grid-close, cheap land",0.359,0
+37035,2,"Grid-close, cheap land",0.67,1
+37037,2,"Grid-close, cheap land",0.484,0
+37039,2,"Grid-close, cheap land",0.296,0
+37041,2,"Grid-close, cheap land",0.221,0
+37043,2,"Grid-close, cheap land",0.27,0
+37045,2,"Grid-close, cheap land",0.701,1
+37047,2,"Grid-close, cheap land",0.445,0
+37049,2,"Grid-close, cheap land",0.242,0
+37051,2,"Grid-close, cheap land",0.804,0
+37053,2,"Grid-close, cheap land",0.416,0
+37055,2,"Grid-close, cheap land",0.366,0
+37057,2,"Grid-close, cheap land",0.141,0
+37059,2,"Grid-close, cheap land",0.363,0
+37061,2,"Grid-close, cheap land",0.36,0
+37063,2,"Grid-close, cheap land",0.371,1
+37065,2,"Grid-close, cheap land",0.555,0
+37067,2,"Grid-close, cheap land",0.877,0
+37069,2,"Grid-close, cheap land",0.627,0
+37071,2,"Grid-close, cheap land",0.723,0
+37073,2,"Grid-close, cheap land",0.302,0
+37075,2,"Grid-close, cheap land",0.276,0
+37077,2,"Grid-close, cheap land",0.3,0
+37079,2,"Grid-close, cheap land",0.679,0
+37081,2,"Grid-close, cheap land",0.245,0
+37083,2,"Grid-close, cheap land",0.387,0
+37085,2,"Grid-close, cheap land",0.187,0
+37087,2,"Grid-close, cheap land",0.368,0
+37089,2,"Grid-close, cheap land",0.227,0
+37091,2,"Grid-close, cheap land",0.255,0
+37093,2,"Grid-close, cheap land",0.367,0
+37095,2,"Grid-close, cheap land",0.312,0
+37097,2,"Grid-close, cheap land",0.551,0
+37099,2,"Grid-close, cheap land",0.365,0
+37101,2,"Grid-close, cheap land",0.534,0
+37103,2,"Grid-close, cheap land",0.371,0
+37105,2,"Grid-close, cheap land",0.494,0
+37107,2,"Grid-close, cheap land",0.66,0
+37109,2,"Grid-close, cheap land",0.219,0
+37111,2,"Grid-close, cheap land",0.447,0
+37113,2,"Grid-close, cheap land",0.287,0
+37115,2,"Grid-close, cheap land",0.911,0
+37117,2,"Grid-close, cheap land",0.318,0
+37119,2,"Grid-close, cheap land",0.771,1
+37121,2,"Grid-close, cheap land",0.851,0
+37123,2,"Grid-close, cheap land",0.383,0
+37125,2,"Grid-close, cheap land",0.288,0
+37127,2,"Grid-close, cheap land",0.521,0
+37129,2,"Grid-close, cheap land",0.735,0
+37131,2,"Grid-close, cheap land",0.44,0
+37133,2,"Grid-close, cheap land",0.28,0
+37135,2,"Grid-close, cheap land",0.486,0
+37137,2,"Grid-close, cheap land",0.345,0
+37139,2,"Grid-close, cheap land",0.266,0
+37141,2,"Grid-close, cheap land",0.319,0
+37143,2,"Grid-close, cheap land",0.265,0
+37145,2,"Grid-close, cheap land",0.315,0
+37147,2,"Grid-close, cheap land",0.463,0
+37149,2,"Grid-close, cheap land",0.179,0
+37151,2,"Grid-close, cheap land",0.241,0
+37153,2,"Grid-close, cheap land",0.314,0
+37155,2,"Grid-close, cheap land",0.491,0
+37157,2,"Grid-close, cheap land",0.441,0
+37159,2,"Grid-close, cheap land",0.575,0
+37161,2,"Grid-close, cheap land",0.466,1
+37163,2,"Grid-close, cheap land",0.297,0
+37165,2,"Grid-close, cheap land",0.769,0
+37167,2,"Grid-close, cheap land",0.575,0
+37169,2,"Grid-close, cheap land",0.178,0
+37171,2,"Grid-close, cheap land",0.484,0
+37173,2,"Grid-close, cheap land",0.366,0
+37175,2,"Grid-close, cheap land",0.29,0
+37177,2,"Grid-close, cheap land",0.369,0
+37179,2,"Grid-close, cheap land",0.651,1
+37181,2,"Grid-close, cheap land",0.463,0
+37183,2,"Grid-close, cheap land",0.228,1
+37185,2,"Grid-close, cheap land",0.324,0
+37187,2,"Grid-close, cheap land",0.353,0
+37189,2,"Grid-close, cheap land",0.471,0
+37191,2,"Grid-close, cheap land",0.724,0
+37193,2,"Grid-close, cheap land",0.212,0
+37195,2,"Grid-close, cheap land",0.75,0
+37197,2,"Grid-close, cheap land",0.346,0
+37199,2,"Grid-close, cheap land",0.932,0
+38001,0,"Tax-light, pricey land",0.462,0
+38003,0,"Tax-light, pricey land",0.422,0
+38005,0,"Tax-light, pricey land",0.595,0
+38007,0,"Tax-light, pricey land",0.849,0
+38009,0,"Tax-light, pricey land",0.713,0
+38011,0,"Tax-light, pricey land",0.625,0
+38013,0,"Tax-light, pricey land",0.743,0
+38015,0,"Tax-light, pricey land",0.54,0
+38017,0,"Tax-light, pricey land",0.441,1
+38019,0,"Tax-light, pricey land",0.928,0
+38021,0,"Tax-light, pricey land",0.501,1
+38023,1,"Hot or dry, grid-remote",0.805,0
+38025,0,"Tax-light, pricey land",0.708,0
+38027,0,"Tax-light, pricey land",0.578,0
+38029,0,"Tax-light, pricey land",0.657,0
+38031,0,"Tax-light, pricey land",0.355,0
+38033,0,"Tax-light, pricey land",0.613,0
+38035,0,"Tax-light, pricey land",0.424,0
+38037,0,"Tax-light, pricey land",0.653,0
+38039,0,"Tax-light, pricey land",0.579,0
+38041,0,"Tax-light, pricey land",0.574,0
+38043,0,"Tax-light, pricey land",0.681,0
+38045,0,"Tax-light, pricey land",0.48,0
+38047,0,"Tax-light, pricey land",0.655,0
+38049,0,"Tax-light, pricey land",0.689,0
+38051,0,"Tax-light, pricey land",0.386,0
+38053,0,"Tax-light, pricey land",0.804,0
+38055,0,"Tax-light, pricey land",0.634,0
+38057,0,"Tax-light, pricey land",0.444,0
+38059,0,"Tax-light, pricey land",0.582,0
+38061,0,"Tax-light, pricey land",0.83,0
+38063,0,"Tax-light, pricey land",0.644,0
+38065,0,"Tax-light, pricey land",0.688,0
+38067,0,"Tax-light, pricey land",0.849,0
+38069,0,"Tax-light, pricey land",0.451,0
+38071,0,"Tax-light, pricey land",0.557,0
+38073,0,"Tax-light, pricey land",0.445,0
+38075,0,"Tax-light, pricey land",0.743,0
+38077,0,"Tax-light, pricey land",0.601,0
+38079,0,"Tax-light, pricey land",0.719,0
+38081,0,"Tax-light, pricey land",0.39,0
+38083,0,"Tax-light, pricey land",0.81,0
+38085,0,"Tax-light, pricey land",0.875,0
+38087,0,"Tax-light, pricey land",0.82,0
+38089,0,"Tax-light, pricey land",0.543,0
+38091,0,"Tax-light, pricey land",0.522,0
+38093,0,"Tax-light, pricey land",0.498,0
+38095,0,"Tax-light, pricey land",0.657,0
+38097,0,"Tax-light, pricey land",0.489,0
+38099,0,"Tax-light, pricey land",0.643,0
+38101,0,"Tax-light, pricey land",0.415,0
+38103,0,"Tax-light, pricey land",0.437,0
+38105,0,"Tax-light, pricey land",0.642,0
+39001,0,"Tax-light, pricey land",0.648,0
+39003,0,"Tax-light, pricey land",0.624,0
+39005,0,"Tax-light, pricey land",0.518,0
+39007,0,"Tax-light, pricey land",0.479,0
+39009,0,"Tax-light, pricey land",0.545,0
+39011,0,"Tax-light, pricey land",0.508,0
+39013,0,"Tax-light, pricey land",0.638,0
+39015,0,"Tax-light, pricey land",0.544,0
+39017,0,"Tax-light, pricey land",0.324,1
+39019,0,"Tax-light, pricey land",0.624,0
+39021,0,"Tax-light, pricey land",0.455,0
+39023,0,"Tax-light, pricey land",0.347,1
+39025,0,"Tax-light, pricey land",0.445,0
+39027,0,"Tax-light, pricey land",0.587,0
+39029,0,"Tax-light, pricey land",0.549,0
+39031,0,"Tax-light, pricey land",0.553,0
+39033,0,"Tax-light, pricey land",0.514,0
+39035,0,"Tax-light, pricey land",0.532,1
+39037,0,"Tax-light, pricey land",0.521,0
+39039,0,"Tax-light, pricey land",0.367,0
+39041,0,"Tax-light, pricey land",0.383,1
+39043,0,"Tax-light, pricey land",0.548,1
+39045,0,"Tax-light, pricey land",0.638,1
+39047,0,"Tax-light, pricey land",0.558,0
+39049,0,"Tax-light, pricey land",0.637,1
+39051,0,"Tax-light, pricey land",0.15,0
+39053,0,"Tax-light, pricey land",0.634,0
+39055,0,"Tax-light, pricey land",0.658,0
+39057,0,"Tax-light, pricey land",0.621,0
+39059,0,"Tax-light, pricey land",0.583,0
+39061,0,"Tax-light, pricey land",0.558,1
+39063,0,"Tax-light, pricey land",0.549,0
+39065,0,"Tax-light, pricey land",0.403,0
+39067,0,"Tax-light, pricey land",0.606,0
+39069,0,"Tax-light, pricey land",0.447,0
+39071,0,"Tax-light, pricey land",0.475,0
+39073,0,"Tax-light, pricey land",0.622,0
+39075,0,"Tax-light, pricey land",0.552,0
+39077,0,"Tax-light, pricey land",0.489,0
+39079,0,"Tax-light, pricey land",0.59,0
+39081,0,"Tax-light, pricey land",0.647,0
+39083,0,"Tax-light, pricey land",0.53,0
+39085,0,"Tax-light, pricey land",0.503,0
+39087,0,"Tax-light, pricey land",0.664,0
+39089,0,"Tax-light, pricey land",0.582,1
+39091,0,"Tax-light, pricey land",0.485,0
+39093,0,"Tax-light, pricey land",0.466,0
+39095,0,"Tax-light, pricey land",0.407,0
+39097,0,"Tax-light, pricey land",0.413,0
+39099,0,"Tax-light, pricey land",0.65,1
+39101,0,"Tax-light, pricey land",0.587,0
+39103,0,"Tax-light, pricey land",0.37,0
+39105,0,"Tax-light, pricey land",0.644,0
+39107,0,"Tax-light, pricey land",0.402,0
+39109,0,"Tax-light, pricey land",0.719,0
+39111,0,"Tax-light, pricey land",0.661,0
+39113,0,"Tax-light, pricey land",0.649,0
+39115,0,"Tax-light, pricey land",0.632,0
+39117,0,"Tax-light, pricey land",0.54,0
+39119,0,"Tax-light, pricey land",0.577,0
+39121,0,"Tax-light, pricey land",0.68,0
+39123,0,"Tax-light, pricey land",0.482,0
+39125,0,"Tax-light, pricey land",0.378,0
+39127,0,"Tax-light, pricey land",0.615,0
+39129,0,"Tax-light, pricey land",0.543,0
+39131,0,"Tax-light, pricey land",0.591,0
+39133,0,"Tax-light, pricey land",0.489,0
+39135,0,"Tax-light, pricey land",0.403,0
+39137,0,"Tax-light, pricey land",0.504,0
+39139,0,"Tax-light, pricey land",0.486,0
+39141,0,"Tax-light, pricey land",0.454,0
+39143,0,"Tax-light, pricey land",0.599,0
+39145,0,"Tax-light, pricey land",0.543,0
+39147,0,"Tax-light, pricey land",0.445,0
+39149,0,"Tax-light, pricey land",0.553,0
+39151,0,"Tax-light, pricey land",0.492,0
+39153,0,"Tax-light, pricey land",0.417,1
+39155,0,"Tax-light, pricey land",0.495,0
+39157,0,"Tax-light, pricey land",0.523,0
+39159,0,"Tax-light, pricey land",0.441,1
+39161,0,"Tax-light, pricey land",0.432,0
+39163,0,"Tax-light, pricey land",0.527,0
+39165,0,"Tax-light, pricey land",0.478,1
+39167,0,"Tax-light, pricey land",0.637,0
+39169,0,"Tax-light, pricey land",0.534,0
+39171,0,"Tax-light, pricey land",0.414,0
+39173,0,"Tax-light, pricey land",0.162,1
+39175,0,"Tax-light, pricey land",0.569,0
+40001,2,"Grid-close, cheap land",0.43,0
+40003,2,"Grid-close, cheap land",0.5,0
+40005,2,"Grid-close, cheap land",0.492,0
+40007,2,"Grid-close, cheap land",0.557,0
+40009,1,"Hot or dry, grid-remote",0.648,0
+40011,2,"Grid-close, cheap land",0.498,0
+40013,2,"Grid-close, cheap land",0.44,1
+40015,2,"Grid-close, cheap land",0.492,0
+40017,2,"Grid-close, cheap land",0.583,0
+40019,2,"Grid-close, cheap land",0.45,0
+40021,2,"Grid-close, cheap land",0.42,0
+40023,2,"Grid-close, cheap land",0.497,0
+40025,2,"Grid-close, cheap land",0.961,0
+40027,2,"Grid-close, cheap land",0.693,0
+40029,2,"Grid-close, cheap land",0.579,0
+40031,2,"Grid-close, cheap land",0.584,0
+40033,2,"Grid-close, cheap land",0.632,0
+40035,2,"Grid-close, cheap land",0.523,0
+40037,2,"Grid-close, cheap land",0.485,0
+40039,2,"Grid-close, cheap land",0.449,0
+40041,2,"Grid-close, cheap land",0.479,0
+40043,2,"Grid-close, cheap land",0.482,0
+40045,2,"Grid-close, cheap land",0.547,0
+40047,2,"Grid-close, cheap land",0.485,0
+40049,2,"Grid-close, cheap land",0.485,0
+40051,2,"Grid-close, cheap land",0.465,0
+40053,2,"Grid-close, cheap land",0.494,0
+40055,1,"Hot or dry, grid-remote",0.485,0
+40057,1,"Hot or dry, grid-remote",0.445,0
+40059,2,"Grid-close, cheap land",0.639,0
+40061,2,"Grid-close, cheap land",0.458,0
+40063,2,"Grid-close, cheap land",0.497,0
+40065,1,"Hot or dry, grid-remote",0.448,0
+40067,2,"Grid-close, cheap land",0.426,0
+40069,2,"Grid-close, cheap land",0.512,0
+40071,2,"Grid-close, cheap land",0.479,0
+40073,2,"Grid-close, cheap land",0.474,0
+40075,2,"Grid-close, cheap land",0.931,0
+40077,2,"Grid-close, cheap land",0.606,0
+40079,2,"Grid-close, cheap land",0.529,0
+40081,2,"Grid-close, cheap land",0.482,0
+40083,2,"Grid-close, cheap land",0.489,0
+40085,2,"Grid-close, cheap land",0.46,0
+40087,2,"Grid-close, cheap land",0.455,0
+40089,2,"Grid-close, cheap land",0.522,0
+40091,2,"Grid-close, cheap land",0.503,0
+40093,2,"Grid-close, cheap land",0.491,0
+40095,2,"Grid-close, cheap land",0.476,0
+40097,2,"Grid-close, cheap land",0.567,0
+40099,2,"Grid-close, cheap land",0.527,0
+40101,2,"Grid-close, cheap land",0.473,1
+40103,2,"Grid-close, cheap land",0.474,0
+40105,2,"Grid-close, cheap land",0.628,0
+40107,2,"Grid-close, cheap land",0.477,0
+40109,2,"Grid-close, cheap land",0.756,1
+40111,2,"Grid-close, cheap land",0.471,0
+40113,2,"Grid-close, cheap land",0.458,0
+40115,2,"Grid-close, cheap land",0.502,0
+40117,2,"Grid-close, cheap land",0.487,0
+40119,2,"Grid-close, cheap land",0.486,0
+40121,2,"Grid-close, cheap land",0.445,0
+40123,2,"Grid-close, cheap land",0.506,0
+40125,2,"Grid-close, cheap land",0.514,0
+40127,2,"Grid-close, cheap land",0.633,0
+40129,2,"Grid-close, cheap land",0.505,0
+40131,2,"Grid-close, cheap land",0.586,0
+40133,2,"Grid-close, cheap land",0.47,0
+40135,2,"Grid-close, cheap land",0.47,0
+40137,2,"Grid-close, cheap land",0.439,0
+40139,2,"Grid-close, cheap land",0.546,0
+40141,2,"Grid-close, cheap land",0.573,0
+40143,2,"Grid-close, cheap land",0.782,1
+40145,2,"Grid-close, cheap land",0.521,0
+40147,2,"Grid-close, cheap land",0.664,0
+40149,2,"Grid-close, cheap land",0.515,0
+40151,2,"Grid-close, cheap land",0.519,0
+40153,2,"Grid-close, cheap land",0.479,0
+41001,1,"Hot or dry, grid-remote",0.968,0
+41003,2,"Grid-close, cheap land",0.873,0
+41005,2,"Grid-close, cheap land",0.893,1
+41007,2,"Grid-close, cheap land",0.848,0
+41009,2,"Grid-close, cheap land",0.857,0
+41011,2,"Grid-close, cheap land",0.854,0
+41013,2,"Grid-close, cheap land",0.898,1
+41015,2,"Grid-close, cheap land",0.836,0
+41017,2,"Grid-close, cheap land",0.844,1
+41019,2,"Grid-close, cheap land",0.848,0
+41021,2,"Grid-close, cheap land",0.883,0
+41023,2,"Grid-close, cheap land",0.919,0
+41025,1,"Hot or dry, grid-remote",0.758,0
+41027,2,"Grid-close, cheap land",0.846,0
+41029,2,"Grid-close, cheap land",0.858,0
+41031,2,"Grid-close, cheap land",0.862,0
+41033,2,"Grid-close, cheap land",0.847,1
+41035,2,"Grid-close, cheap land",0.867,0
+41037,1,"Hot or dry, grid-remote",0.809,0
+41039,2,"Grid-close, cheap land",0.867,1
+41041,2,"Grid-close, cheap land",0.864,0
+41043,2,"Grid-close, cheap land",0.874,1
+41045,1,"Hot or dry, grid-remote",0.951,0
+41047,2,"Grid-close, cheap land",0.875,1
+41049,1,"Hot or dry, grid-remote",0.971,1
+41051,2,"Grid-close, cheap land",0.881,1
+41053,2,"Grid-close, cheap land",0.868,0
+41055,2,"Grid-close, cheap land",0.852,0
+41057,2,"Grid-close, cheap land",0.841,0
+41059,1,"Hot or dry, grid-remote",0.857,1
+41061,1,"Hot or dry, grid-remote",0.875,0
+41063,1,"Hot or dry, grid-remote",0.892,0
+41065,2,"Grid-close, cheap land",0.872,1
+41067,2,"Grid-close, cheap land",0.871,1
+41069,2,"Grid-close, cheap land",0.878,0
+41071,2,"Grid-close, cheap land",0.844,0
+42001,0,"Tax-light, pricey land",0.72,0
+42003,0,"Tax-light, pricey land",0.541,1
+42005,0,"Tax-light, pricey land",0.395,0
+42007,0,"Tax-light, pricey land",0.463,0
+42009,0,"Tax-light, pricey land",0.594,0
+42011,0,"Tax-light, pricey land",0.75,0
+42013,0,"Tax-light, pricey land",0.568,0
+42015,0,"Tax-light, pricey land",0.621,0
+42017,0,"Tax-light, pricey land",0.48,0
+42019,0,"Tax-light, pricey land",0.658,0
+42021,0,"Tax-light, pricey land",0.428,0
+42023,0,"Tax-light, pricey land",0.508,0
+42025,0,"Tax-light, pricey land",0.339,0
+42027,0,"Tax-light, pricey land",0.47,0
+42029,0,"Tax-light, pricey land",0.415,0
+42031,0,"Tax-light, pricey land",0.529,0
+42033,0,"Tax-light, pricey land",0.432,0
+42035,0,"Tax-light, pricey land",0.414,0
+42037,0,"Tax-light, pricey land",0.496,0
+42039,0,"Tax-light, pricey land",0.385,0
+42041,0,"Tax-light, pricey land",0.578,0
+42043,0,"Tax-light, pricey land",0.75,0
+42045,0,"Tax-light, pricey land",0.492,0
+42047,0,"Tax-light, pricey land",0.387,0
+42049,0,"Tax-light, pricey land",0.468,0
+42051,0,"Tax-light, pricey land",0.58,0
+42053,0,"Tax-light, pricey land",0.945,0
+42055,0,"Tax-light, pricey land",0.697,0
+42057,0,"Tax-light, pricey land",0.452,0
+42059,0,"Tax-light, pricey land",0.591,0
+42061,0,"Tax-light, pricey land",0.553,0
+42063,0,"Tax-light, pricey land",0.398,0
+42065,0,"Tax-light, pricey land",0.506,0
+42067,0,"Tax-light, pricey land",0.458,0
+42069,0,"Tax-light, pricey land",0.406,0
+42071,0,"Tax-light, pricey land",0.982,0
+42073,0,"Tax-light, pricey land",0.317,0
+42075,0,"Tax-light, pricey land",0.565,0
+42077,0,"Tax-light, pricey land",0.783,1
+42079,0,"Tax-light, pricey land",0.587,0
+42081,0,"Tax-light, pricey land",0.342,0
+42083,0,"Tax-light, pricey land",0.487,0
+42085,0,"Tax-light, pricey land",0.505,0
+42087,0,"Tax-light, pricey land",0.319,0
+42089,0,"Tax-light, pricey land",0.712,0
+42091,0,"Tax-light, pricey land",0.532,1
+42093,0,"Tax-light, pricey land",0.46,0
+42095,0,"Tax-light, pricey land",0.729,0
+42097,0,"Tax-light, pricey land",0.488,0
+42099,0,"Tax-light, pricey land",0.358,0
+42101,0,"Tax-light, pricey land",0.725,1
+42103,0,"Tax-light, pricey land",0.746,0
+42105,0,"Tax-light, pricey land",0.545,0
+42107,0,"Tax-light, pricey land",0.606,0
+42109,0,"Tax-light, pricey land",0.329,0
+42111,0,"Tax-light, pricey land",0.512,0
+42113,0,"Tax-light, pricey land",0.832,0
+42115,0,"Tax-light, pricey land",0.4,0
+42117,0,"Tax-light, pricey land",0.454,0
+42119,0,"Tax-light, pricey land",0.345,0
+42121,0,"Tax-light, pricey land",0.414,0
+42123,0,"Tax-light, pricey land",0.427,0
+42125,0,"Tax-light, pricey land",0.621,0
+42127,0,"Tax-light, pricey land",0.354,0
+42129,0,"Tax-light, pricey land",0.607,0
+42131,0,"Tax-light, pricey land",0.459,0
+42133,0,"Tax-light, pricey land",0.467,0
+44001,2,"Grid-close, cheap land",0.868,0
+44003,2,"Grid-close, cheap land",0.947,0
+44005,2,"Grid-close, cheap land",0.643,0
+44007,2,"Grid-close, cheap land",0.863,0
+44009,2,"Grid-close, cheap land",0.728,0
+45001,2,"Grid-close, cheap land",0.393,0
+45003,2,"Grid-close, cheap land",0.886,1
+45005,1,"Hot or dry, grid-remote",0.679,0
+45007,2,"Grid-close, cheap land",0.713,0
+45009,1,"Hot or dry, grid-remote",0.448,0
+45011,1,"Hot or dry, grid-remote",0.5,0
+45013,1,"Hot or dry, grid-remote",0.715,0
+45015,1,"Hot or dry, grid-remote",0.712,1
+45017,1,"Hot or dry, grid-remote",0.52,0
+45019,1,"Hot or dry, grid-remote",0.693,0
+45021,2,"Grid-close, cheap land",0.34,0
+45023,2,"Grid-close, cheap land",0.303,0
+45025,2,"Grid-close, cheap land",0.317,0
+45027,1,"Hot or dry, grid-remote",0.473,0
+45029,1,"Hot or dry, grid-remote",0.685,0
+45031,2,"Grid-close, cheap land",0.548,0
+45033,2,"Grid-close, cheap land",0.601,0
+45035,1,"Hot or dry, grid-remote",0.761,0
+45037,2,"Grid-close, cheap land",0.271,0
+45039,2,"Grid-close, cheap land",0.753,0
+45041,1,"Hot or dry, grid-remote",0.671,0
+45043,1,"Hot or dry, grid-remote",0.468,0
+45045,2,"Grid-close, cheap land",0.643,0
+45047,2,"Grid-close, cheap land",0.721,0
+45049,1,"Hot or dry, grid-remote",0.718,0
+45051,1,"Hot or dry, grid-remote",0.615,1
+45053,1,"Hot or dry, grid-remote",0.691,0
+45055,2,"Grid-close, cheap land",0.288,0
+45057,2,"Grid-close, cheap land",0.487,0
+45059,2,"Grid-close, cheap land",0.363,0
+45061,2,"Grid-close, cheap land",0.711,0
+45063,2,"Grid-close, cheap land",0.821,0
+45065,2,"Grid-close, cheap land",0.313,0
+45067,1,"Hot or dry, grid-remote",0.54,0
+45069,2,"Grid-close, cheap land",0.516,0
+45071,2,"Grid-close, cheap land",0.295,0
+45073,2,"Grid-close, cheap land",0.646,0
+45075,1,"Hot or dry, grid-remote",0.71,0
+45077,2,"Grid-close, cheap land",0.66,0
+45079,2,"Grid-close, cheap land",0.891,0
+45081,2,"Grid-close, cheap land",0.75,0
+45083,2,"Grid-close, cheap land",0.8,0
+45085,1,"Hot or dry, grid-remote",0.754,0
+45087,2,"Grid-close, cheap land",0.307,0
+45089,1,"Hot or dry, grid-remote",0.507,0
+45091,2,"Grid-close, cheap land",0.818,0
+46003,0,"Tax-light, pricey land",0.507,0
+46005,0,"Tax-light, pricey land",0.435,0
+46007,0,"Tax-light, pricey land",0.532,0
+46009,0,"Tax-light, pricey land",0.414,0
+46011,0,"Tax-light, pricey land",0.505,0
+46013,0,"Tax-light, pricey land",0.361,0
+46015,0,"Tax-light, pricey land",0.571,0
+46017,0,"Tax-light, pricey land",0.664,0
+46019,0,"Tax-light, pricey land",0.839,0
+46021,0,"Tax-light, pricey land",0.496,0
+46023,0,"Tax-light, pricey land",0.434,0
+46025,0,"Tax-light, pricey land",0.472,0
+46027,0,"Tax-light, pricey land",0.355,0
+46029,0,"Tax-light, pricey land",0.474,0
+46031,0,"Tax-light, pricey land",0.683,0
+46033,0,"Tax-light, pricey land",0.854,0
+46035,0,"Tax-light, pricey land",0.434,0
+46037,0,"Tax-light, pricey land",0.531,0
+46039,0,"Tax-light, pricey land",0.629,0
+46041,0,"Tax-light, pricey land",0.877,0
+46043,0,"Tax-light, pricey land",0.386,0
+46045,0,"Tax-light, pricey land",0.532,0
+46047,0,"Tax-light, pricey land",0.688,0
+46049,0,"Tax-light, pricey land",0.61,0
+46051,0,"Tax-light, pricey land",0.619,0
+46053,0,"Tax-light, pricey land",0.582,0
+46055,0,"Tax-light, pricey land",0.655,0
+46057,0,"Tax-light, pricey land",0.466,0
+46059,0,"Tax-light, pricey land",0.569,0
+46061,0,"Tax-light, pricey land",0.572,0
+46063,0,"Tax-light, pricey land",0.653,0
+46065,0,"Tax-light, pricey land",0.453,0
+46067,0,"Tax-light, pricey land",0.7,0
+46069,0,"Tax-light, pricey land",0.564,0
+46071,0,"Tax-light, pricey land",0.732,0
+46073,0,"Tax-light, pricey land",0.624,0
+46075,0,"Tax-light, pricey land",0.681,0
+46077,0,"Tax-light, pricey land",0.7,0
+46079,0,"Tax-light, pricey land",0.681,0
+46081,0,"Tax-light, pricey land",0.748,0
+46083,0,"Tax-light, pricey land",0.375,0
+46085,0,"Tax-light, pricey land",0.644,0
+46087,0,"Tax-light, pricey land",0.617,0
+46089,0,"Tax-light, pricey land",0.346,0
+46091,0,"Tax-light, pricey land",0.577,0
+46093,0,"Tax-light, pricey land",0.881,0
+46095,0,"Tax-light, pricey land",0.835,0
+46097,0,"Tax-light, pricey land",0.359,0
+46099,0,"Tax-light, pricey land",0.574,1
+46101,0,"Tax-light, pricey land",0.419,0
+46103,0,"Tax-light, pricey land",0.601,0
+46105,0,"Tax-light, pricey land",0.66,0
+46107,0,"Tax-light, pricey land",0.642,0
+46109,0,"Tax-light, pricey land",0.533,0
+46111,0,"Tax-light, pricey land",0.502,0
+46115,0,"Tax-light, pricey land",0.429,0
+46117,0,"Tax-light, pricey land",0.689,0
+46119,0,"Tax-light, pricey land",0.586,0
+46121,0,"Tax-light, pricey land",0.746,0
+46123,0,"Tax-light, pricey land",0.716,0
+46125,0,"Tax-light, pricey land",0.464,0
+46127,0,"Tax-light, pricey land",0.428,0
+46129,0,"Tax-light, pricey land",0.541,0
+46135,0,"Tax-light, pricey land",0.448,0
+46137,0,"Tax-light, pricey land",0.94,0
+47001,2,"Grid-close, cheap land",0.571,0
+47003,2,"Grid-close, cheap land",0.692,0
+47005,2,"Grid-close, cheap land",0.496,0
+47007,2,"Grid-close, cheap land",0.474,0
+47009,2,"Grid-close, cheap land",0.534,0
+47011,2,"Grid-close, cheap land",0.735,0
+47013,2,"Grid-close, cheap land",0.505,0
+47015,2,"Grid-close, cheap land",0.639,0
+47017,2,"Grid-close, cheap land",0.525,0
+47019,2,"Grid-close, cheap land",0.583,0
+47021,2,"Grid-close, cheap land",0.51,0
+47023,2,"Grid-close, cheap land",0.65,0
+47025,2,"Grid-close, cheap land",0.501,0
+47027,2,"Grid-close, cheap land",0.646,0
+47029,2,"Grid-close, cheap land",0.45,0
+47031,2,"Grid-close, cheap land",0.576,0
+47033,2,"Grid-close, cheap land",0.626,0
+47035,2,"Grid-close, cheap land",0.456,0
+47037,2,"Grid-close, cheap land",0.676,1
+47039,2,"Grid-close, cheap land",0.555,0
+47043,2,"Grid-close, cheap land",0.452,0
+47045,2,"Grid-close, cheap land",0.412,0
+47047,2,"Grid-close, cheap land",0.657,0
+47049,2,"Grid-close, cheap land",0.494,0
+47051,2,"Grid-close, cheap land",0.632,0
+47053,2,"Grid-close, cheap land",0.626,0
+47055,2,"Grid-close, cheap land",0.468,0
+47057,2,"Grid-close, cheap land",0.52,1
+47059,2,"Grid-close, cheap land",0.556,0
+47061,2,"Grid-close, cheap land",0.6,0
+47063,2,"Grid-close, cheap land",0.575,0
+47065,2,"Grid-close, cheap land",0.522,0
+47067,2,"Grid-close, cheap land",0.548,0
+47069,2,"Grid-close, cheap land",0.651,0
+47071,2,"Grid-close, cheap land",0.639,0
+47073,2,"Grid-close, cheap land",0.532,0
+47075,2,"Grid-close, cheap land",0.64,0
+47077,2,"Grid-close, cheap land",0.587,0
+47079,2,"Grid-close, cheap land",0.567,1
+47081,2,"Grid-close, cheap land",0.45,0
+47083,2,"Grid-close, cheap land",0.435,0
+47085,2,"Grid-close, cheap land",0.432,0
+47087,2,"Grid-close, cheap land",0.634,0
+47089,2,"Grid-close, cheap land",0.545,0
+47091,2,"Grid-close, cheap land",0.583,0
+47093,2,"Grid-close, cheap land",0.817,0
+47095,2,"Grid-close, cheap land",0.539,0
+47097,2,"Grid-close, cheap land",0.593,0
+47099,2,"Grid-close, cheap land",0.448,0
+47101,2,"Grid-close, cheap land",0.423,0
+47103,2,"Grid-close, cheap land",0.489,0
+47105,2,"Grid-close, cheap land",0.79,0
+47107,2,"Grid-close, cheap land",0.54,0
+47109,2,"Grid-close, cheap land",0.657,0
+47111,2,"Grid-close, cheap land",0.639,0
+47113,2,"Grid-close, cheap land",0.684,0
+47115,2,"Grid-close, cheap land",0.473,0
+47117,2,"Grid-close, cheap land",0.427,0
+47119,2,"Grid-close, cheap land",0.638,0
+47121,2,"Grid-close, cheap land",0.494,0
+47123,2,"Grid-close, cheap land",0.454,0
+47125,2,"Grid-close, cheap land",0.588,1
+47127,2,"Grid-close, cheap land",0.692,0
+47129,2,"Grid-close, cheap land",0.723,0
+47131,2,"Grid-close, cheap land",0.44,0
+47133,2,"Grid-close, cheap land",0.532,0
+47135,2,"Grid-close, cheap land",0.537,0
+47137,2,"Grid-close, cheap land",0.526,0
+47139,2,"Grid-close, cheap land",0.453,0
+47141,2,"Grid-close, cheap land",0.609,0
+47143,2,"Grid-close, cheap land",0.489,0
+47145,2,"Grid-close, cheap land",0.474,1
+47147,2,"Grid-close, cheap land",0.571,0
+47149,2,"Grid-close, cheap land",0.637,0
+47151,2,"Grid-close, cheap land",0.507,0
+47153,2,"Grid-close, cheap land",0.473,0
+47155,2,"Grid-close, cheap land",0.511,0
+47157,2,"Grid-close, cheap land",0.699,1
+47159,2,"Grid-close, cheap land",0.608,0
+47161,2,"Grid-close, cheap land",0.495,0
+47163,2,"Grid-close, cheap land",0.845,0
+47165,2,"Grid-close, cheap land",0.651,1
+47167,2,"Grid-close, cheap land",0.451,0
+47169,2,"Grid-close, cheap land",0.61,0
+47171,2,"Grid-close, cheap land",0.559,0
+47173,2,"Grid-close, cheap land",0.509,0
+47175,2,"Grid-close, cheap land",0.605,0
+47177,2,"Grid-close, cheap land",0.432,0
+47179,2,"Grid-close, cheap land",0.722,0
+47181,2,"Grid-close, cheap land",0.572,0
+47183,2,"Grid-close, cheap land",0.485,0
+47185,2,"Grid-close, cheap land",0.509,0
+47187,2,"Grid-close, cheap land",0.575,1
+47189,2,"Grid-close, cheap land",0.619,0
+47041,2,"Grid-close, cheap land",0.635,0
+48001,2,"Grid-close, cheap land",0.523,0
+48003,1,"Hot or dry, grid-remote",0.616,0
+48005,2,"Grid-close, cheap land",0.652,1
+48007,1,"Hot or dry, grid-remote",0.499,0
+48009,2,"Grid-close, cheap land",0.569,0
+48011,1,"Hot or dry, grid-remote",0.704,0
+48013,1,"Hot or dry, grid-remote",0.684,0
+48015,2,"Grid-close, cheap land",0.504,0
+48017,1,"Hot or dry, grid-remote",0.618,0
+48019,2,"Grid-close, cheap land",0.741,0
+48021,2,"Grid-close, cheap land",0.683,0
+48023,2,"Grid-close, cheap land",0.53,0
+48025,1,"Hot or dry, grid-remote",0.846,0
+48027,2,"Grid-close, cheap land",0.733,0
+48029,2,"Grid-close, cheap land",0.858,1
+48031,2,"Grid-close, cheap land",0.458,0
+48033,1,"Hot or dry, grid-remote",0.633,0
+48035,2,"Grid-close, cheap land",0.349,0
+48037,2,"Grid-close, cheap land",0.83,0
+48039,1,"Hot or dry, grid-remote",0.777,0
+48041,2,"Grid-close, cheap land",0.985,0
+48043,1,"Hot or dry, grid-remote",0.83,0
+48045,1,"Hot or dry, grid-remote",0.578,0
+48047,1,"Hot or dry, grid-remote",0.411,0
+48049,2,"Grid-close, cheap land",0.467,0
+48051,2,"Grid-close, cheap land",0.759,0
+48053,2,"Grid-close, cheap land",0.488,0
+48055,2,"Grid-close, cheap land",0.602,0
+48057,1,"Hot or dry, grid-remote",0.621,0
+48059,2,"Grid-close, cheap land",0.522,0
+48061,1,"Hot or dry, grid-remote",0.529,0
+48063,2,"Grid-close, cheap land",0.793,0
+48065,2,"Grid-close, cheap land",0.937,0
+48067,2,"Grid-close, cheap land",0.772,0
+48069,1,"Hot or dry, grid-remote",0.568,0
+48071,1,"Hot or dry, grid-remote",0.893,0
+48073,2,"Grid-close, cheap land",0.494,0
+48075,1,"Hot or dry, grid-remote",0.456,0
+48077,2,"Grid-close, cheap land",0.618,0
+48079,1,"Hot or dry, grid-remote",0.521,0
+48081,2,"Grid-close, cheap land",0.615,0
+48083,2,"Grid-close, cheap land",0.78,0
+48085,2,"Grid-close, cheap land",0.798,1
+48087,1,"Hot or dry, grid-remote",0.669,0
+48089,2,"Grid-close, cheap land",0.406,0
+48091,2,"Grid-close, cheap land",0.641,0
+48093,2,"Grid-close, cheap land",0.711,0
+48095,2,"Grid-close, cheap land",0.955,0
+48097,2,"Grid-close, cheap land",0.592,0
+48099,2,"Grid-close, cheap land",0.658,0
+48101,1,"Hot or dry, grid-remote",0.728,0
+48103,1,"Hot or dry, grid-remote",0.45,0
+48105,1,"Hot or dry, grid-remote",0.706,0
+48107,1,"Hot or dry, grid-remote",0.541,0
+48109,1,"Hot or dry, grid-remote",0.4,0
+48111,2,"Grid-close, cheap land",0.97,0
+48113,2,"Grid-close, cheap land",0.87,1
+48115,1,"Hot or dry, grid-remote",0.668,0
+48117,1,"Hot or dry, grid-remote",0.627,0
+48119,2,"Grid-close, cheap land",0.402,0
+48121,2,"Grid-close, cheap land",0.809,1
+48123,2,"Grid-close, cheap land",0.395,0
+48125,1,"Hot or dry, grid-remote",0.428,0
+48127,1,"Hot or dry, grid-remote",0.873,0
+48129,1,"Hot or dry, grid-remote",0.676,0
+48131,2,"Grid-close, cheap land",0.674,0
+48133,2,"Grid-close, cheap land",0.479,0
+48135,1,"Hot or dry, grid-remote",0.707,0
+48137,2,"Grid-close, cheap land",0.848,0
+48139,2,"Grid-close, cheap land",0.713,1
+48141,1,"Hot or dry, grid-remote",0.987,0
+48143,2,"Grid-close, cheap land",0.437,0
+48145,2,"Grid-close, cheap land",0.974,0
+48147,2,"Grid-close, cheap land",0.365,0
+48149,2,"Grid-close, cheap land",0.372,0
+48151,2,"Grid-close, cheap land",0.866,0
+48153,1,"Hot or dry, grid-remote",0.445,0
+48155,2,"Grid-close, cheap land",0.858,0
+48157,0,"Tax-light, pricey land",0.991,0
+48159,2,"Grid-close, cheap land",0.736,0
+48161,2,"Grid-close, cheap land",0.501,0
+48163,1,"Hot or dry, grid-remote",0.69,0
+48165,1,"Hot or dry, grid-remote",0.575,0
+48167,1,"Hot or dry, grid-remote",0.9,0
+48169,1,"Hot or dry, grid-remote",0.507,0
+48171,2,"Grid-close, cheap land",0.449,0
+48173,2,"Grid-close, cheap land",0.852,0
+48175,2,"Grid-close, cheap land",0.775,0
+48177,2,"Grid-close, cheap land",0.556,0
+48179,1,"Hot or dry, grid-remote",0.881,0
+48181,2,"Grid-close, cheap land",0.622,0
+48183,2,"Grid-close, cheap land",0.906,0
+48185,2,"Grid-close, cheap land",0.891,0
+48187,2,"Grid-close, cheap land",0.745,0
+48189,1,"Hot or dry, grid-remote",0.48,0
+48191,1,"Hot or dry, grid-remote",0.432,0
+48193,2,"Grid-close, cheap land",0.798,0
+48195,2,"Grid-close, cheap land",0.982,0
+48197,1,"Hot or dry, grid-remote",0.354,0
+48199,2,"Grid-close, cheap land",0.859,0
+48201,0,"Tax-light, pricey land",0.993,1
+48203,2,"Grid-close, cheap land",0.789,0
+48205,1,"Hot or dry, grid-remote",0.653,0
+48207,2,"Grid-close, cheap land",0.457,0
+48209,2,"Grid-close, cheap land",0.853,0
+48211,2,"Grid-close, cheap land",0.972,0
+48213,2,"Grid-close, cheap land",0.521,0
+48215,1,"Hot or dry, grid-remote",0.575,0
+48217,2,"Grid-close, cheap land",0.621,0
+48219,1,"Hot or dry, grid-remote",0.519,0
+48221,2,"Grid-close, cheap land",0.701,1
+48223,2,"Grid-close, cheap land",0.78,0
+48225,2,"Grid-close, cheap land",0.869,0
+48227,1,"Hot or dry, grid-remote",0.595,0
+48229,1,"Hot or dry, grid-remote",0.554,0
+48231,2,"Grid-close, cheap land",0.687,0
+48233,2,"Grid-close, cheap land",0.92,0
+48235,2,"Grid-close, cheap land",0.604,0
+48237,2,"Grid-close, cheap land",0.621,0
+48239,1,"Hot or dry, grid-remote",0.475,0
+48241,2,"Grid-close, cheap land",0.8,0
+48243,1,"Hot or dry, grid-remote",0.615,0
+48245,2,"Grid-close, cheap land",0.977,0
+48247,1,"Hot or dry, grid-remote",0.775,0
+48249,1,"Hot or dry, grid-remote",0.791,0
+48251,2,"Grid-close, cheap land",0.837,0
+48253,2,"Grid-close, cheap land",0.757,0
+48255,2,"Grid-close, cheap land",0.514,0
+48257,2,"Grid-close, cheap land",0.808,0
+48259,2,"Grid-close, cheap land",0.556,0
+48261,1,"Hot or dry, grid-remote",0.434,0
+48263,1,"Hot or dry, grid-remote",0.331,0
+48265,2,"Grid-close, cheap land",0.529,0
+48267,2,"Grid-close, cheap land",0.621,0
+48269,1,"Hot or dry, grid-remote",0.996,0
+48271,1,"Hot or dry, grid-remote",0.571,0
+48273,1,"Hot or dry, grid-remote",0.612,0
+48275,2,"Grid-close, cheap land",0.908,0
+48277,2,"Grid-close, cheap land",0.656,0
+48279,1,"Hot or dry, grid-remote",0.486,0
+48281,2,"Grid-close, cheap land",0.556,0
+48283,1,"Hot or dry, grid-remote",0.965,0
+48285,2,"Grid-close, cheap land",0.607,0
+48287,2,"Grid-close, cheap land",0.637,0
+48289,2,"Grid-close, cheap land",0.819,0
+48291,2,"Grid-close, cheap land",0.861,0
+48293,2,"Grid-close, cheap land",0.929,0
+48295,2,"Grid-close, cheap land",0.945,0
+48297,2,"Grid-close, cheap land",0.654,0
+48299,2,"Grid-close, cheap land",0.392,0
+48301,1,"Hot or dry, grid-remote",0.634,0
+48303,1,"Hot or dry, grid-remote",0.687,0
+48305,1,"Hot or dry, grid-remote",0.576,0
+48307,1,"Hot or dry, grid-remote",0.758,0
+48309,2,"Grid-close, cheap land",0.688,0
+48311,1,"Hot or dry, grid-remote",0.918,0
+48313,2,"Grid-close, cheap land",0.901,0
+48315,2,"Grid-close, cheap land",0.751,0
+48317,1,"Hot or dry, grid-remote",0.275,0
+48319,2,"Grid-close, cheap land",0.388,0
+48321,1,"Hot or dry, grid-remote",0.433,0
+48323,1,"Hot or dry, grid-remote",0.639,0
+48325,1,"Hot or dry, grid-remote",0.703,1
+48327,1,"Hot or dry, grid-remote",0.426,0
+48329,1,"Hot or dry, grid-remote",0.766,0
+48331,2,"Grid-close, cheap land",0.739,1
+48333,2,"Grid-close, cheap land",0.446,0
+48335,1,"Hot or dry, grid-remote",0.619,0
+48337,2,"Grid-close, cheap land",0.438,0
+48339,2,"Grid-close, cheap land",0.949,1
+48341,2,"Grid-close, cheap land",0.968,0
+48343,2,"Grid-close, cheap land",0.833,0
+48345,1,"Hot or dry, grid-remote",0.552,0
+48347,2,"Grid-close, cheap land",0.32,0
+48349,2,"Grid-close, cheap land",0.819,1
+48351,2,"Grid-close, cheap land",0.873,0
+48353,2,"Grid-close, cheap land",0.747,0
+48355,1,"Hot or dry, grid-remote",0.647,0
+48357,2,"Grid-close, cheap land",0.925,0
+48359,1,"Hot or dry, grid-remote",0.79,0
+48361,2,"Grid-close, cheap land",0.914,0
+48363,2,"Grid-close, cheap land",0.581,0
+48365,2,"Grid-close, cheap land",0.734,0
+48367,2,"Grid-close, cheap land",0.728,0
+48369,1,"Hot or dry, grid-remote",0.647,0
+48371,1,"Hot or dry, grid-remote",0.361,0
+48373,2,"Grid-close, cheap land",0.774,0
+48375,2,"Grid-close, cheap land",0.93,0
+48377,1,"Hot or dry, grid-remote",0.693,0
+48379,2,"Grid-close, cheap land",0.805,0
+48381,1,"Hot or dry, grid-remote",0.694,0
+48383,2,"Grid-close, cheap land",0.626,0
+48385,1,"Hot or dry, grid-remote",0.841,0
+48387,2,"Grid-close, cheap land",0.786,0
+48389,1,"Hot or dry, grid-remote",0.349,0
+48391,1,"Hot or dry, grid-remote",0.473,0
+48393,2,"Grid-close, cheap land",0.808,0
+48395,2,"Grid-close, cheap land",0.818,0
+48397,2,"Grid-close, cheap land",0.867,0
+48399,2,"Grid-close, cheap land",0.771,0
+48401,2,"Grid-close, cheap land",0.731,0
+48403,2,"Grid-close, cheap land",0.878,0
+48405,2,"Grid-close, cheap land",0.911,0
+48407,2,"Grid-close, cheap land",0.868,0
+48409,1,"Hot or dry, grid-remote",0.536,0
+48411,1,"Hot or dry, grid-remote",0.794,0
+48413,1,"Hot or dry, grid-remote",0.856,0
+48415,1,"Hot or dry, grid-remote",0.539,0
+48417,2,"Grid-close, cheap land",0.591,0
+48419,2,"Grid-close, cheap land",0.937,0
+48421,0,"Tax-light, pricey land",0.921,0
+48423,2,"Grid-close, cheap land",0.828,0
+48425,2,"Grid-close, cheap land",0.314,0
+48427,1,"Hot or dry, grid-remote",0.626,0
+48429,2,"Grid-close, cheap land",0.839,0
+48431,2,"Grid-close, cheap land",0.588,0
+48433,1,"Hot or dry, grid-remote",0.319,0
+48435,2,"Grid-close, cheap land",0.734,0
+48437,1,"Hot or dry, grid-remote",0.655,0
+48439,2,"Grid-close, cheap land",0.864,1
+48441,2,"Grid-close, cheap land",0.694,0
+48443,1,"Hot or dry, grid-remote",0.612,0
+48445,1,"Hot or dry, grid-remote",0.616,0
+48447,2,"Grid-close, cheap land",0.565,0
+48449,2,"Grid-close, cheap land",0.82,0
+48451,2,"Grid-close, cheap land",0.597,0
+48453,2,"Grid-close, cheap land",0.895,1
+48455,2,"Grid-close, cheap land",0.836,0
+48457,2,"Grid-close, cheap land",0.835,0
+48459,2,"Grid-close, cheap land",0.867,0
+48461,1,"Hot or dry, grid-remote",0.501,0
+48463,1,"Hot or dry, grid-remote",0.749,0
+48465,1,"Hot or dry, grid-remote",0.837,0
+48467,2,"Grid-close, cheap land",0.747,0
+48469,1,"Hot or dry, grid-remote",0.825,0
+48471,2,"Grid-close, cheap land",0.784,0
+48473,2,"Grid-close, cheap land",0.929,0
+48475,1,"Hot or dry, grid-remote",0.603,1
+48477,2,"Grid-close, cheap land",0.802,0
+48479,1,"Hot or dry, grid-remote",0.868,0
+48481,2,"Grid-close, cheap land",0.827,0
+48483,1,"Hot or dry, grid-remote",0.771,0
+48485,2,"Grid-close, cheap land",0.88,1
+48487,2,"Grid-close, cheap land",0.906,0
+48489,1,"Hot or dry, grid-remote",0.564,0
+48491,2,"Grid-close, cheap land",0.895,0
+48493,2,"Grid-close, cheap land",0.596,0
+48495,1,"Hot or dry, grid-remote",0.587,0
+48497,2,"Grid-close, cheap land",0.599,0
+48499,2,"Grid-close, cheap land",0.725,0
+48501,1,"Hot or dry, grid-remote",0.584,0
+48503,2,"Grid-close, cheap land",0.539,0
+48505,2,"Grid-close, cheap land",0.898,0
+48507,1,"Hot or dry, grid-remote",0.752,0
+49001,1,"Hot or dry, grid-remote",0.707,0
+49003,2,"Grid-close, cheap land",0.674,0
+49005,2,"Grid-close, cheap land",0.997,0
+49007,2,"Grid-close, cheap land",0.329,0
+49009,2,"Grid-close, cheap land",0.654,0
+49011,2,"Grid-close, cheap land",0.343,0
+49013,2,"Grid-close, cheap land",0.992,0
+49015,2,"Grid-close, cheap land",0.705,0
+49017,2,"Grid-close, cheap land",0.818,0
+49019,2,"Grid-close, cheap land",0.717,0
+49021,1,"Hot or dry, grid-remote",0.539,0
+49023,1,"Hot or dry, grid-remote",0.986,0
+49025,2,"Grid-close, cheap land",0.972,0
+49027,1,"Hot or dry, grid-remote",0.898,0
+49029,2,"Grid-close, cheap land",0.366,0
+49031,1,"Hot or dry, grid-remote",0.445,0
+49033,2,"Grid-close, cheap land",0.998,0
+49035,2,"Grid-close, cheap land",0.552,1
+49037,2,"Grid-close, cheap land",0.813,0
+49039,1,"Hot or dry, grid-remote",0.558,0
+49041,1,"Hot or dry, grid-remote",0.543,0
+49043,2,"Grid-close, cheap land",0.621,0
+49045,2,"Grid-close, cheap land",0.732,0
+49047,2,"Grid-close, cheap land",0.653,1
+49049,2,"Grid-close, cheap land",0.337,1
+49051,2,"Grid-close, cheap land",0.483,0
+49053,1,"Hot or dry, grid-remote",0.419,1
+49055,2,"Grid-close, cheap land",0.62,0
+49057,2,"Grid-close, cheap land",0.406,0
+50001,2,"Grid-close, cheap land",0.863,0
+50003,2,"Grid-close, cheap land",0.839,0
+50005,2,"Grid-close, cheap land",0.885,0
+50007,2,"Grid-close, cheap land",0.837,0
+50009,2,"Grid-close, cheap land",0.876,0
+50011,2,"Grid-close, cheap land",0.819,0
+50013,2,"Grid-close, cheap land",0.823,0
+50015,2,"Grid-close, cheap land",0.859,0
+50017,2,"Grid-close, cheap land",0.851,0
+50019,2,"Grid-close, cheap land",0.867,0
+50021,2,"Grid-close, cheap land",0.886,0
+50023,2,"Grid-close, cheap land",0.883,0
+50025,2,"Grid-close, cheap land",0.888,0
+50027,2,"Grid-close, cheap land",0.892,0
+51001,2,"Grid-close, cheap land",0.428,0
+51003,2,"Grid-close, cheap land",0.491,0
+51005,2,"Grid-close, cheap land",0.349,0
+51007,2,"Grid-close, cheap land",0.925,0
+51009,2,"Grid-close, cheap land",0.505,0
+51011,2,"Grid-close, cheap land",0.502,0
+51013,2,"Grid-close, cheap land",0.832,0
+51015,2,"Grid-close, cheap land",0.366,0
+51017,2,"Grid-close, cheap land",0.467,0
+51019,2,"Grid-close, cheap land",0.424,0
+51021,2,"Grid-close, cheap land",0.574,0
+51023,2,"Grid-close, cheap land",0.488,0
+51025,2,"Grid-close, cheap land",0.455,0
+51027,2,"Grid-close, cheap land",0.565,0
+51029,2,"Grid-close, cheap land",0.544,0
+51031,2,"Grid-close, cheap land",0.515,0
+51033,2,"Grid-close, cheap land",0.381,0
+51035,2,"Grid-close, cheap land",0.548,0
+51036,2,"Grid-close, cheap land",0.43,0
+51037,2,"Grid-close, cheap land",0.459,0
+51041,2,"Grid-close, cheap land",0.491,0
+51043,2,"Grid-close, cheap land",0.406,0
+51045,2,"Grid-close, cheap land",0.566,0
+51047,2,"Grid-close, cheap land",0.404,1
+51049,2,"Grid-close, cheap land",0.408,0
+51051,2,"Grid-close, cheap land",0.593,0
+51053,2,"Grid-close, cheap land",0.456,0
+51057,2,"Grid-close, cheap land",0.414,0
+51059,2,"Grid-close, cheap land",0.534,1
+51600,2,"Grid-close, cheap land",0.574,0
+51061,2,"Grid-close, cheap land",0.415,1
+51063,2,"Grid-close, cheap land",0.598,0
+51065,2,"Grid-close, cheap land",0.559,0
+51067,2,"Grid-close, cheap land",0.38,0
+51620,2,"Grid-close, cheap land",0.465,0
+51069,2,"Grid-close, cheap land",0.426,1
+51071,2,"Grid-close, cheap land",0.559,0
+51073,2,"Grid-close, cheap land",0.432,0
+51075,2,"Grid-close, cheap land",0.42,0
+51077,2,"Grid-close, cheap land",0.605,0
+51079,2,"Grid-close, cheap land",0.6,0
+51081,2,"Grid-close, cheap land",0.405,0
+51083,2,"Grid-close, cheap land",0.425,0
+51085,2,"Grid-close, cheap land",0.365,0
+51087,2,"Grid-close, cheap land",0.481,1
+51089,2,"Grid-close, cheap land",0.504,0
+51091,2,"Grid-close, cheap land",0.557,0
+51093,2,"Grid-close, cheap land",0.426,0
+51095,2,"Grid-close, cheap land",0.411,0
+51097,2,"Grid-close, cheap land",0.419,0
+51099,2,"Grid-close, cheap land",0.44,0
+51101,2,"Grid-close, cheap land",0.411,0
+51103,2,"Grid-close, cheap land",0.409,0
+51105,2,"Grid-close, cheap land",0.43,0
+51107,2,"Grid-close, cheap land",0.4,1
+51109,2,"Grid-close, cheap land",0.404,0
+51111,2,"Grid-close, cheap land",0.46,0
+51113,2,"Grid-close, cheap land",0.434,0
+51115,2,"Grid-close, cheap land",0.498,0
+51117,2,"Grid-close, cheap land",0.411,1
+51119,2,"Grid-close, cheap land",0.435,0
+51121,2,"Grid-close, cheap land",0.522,0
+51125,2,"Grid-close, cheap land",0.53,0
+51127,2,"Grid-close, cheap land",0.433,0
+51131,2,"Grid-close, cheap land",0.428,0
+51133,2,"Grid-close, cheap land",0.443,0
+51135,2,"Grid-close, cheap land",0.945,0
+51137,2,"Grid-close, cheap land",0.382,0
+51139,2,"Grid-close, cheap land",0.4,0
+51141,2,"Grid-close, cheap land",0.587,0
+51143,2,"Grid-close, cheap land",0.514,0
+51145,2,"Grid-close, cheap land",0.459,0
+51147,2,"Grid-close, cheap land",0.443,0
+51149,2,"Grid-close, cheap land",0.353,0
+51153,2,"Grid-close, cheap land",0.531,1
+51155,2,"Grid-close, cheap land",0.593,0
+51157,2,"Grid-close, cheap land",0.919,0
+51159,2,"Grid-close, cheap land",0.453,0
+51161,2,"Grid-close, cheap land",0.631,0
+51770,2,"Grid-close, cheap land",0.732,0
+51163,2,"Grid-close, cheap land",0.364,0
+51165,2,"Grid-close, cheap land",0.338,0
+51167,2,"Grid-close, cheap land",0.586,0
+51169,2,"Grid-close, cheap land",0.543,0
+51171,2,"Grid-close, cheap land",0.341,0
+51173,2,"Grid-close, cheap land",0.563,0
+51175,2,"Grid-close, cheap land",0.411,0
+51177,2,"Grid-close, cheap land",0.439,0
+51179,2,"Grid-close, cheap land",0.435,0
+51181,2,"Grid-close, cheap land",0.423,0
+51183,2,"Grid-close, cheap land",0.383,0
+51185,2,"Grid-close, cheap land",0.499,0
+51187,2,"Grid-close, cheap land",0.318,0
+51191,2,"Grid-close, cheap land",0.535,0
+51193,2,"Grid-close, cheap land",0.427,0
+51195,2,"Grid-close, cheap land",0.541,0
+51197,2,"Grid-close, cheap land",0.558,0
+51199,2,"Grid-close, cheap land",0.465,0
+51510,2,"Grid-close, cheap land",0.583,0
+51520,2,"Grid-close, cheap land",0.867,0
+51530,2,"Grid-close, cheap land",0.82,0
+51540,2,"Grid-close, cheap land",0.48,0
+51550,2,"Grid-close, cheap land",0.428,0
+51570,2,"Grid-close, cheap land",0.557,0
+51580,2,"Grid-close, cheap land",0.86,0
+51590,2,"Grid-close, cheap land",0.498,0
+51595,2,"Grid-close, cheap land",0.957,0
+51610,2,"Grid-close, cheap land",0.848,0
+51630,2,"Grid-close, cheap land",0.484,0
+51640,2,"Grid-close, cheap land",0.665,0
+51650,2,"Grid-close, cheap land",0.591,0
+51660,2,"Grid-close, cheap land",0.845,1
+51670,2,"Grid-close, cheap land",0.575,0
+51678,2,"Grid-close, cheap land",0.496,0
+51680,2,"Grid-close, cheap land",0.943,1
+51683,2,"Grid-close, cheap land",0.645,1
+51685,2,"Grid-close, cheap land",0.632,0
+51690,2,"Grid-close, cheap land",0.765,0
+51700,2,"Grid-close, cheap land",0.566,0
+51710,2,"Grid-close, cheap land",0.571,0
+51720,2,"Grid-close, cheap land",0.575,0
+51730,2,"Grid-close, cheap land",0.549,0
+51735,2,"Grid-close, cheap land",0.568,0
+51740,2,"Grid-close, cheap land",0.604,0
+51750,2,"Grid-close, cheap land",0.497,0
+51760,2,"Grid-close, cheap land",0.54,0
+51775,2,"Grid-close, cheap land",0.687,0
+51790,2,"Grid-close, cheap land",0.441,0
+51800,2,"Grid-close, cheap land",0.368,0
+51810,2,"Grid-close, cheap land",0.488,0
+51820,2,"Grid-close, cheap land",0.748,0
+51830,2,"Grid-close, cheap land",0.525,0
+51840,2,"Grid-close, cheap land",0.921,0
+53001,2,"Grid-close, cheap land",0.892,0
+53003,2,"Grid-close, cheap land",0.576,0
+53005,2,"Grid-close, cheap land",0.522,0
+53007,2,"Grid-close, cheap land",0.742,1
+53009,2,"Grid-close, cheap land",0.505,0
+53011,2,"Grid-close, cheap land",0.488,0
+53013,1,"Hot or dry, grid-remote",0.811,0
+53015,2,"Grid-close, cheap land",0.497,0
+53017,2,"Grid-close, cheap land",0.73,1
+53019,2,"Grid-close, cheap land",0.532,0
+53021,2,"Grid-close, cheap land",0.564,0
+53023,2,"Grid-close, cheap land",0.529,0
+53025,1,"Hot or dry, grid-remote",0.765,1
+53027,2,"Grid-close, cheap land",0.52,0
+53029,2,"Grid-close, cheap land",0.512,0
+53031,2,"Grid-close, cheap land",0.61,0
+53033,2,"Grid-close, cheap land",0.503,1
+53035,2,"Grid-close, cheap land",0.544,0
+53037,2,"Grid-close, cheap land",0.536,0
+53039,2,"Grid-close, cheap land",0.528,0
+53041,2,"Grid-close, cheap land",0.454,0
+53043,1,"Hot or dry, grid-remote",0.725,0
+53045,2,"Grid-close, cheap land",0.432,0
+53047,2,"Grid-close, cheap land",0.705,0
+53049,2,"Grid-close, cheap land",0.519,0
+53051,2,"Grid-close, cheap land",0.482,0
+53053,2,"Grid-close, cheap land",0.511,1
+53055,2,"Grid-close, cheap land",0.706,0
+53057,2,"Grid-close, cheap land",0.474,0
+53059,2,"Grid-close, cheap land",0.662,0
+53061,2,"Grid-close, cheap land",0.499,1
+53063,2,"Grid-close, cheap land",0.455,1
+53065,2,"Grid-close, cheap land",0.495,0
+53067,2,"Grid-close, cheap land",0.468,1
+53069,2,"Grid-close, cheap land",0.438,0
+53071,1,"Hot or dry, grid-remote",0.643,0
+53073,2,"Grid-close, cheap land",0.461,1
+53075,2,"Grid-close, cheap land",0.435,0
+53077,2,"Grid-close, cheap land",0.568,0
+54001,2,"Grid-close, cheap land",0.374,0
+54003,2,"Grid-close, cheap land",0.447,0
+54005,2,"Grid-close, cheap land",0.588,0
+54007,2,"Grid-close, cheap land",0.396,0
+54009,2,"Grid-close, cheap land",0.436,0
+54011,2,"Grid-close, cheap land",0.526,0
+54013,2,"Grid-close, cheap land",0.795,0
+54015,2,"Grid-close, cheap land",0.552,0
+54017,2,"Grid-close, cheap land",0.382,0
+54019,2,"Grid-close, cheap land",0.594,0
+54021,2,"Grid-close, cheap land",0.392,0
+54023,2,"Grid-close, cheap land",0.415,0
+54025,2,"Grid-close, cheap land",0.585,0
+54027,2,"Grid-close, cheap land",0.484,0
+54029,2,"Grid-close, cheap land",0.41,0
+54031,2,"Grid-close, cheap land",0.467,0
+54033,2,"Grid-close, cheap land",0.419,0
+54035,2,"Grid-close, cheap land",0.53,0
+54037,2,"Grid-close, cheap land",0.427,0
+54039,2,"Grid-close, cheap land",0.57,0
+54041,2,"Grid-close, cheap land",0.378,0
+54043,2,"Grid-close, cheap land",0.562,0
+54045,2,"Grid-close, cheap land",0.577,0
+54047,2,"Grid-close, cheap land",0.575,0
+54049,2,"Grid-close, cheap land",0.373,0
+54051,2,"Grid-close, cheap land",0.58,0
+54053,2,"Grid-close, cheap land",0.566,0
+54055,2,"Grid-close, cheap land",0.526,0
+54057,2,"Grid-close, cheap land",0.408,0
+54059,2,"Grid-close, cheap land",0.573,0
+54061,2,"Grid-close, cheap land",0.393,0
+54063,2,"Grid-close, cheap land",0.587,0
+54065,2,"Grid-close, cheap land",0.467,1
+54067,2,"Grid-close, cheap land",0.553,0
+54069,2,"Grid-close, cheap land",0.793,0
+54071,2,"Grid-close, cheap land",0.445,0
+54073,2,"Grid-close, cheap land",0.398,0
+54075,2,"Grid-close, cheap land",0.425,0
+54077,2,"Grid-close, cheap land",0.33,0
+54079,2,"Grid-close, cheap land",0.534,0
+54081,2,"Grid-close, cheap land",0.533,0
+54083,2,"Grid-close, cheap land",0.378,0
+54085,2,"Grid-close, cheap land",0.377,0
+54087,2,"Grid-close, cheap land",0.57,0
+54089,2,"Grid-close, cheap land",0.564,0
+54091,2,"Grid-close, cheap land",0.351,0
+54093,2,"Grid-close, cheap land",0.419,0
+54095,2,"Grid-close, cheap land",0.372,0
+54097,2,"Grid-close, cheap land",0.354,0
+54099,2,"Grid-close, cheap land",0.548,0
+54101,2,"Grid-close, cheap land",0.378,0
+54103,2,"Grid-close, cheap land",0.347,0
+54105,2,"Grid-close, cheap land",0.84,0
+54107,2,"Grid-close, cheap land",0.306,0
+54109,2,"Grid-close, cheap land",0.577,0
+55001,0,"Tax-light, pricey land",0.497,0
+55003,0,"Tax-light, pricey land",0.666,0
+55005,0,"Tax-light, pricey land",0.663,0
+55007,0,"Tax-light, pricey land",0.78,0
+55009,0,"Tax-light, pricey land",0.554,0
+55011,0,"Tax-light, pricey land",0.597,0
+55013,0,"Tax-light, pricey land",0.7,0
+55015,0,"Tax-light, pricey land",0.512,1
+55017,0,"Tax-light, pricey land",0.61,0
+55019,0,"Tax-light, pricey land",0.656,0
+55021,0,"Tax-light, pricey land",0.573,1
+55023,0,"Tax-light, pricey land",0.638,0
+55025,0,"Tax-light, pricey land",0.695,1
+55027,0,"Tax-light, pricey land",0.512,1
+55029,0,"Tax-light, pricey land",0.605,0
+55031,0,"Tax-light, pricey land",0.478,0
+55033,0,"Tax-light, pricey land",0.658,1
+55035,0,"Tax-light, pricey land",0.569,0
+55037,0,"Tax-light, pricey land",0.523,0
+55039,0,"Tax-light, pricey land",0.541,0
+55041,0,"Tax-light, pricey land",0.588,0
+55043,0,"Tax-light, pricey land",0.522,0
+55045,0,"Tax-light, pricey land",0.54,0
+55047,0,"Tax-light, pricey land",0.498,0
+55049,0,"Tax-light, pricey land",0.478,0
+55051,0,"Tax-light, pricey land",0.573,0
+55053,0,"Tax-light, pricey land",0.509,0
+55055,0,"Tax-light, pricey land",0.586,0
+55057,0,"Tax-light, pricey land",0.495,0
+55059,0,"Tax-light, pricey land",0.604,0
+55061,0,"Tax-light, pricey land",0.721,0
+55063,0,"Tax-light, pricey land",0.579,0
+55065,0,"Tax-light, pricey land",0.473,0
+55067,0,"Tax-light, pricey land",0.383,0
+55069,0,"Tax-light, pricey land",0.503,0
+55071,0,"Tax-light, pricey land",0.534,0
+55073,0,"Tax-light, pricey land",0.513,0
+55075,0,"Tax-light, pricey land",0.478,0
+55077,0,"Tax-light, pricey land",0.478,1
+55078,0,"Tax-light, pricey land",0.828,0
+55079,0,"Tax-light, pricey land",0.633,1
+55081,0,"Tax-light, pricey land",0.603,0
+55083,0,"Tax-light, pricey land",0.529,0
+55085,0,"Tax-light, pricey land",0.664,0
+55087,0,"Tax-light, pricey land",0.486,0
+55089,0,"Tax-light, pricey land",0.698,0
+55091,0,"Tax-light, pricey land",0.598,0
+55093,0,"Tax-light, pricey land",0.704,0
+55095,0,"Tax-light, pricey land",0.67,0
+55097,0,"Tax-light, pricey land",0.432,0
+55099,0,"Tax-light, pricey land",0.663,0
+55101,0,"Tax-light, pricey land",0.608,1
+55103,0,"Tax-light, pricey land",0.51,0
+55105,0,"Tax-light, pricey land",0.698,0
+55107,0,"Tax-light, pricey land",0.693,0
+55109,0,"Tax-light, pricey land",0.844,0
+55111,0,"Tax-light, pricey land",0.599,0
+55113,0,"Tax-light, pricey land",0.815,0
+55115,0,"Tax-light, pricey land",0.487,0
+55117,0,"Tax-light, pricey land",0.697,0
+55119,0,"Tax-light, pricey land",0.575,0
+55121,0,"Tax-light, pricey land",0.569,0
+55123,0,"Tax-light, pricey land",0.619,0
+55125,0,"Tax-light, pricey land",0.762,0
+55127,0,"Tax-light, pricey land",0.648,1
+55129,0,"Tax-light, pricey land",0.722,0
+55131,0,"Tax-light, pricey land",0.553,0
+55133,0,"Tax-light, pricey land",0.717,1
+55135,0,"Tax-light, pricey land",0.509,0
+55137,0,"Tax-light, pricey land",0.46,0
+55139,0,"Tax-light, pricey land",0.579,0
+55141,0,"Tax-light, pricey land",0.64,0
+56001,2,"Grid-close, cheap land",0.987,0
+56003,1,"Hot or dry, grid-remote",0.982,0
+56005,1,"Hot or dry, grid-remote",0.604,1
+56007,2,"Grid-close, cheap land",0.647,0
+56009,1,"Hot or dry, grid-remote",0.911,0
+56011,2,"Grid-close, cheap land",0.484,0
+56013,2,"Grid-close, cheap land",0.92,0
+56015,1,"Hot or dry, grid-remote",0.454,0
+56017,1,"Hot or dry, grid-remote",0.924,0
+56019,1,"Hot or dry, grid-remote",0.499,0
+56021,1,"Hot or dry, grid-remote",0.392,1
+56023,2,"Grid-close, cheap land",0.578,0
+56025,2,"Grid-close, cheap land",0.873,0
+56027,1,"Hot or dry, grid-remote",0.565,0
+56029,2,"Grid-close, cheap land",0.872,0
+56031,2,"Grid-close, cheap land",0.673,0
+56033,2,"Grid-close, cheap land",0.799,0
+56035,2,"Grid-close, cheap land",0.726,0
+56037,2,"Grid-close, cheap land",0.726,0
+56039,2,"Grid-close, cheap land",0.667,0
+56041,2,"Grid-close, cheap land",0.521,0
+56043,1,"Hot or dry, grid-remote",0.842,0
+56045,1,"Hot or dry, grid-remote",0.397,0
