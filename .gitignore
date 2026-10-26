@@ -1,4 +1,7 @@
-.DS_Store
+data/cerf_siting/output/stage1_cerf_extraction/cerf_extracted/
 data/census/
+
+.ipynb_checkpoints/
 *.pkl
-.ipynb_checkpoints/"data/cerf_siting/output/stage1_cerf_extraction/cerf_extracted/" 
+
+.DS_Store
