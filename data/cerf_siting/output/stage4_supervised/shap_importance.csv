@@ -1,0 +1,30 @@
+,mean_abs_shap,group,direction
+land_value_dollar_per_sqft_mean,0.70614856,Land and taxes,0.9089412289101179
+composite_siting_suitability_mean,0.35023096,Grid access and suitability,0.9532226088413451
+distance_to_substation_mean,0.24449135,Grid access and suitability,-0.5732876226968482
+pol_share_rights,0.15636,AI policy,0.2123858911061772
+div_mountain,0.12894286,Geography,0.4973541904766027
+commercial_electricity_rates_dollar_per_kwh_mean,0.08852983,Electricity cost,0.6919688900281261
+real_property_tax_rate_mean,0.07417483,Land and taxes,0.8980079511789028
+div_pacific,0.06284121,Geography,0.35117680745789503
+pol_share_public,0.054017473,AI policy,0.1328798676113488
+sales_tax_rate_mean,0.048678778,Land and taxes,0.0742075901271563
+industrial_electricity_rates_dollar_per_kwh_mean,0.040456884,Electricity cost,-0.4530132909602236
+composite_siting_suitability_max,0.035302307,Grid access and suitability,0.6914338478848485
+mechanical_cooling_fraction_mean,0.032810386,Cooling,0.7550518763617291
+pol_pass_rate,0.01827617,AI policy,-0.575478411772063
+div_west_north_central,0.009694469,Geography,-0.7016845159137962
+distance_to_substation_min,0.008943957,Grid access and suitability,-0.3289978006233437
+pol_first_year,0.008086834,AI policy,-0.7182928049048452
+div_south_atlantic,0.007953656,Geography,-0.34987460622914124
+pol_bills_log,0.005534389,AI policy,0.7898859330725732
+pol_share_regulatory,0.0053076716,AI policy,-0.7102552330666642
+div_east_south_central,0.0052732695,Geography,-0.6713290357191646
+pol_enacted_log,0.004192763,AI policy,0.7914426150539143
+pol_infra_enacted,0.002337607,AI policy,0.7875322326240505
+div_new_england,0.0006765233,Geography,-0.5119371423644054
+personal_property_tax_rate_mean,0.0,Land and taxes,
+div_middle_atlantic,0.0,Geography,
+div_east_north_central,0.0,Geography,
+div_west_south_central,0.0,Geography,
+pol_infra_bills,0.0,AI policy,

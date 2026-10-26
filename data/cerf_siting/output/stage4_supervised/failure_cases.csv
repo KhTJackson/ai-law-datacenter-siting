@@ -1,0 +1,4 @@
+county_fips,case,county_name,state_abbr,has_data_center,atlas_record_count,max_sqft,operators,p_infra,p_geo,p,policy_shift,population_2024
+42045,Confident false positive,DELAWARE,PA,0,0,,,0.7859981383007485,0.7333492101293958,0.9259259259259259,0.19257671579653013,584882
+41013,Missed campus,CROOK,OR,1,13,17379079.0,"Apple, Meta",0.019179349243147435,0.0090707145501666,0.0088435893520639,-0.0002271251981027008,27336
+13121,Policy moved it the wrong way,FULTON,GA,1,16,1294301.0,"Ascent, CoreSite, Digital Realty, Flexential",0.7884615384615384,0.8030303030303031,0.5396351575456053,-0.2633951454846978,1090354

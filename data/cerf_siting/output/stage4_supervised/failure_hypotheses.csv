@@ -1,0 +1,7 @@
+hypothesis,finding
+Label noise,"The 20 highest-scoring counties without an atlas facility have median population 485,604 (all counties 26,172); 17 of 20 are in the largest population quintile"
+Policy is constant within a state,4.5% of residual variance lies between states; in the median state 78% of counties move the same direction when policy is added
+Missing demand features,Largest population quintile: observed rate 30.5% vs predicted 20.8%; smallest three quintiles: 1.0% vs 4.1%. Adding log population and density lifts XGBoost PR-AUC from 0.378 to 0.519
+Rural hyperscale outliers,"At p >= 0.2, 134 of 245 positive counties are missed; median largest facility 119,102 sq ft vs 143,011 for caught counties. Of the 52 counties whose largest facility is 1 million sq ft or more, 36 are missed; 18 of those are rural (under 100,000 people)"
+Temporal mismatch,Not testable: the atlas has no build dates
+Raster artifacts,"15 counties with impossible electricity rates: 2 positive (Aiken SC, Berkeley SC, p = 0.15, 0.03); mean |residual| 0.182 vs 0.122 elsewhere; electricity alone scores PR-AUC 0.081 (no skill 0.079)"

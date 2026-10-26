@@ -1,0 +1,5 @@
+model,geo_gain,geo_gain_sd,policy_gain,policy_gain_sd,policy_wins
+Logistic regression,0.006,0.027,-0.023,0.043,5 of 15
+k-nearest neighbors,-0.005,0.058,-0.009,0.044,4 of 15
+Balanced random forest,0.01,0.024,0.011,0.028,8 of 15
+XGBoost,0.011,0.025,0.009,0.03,9 of 15

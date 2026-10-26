@@ -1,0 +1,1 @@
+{"Logistic regression":{"C":"0.01"},"k-nearest neighbors":{"n_neighbors":"25.0","weights":"distance"},"Balanced random forest":{"max_depth":"6.0","min_samples_leaf":"5.0"},"XGBoost":{"max_depth":"2.0","learning_rate":"0.03","n_estimators":"200.0"}}
