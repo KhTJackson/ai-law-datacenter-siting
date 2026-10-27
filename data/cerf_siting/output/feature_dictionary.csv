@@ -1,0 +1,10 @@
+feature,group,definition
+pol_bills_log,Attention and follow-through,"ln(1 + AI bills introduced, 2018-2025 sessions)"
+pol_enacted_log,Attention and follow-through,ln(1 + AI bills enacted or adopted)
+pol_pass_rate,Attention and follow-through,"Share of decided bills that passed, shrunk to the national 0.31 with a 5-bill prior"
+pol_first_year,Timing,First session year with an AI bill (biennial sessions count from their first year)
+pol_share_regulatory,Content,"Share of bills regulating private-sector AI (private sector, notification, impact assessment, oversight, responsible use, private right of action), shrunk"
+pol_share_public,Content,"Share of bills on government, judicial use, appropriations or audit, shrunk"
+pol_share_rights,Content,"Share of bills on criminal use, AI-generated child sexual abuse material, elections, personhood or provenance, shrunk"
+pol_infra_bills,Infrastructure bills,"ln(1 + bills tagged energy or taxes, or mentioning data centers)"
+pol_infra_enacted,Infrastructure bills,1 if any such bill passed
