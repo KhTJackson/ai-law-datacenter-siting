@@ -1,0 +1,23 @@
+{
+  "model": "XGBoost, calibrated",
+  "finding": "No. State AI policy moved PR-AUC by only +0.009 beyond knowing the region, inside fold-to-fold noise (\u00b10.030) and not reliably better than policy shuffled between states. Land value and grid access carry the signal.",
+  "base_rate": 0.079058,
+  "permutation_p": 0.109,
+  "scores": [
+    {
+      "features": "Infrastructure only",
+      "pr_auc": 0.361856,
+      "brier": 0.063446
+    },
+    {
+      "features": "Infrastructure + region",
+      "pr_auc": 0.372358,
+      "brier": 0.063266
+    },
+    {
+      "features": "Infrastructure + region + AI policy",
+      "pr_auc": 0.381284,
+      "brier": 0.062476
+    }
+  ]
+}
