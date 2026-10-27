@@ -34,3 +34,22 @@ Notebooks 05–11 need `scripts/pipeline_config.py`.
 - [IM3 Data Center Atlas and projections](https://im3.pnnl.gov/datacenter-atlas) (PNNL)
 - [NCSL AI legislation database](https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation), 2019–2025
 - U.S. Census Bureau: [county population estimates](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv) and [county boundaries](https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip)
+
+
+### My Contributions
+
+**Role: Data Engineering and Machine Learning**
+
+Contributed to a collaborative University of Michigan Master of Applied Data Science project examining U.S. data center siting using geospatial data, infrastructure characteristics, and state AI policy.
+
+Key contributions included:
+
+- **Data Engineering:** Extracted and transformed CERF geospatial raster datasets into county-level tabular features.
+- **Data Integration:** Cleaned and integrated multiple datasets using county FIPS identifiers.
+- **Supervised Learning:** Developed and evaluated classification approaches to predict counties hosting data centers.
+- **Unsupervised Learning:** Implemented K-means and Gaussian Mixture Model clustering, including PCA visualization and cluster evaluation.
+- **Project Collaboration:** Contributed modeling notebooks, preprocessing workflows, and analytical documentation.
+
+*This project was completed collaboratively. The full repository and Git history recognize contributions from the project team.*
+
+**Original team repository:** https://github.com/chalseokorom/ai-law-datacenter-siting
